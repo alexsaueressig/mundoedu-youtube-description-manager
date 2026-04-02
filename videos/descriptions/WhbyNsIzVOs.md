@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=WhbyNsIzVOs
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#matematica
+https://mundoedu.com.br/plano-de-estudos
 
 Nesta videoaula, o professor Gui vai resolver alguns exercícios sobre função afim envolvendo determinação da lei da função e cálculo do valor numérico, além de dar dicas SUPER importantes para a resolução dessas questões na prova do ENEM.
 

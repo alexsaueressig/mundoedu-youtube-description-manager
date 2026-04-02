@@ -15,6 +15,6 @@ A modernidade é o período de maior crescimento intelectual da história. Um pe
 👉 O que é o imperativo categórico?
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#filosofia
+https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #Filosofia #FilosofiaMoral

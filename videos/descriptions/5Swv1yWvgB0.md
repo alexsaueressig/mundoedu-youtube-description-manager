@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=5Swv1yWvgB0
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#quimica
+https://mundoedu.com.br/plano-de-estudos
 
 Fica com medinho só de ouvir a palavra "estequiometria"? 😱
 Caaaaalma o coração, porque nesta aula o professor Camacho vai mostrar como é relativamente fácil entender e resolver os cálculos estequiométricos.

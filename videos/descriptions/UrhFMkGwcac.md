@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=UrhFMkGwcac
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#matematica
+https://mundoedu.com.br/plano-de-estudos
 
 Porcentagem é um assunto muito frequente na prova do ENEM. Nesta videoaula, o professor Gui Valenzuela explica o que é porcentagem: representações, exemplos, dicas e exercícios resolvidos.
 

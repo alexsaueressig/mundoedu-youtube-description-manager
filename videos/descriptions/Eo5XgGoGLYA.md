@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=Eo5XgGoGLYA
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#quimica
+https://mundoedu.com.br/plano-de-estudos
 
 Qual o conceito de gases?
 O que são transformações gasosas?

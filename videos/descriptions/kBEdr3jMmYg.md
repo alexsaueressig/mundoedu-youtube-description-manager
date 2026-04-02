@@ -8,7 +8,7 @@ Quais são os tipos de divisão celular?
 Quais as principais fases da divisão celular? 
 O que é a mitose e meiose?
 
-✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos#biologia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 
 DIVISÕES CELULARES são processos através dos quais uma célula-mãe dá origem a duas ou mais células-filhas. Elas são necessárias para o crescimento de organismos multicelulares, para a substituição de células velhas, para a cicatrização, para reprodução e tantas outras finalidades.
 

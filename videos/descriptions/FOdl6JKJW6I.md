@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=FOdl6JKJW6I
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#quimica
+https://mundoedu.com.br/plano-de-estudos
 
 Qual é a equação geral dos gases ideais ou equação de Clapeyron?
 O que significa a equação "PV = nRT"?

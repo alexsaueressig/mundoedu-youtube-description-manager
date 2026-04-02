@@ -7,4 +7,4 @@ url: https://www.youtube.com/watch?v=6F_0u1VfoCU
 O vídeo mais esperado DO ANO com a convidada mais requisitada! 😍😍😍
 
 ✫ Plano de Estudos COMPLETO:
-https://mundoedu.com.br/plano-de-estudos#redacao
+https://mundoedu.com.br/plano-de-estudos

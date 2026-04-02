@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=d0V9tf5xUQs
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#matematica
+https://mundoedu.com.br/plano-de-estudos
 
 Múltiplos, divisores, mínimo múltiplo comum (MMC), máximo divisor comum (MDC), números primos, exercícios resolvidos...
 

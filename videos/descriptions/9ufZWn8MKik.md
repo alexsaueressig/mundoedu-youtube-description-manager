@@ -11,7 +11,7 @@ url: https://www.youtube.com/watch?v=9ufZWn8MKik
 🍄 Qual a importância dos fungos?
 
 ✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#biologia
+https://mundoedu.com.br/plano-de-estudos
 
 🌿 BOTÂNICA - MÓDULO COMPLETO (videoaulas + apostilas)
 ✔️ Aula 1 - Briófitas e pteridófitas: https://mundoedu.com.br/videoaula/514

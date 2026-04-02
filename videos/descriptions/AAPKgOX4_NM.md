@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=AAPKgOX4_NM
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#quimica
+https://mundoedu.com.br/plano-de-estudos
 
 Say my name!
 Nesta videoaula, vamos estudar os modelos atômicos propostos por Demócrito e Leucipo, Dalton, Thomson, Rutherford, Bohr e o modelo atual.

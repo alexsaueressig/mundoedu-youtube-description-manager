@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=ZtwPh3yGkO0
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#fisica
+https://mundoedu.com.br/plano-de-estudos
 
 👉 03:48 - 1ª Primeira Lei de Newton (Lei da Inércia): 
 👉 05:01 - 2ª Segunda Lei de Newton (Princípio Fundamental)

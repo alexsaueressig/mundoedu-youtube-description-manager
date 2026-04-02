@@ -13,6 +13,6 @@ url: https://www.youtube.com/watch?v=jMyOgUzPceY
 - Gênero narrativo (gênero moderno - a partir do século XIX)
 
 📚 PLANO DE ESTUDOS DE LITERATURA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#literatura
+https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #Literatura

@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=VjqYjVJogb4
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#filosofia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 NICOLAU MAQUIAVEL: famoso pensador do período moderno da filosofia, também autor do famoso livro "O Príncipe".
 

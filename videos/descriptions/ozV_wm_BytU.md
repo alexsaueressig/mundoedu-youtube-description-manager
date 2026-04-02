@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=ozV_wm_BytU
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#fisica
+https://mundoedu.com.br/plano-de-estudos
 
 Saaalve, salve, queridões do MundoEdu!
 Hoje vamos falar sobre uma assunto que certamente vai estar na tua prova do ENEM: os sistemas termodinâmicos.

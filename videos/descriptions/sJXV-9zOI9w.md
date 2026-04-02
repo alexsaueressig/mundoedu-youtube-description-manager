@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=sJXV-9zOI9w
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👥 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#sociologia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Quais são os direitos democráticos? 
 👉 O que é um Estado Democrático de Direito?

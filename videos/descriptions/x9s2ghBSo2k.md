@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=x9s2ghBSo2k
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 ✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#biologia
+https://mundoedu.com.br/plano-de-estudos
 
 🌿 BOTÂNICA - MÓDULO COMPLETO (videoaulas + apostilas)
 ✔️ Aula 1 - Briófitas e pteridófitas: https://mundoedu.com.br/videoaula/514

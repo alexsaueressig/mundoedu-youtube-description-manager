@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=fWsLAPAxlnU
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🎭 PLANO DE ESTUDOS DE ARTES - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#artes
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Quais as principais características da arte grega?
 👉 Quais os temas da arte grega?

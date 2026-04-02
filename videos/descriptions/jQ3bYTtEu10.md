@@ -8,6 +8,6 @@ url: https://www.youtube.com/watch?v=jQ3bYTtEu10
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#fisica
+https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #Física #Dinâmica

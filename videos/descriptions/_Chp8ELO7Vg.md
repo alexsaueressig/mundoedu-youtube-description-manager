@@ -18,6 +18,6 @@ Principais tópicos:
 - Energias alternativas: eólica, solar, oceânica (Pecém)
 
 🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#geografia
+https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #Geografia #ProduçãoDeEnergia

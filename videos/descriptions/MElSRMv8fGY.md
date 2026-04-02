@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=MElSRMv8fGY
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#quimica
+https://mundoedu.com.br/plano-de-estudos
 
 Nesta videoaula, o professor Camacho vai falar sobre as Leis Ponderais de Lavoisier, Proust e Gay-Lussac, que relacionam as massas das substâncias em uma reação química.
 

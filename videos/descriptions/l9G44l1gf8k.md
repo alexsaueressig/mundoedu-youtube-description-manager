@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=l9G44l1gf8k
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 ✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#biologia
+https://mundoedu.com.br/plano-de-estudos
 
 👩‍⚕️ FISIOLOGIA - MÓDULO COMPLETO (videoaulas + apostilas)
 ✔️ Aula 1 - Sistema nervoso: https://mundoedu.com.br/videoaula/519

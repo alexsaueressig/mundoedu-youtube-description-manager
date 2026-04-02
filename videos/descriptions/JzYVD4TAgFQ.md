@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=JzYVD4TAgFQ
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#matematica
+https://mundoedu.com.br/plano-de-estudos
 
 Nesta videoaula, o professor Gui Valenzuela vai falar sobre a Função Afim: lei da função, valor numérico da função e exemplos.
 

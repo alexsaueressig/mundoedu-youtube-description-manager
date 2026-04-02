@@ -8,6 +8,6 @@ url: https://www.youtube.com/watch?v=s08L2MnE6bQ
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#quimica
+https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #Química #CompostosOrgânicos

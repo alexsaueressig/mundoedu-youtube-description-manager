@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=9cK_1NG7ZAg
 
 * MundoEdu: O melhor cursinho online agora é 100% gratuito! *
 
-✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos#biologia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 
 Ewwwwww! 🤢 Nesta aula, o professor Guerra vai falar das principais doenças causadas por vermes platelmintos e nematelmintos.
 

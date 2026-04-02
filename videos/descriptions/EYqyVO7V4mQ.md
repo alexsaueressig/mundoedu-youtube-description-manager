@@ -13,7 +13,7 @@ url: https://www.youtube.com/watch?v=EYqyVO7V4mQ
 💉 Qual é o tipo de sangue universal?
 
 ✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#biologia
+https://mundoedu.com.br/plano-de-estudos
 
 🧬 GENÉTICA - MÓDULO COMPLETO (videoaulas + apostilas)
 ✔️ Aula 1 - 1ª Lei de Mendel: https://mundoedu.com.br/videoaula/527

@@ -93,6 +93,6 @@ Palavra que imita sons.
 Exemplo: "O tic-tac do relógio."
 
 📚 PLANO DE ESTUDOS DE LITERATURA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#literatura 
+https://mundoedu.com.br/plano-de-estudos 
 
 #ENEM #Literatura

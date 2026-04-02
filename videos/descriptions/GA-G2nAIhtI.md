@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=GA-G2nAIhtI
 
 * MundoEdu: O melhor cursinho online agora é 100% gratuito! *
 
-✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos#biologia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 
 ❓ O que é a Doença de Chagas? 
 ❓ Quais as formas de transmissão da doença de Chagas?

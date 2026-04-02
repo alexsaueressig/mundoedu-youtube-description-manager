@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=9Y_O0on6ZKE
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#fisica
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Videoaula do professor Vasco sobre variação de temperatura  e mudanças de estado físico (solidificação, vaporização, condensação, sublimação...).
 

@@ -7,6 +7,6 @@ url: https://www.youtube.com/watch?v=NtAofrANS3s
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🎭 PLANO DE ESTUDOS DE ARTES - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#artes
+https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #Artes #ArteModerna

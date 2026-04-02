@@ -14,6 +14,6 @@ Videoaulas + Apostilas:
 ✔️ Anos 2000: https://mundoedu.com.br/videoaula/343
 
 📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#historia
+https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #História #HistóriaDoBrasil

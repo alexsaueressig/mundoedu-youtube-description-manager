@@ -8,7 +8,7 @@ url: https://www.youtube.com/watch?v=P96Rb8qU5tQ
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#filosofia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Em que acreditava Aristóteles? 
 👉 Em que consiste a teoria do conhecimento de Aristóteles? 

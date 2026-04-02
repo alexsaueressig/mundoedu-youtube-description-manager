@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=oc3Xo7pRaHM
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#filosofia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Qual o conceito de feminismo?
 👉 Quando e onde surgiu o feminismo?

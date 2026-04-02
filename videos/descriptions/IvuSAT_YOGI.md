@@ -8,7 +8,7 @@ url: https://www.youtube.com/watch?v=IvuSAT_YOGI
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#filosofia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 O que é racionalismo e empirismo na filosofia? 
 👉 Em que consiste o empirismo? 

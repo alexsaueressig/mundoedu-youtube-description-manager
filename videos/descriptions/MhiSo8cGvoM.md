@@ -20,6 +20,6 @@ url: https://www.youtube.com/watch?v=MhiSo8cGvoM
 - Aula 7 - Desequilíbrios ambientais: https://mundoedu.com.br/videoaula/543
 
 ✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#biologia
+https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #Biologia #Ecologia

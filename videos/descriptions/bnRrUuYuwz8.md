@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=bnRrUuYuwz8
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#geografia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Hoje vamos falar de BRICS! Essa sopa de letrinhas que representa as maiores potências emergentes do mundo atual: Brasil, Rússia, Índia, China e África do Sul. Mas o que eu preciso saber sobre os BRICS? Só assistindo à aula, criatura!
 

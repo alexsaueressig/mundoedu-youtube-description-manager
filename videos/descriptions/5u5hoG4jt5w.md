@@ -8,7 +8,7 @@ url: https://www.youtube.com/watch?v=5u5hoG4jt5w
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#matematica
+https://mundoedu.com.br/plano-de-estudos
 
 Já ouviu falar da fórmula de Bhaskara, né? 🤓 x = – b ± √Δ / 2a
 Então se liga que nesta videoaula, o professor Gui vai explicar a lei, os gráficos e os zeros da função quadrática e quando a gente vai usar a tal fórmula de Bhaskara.

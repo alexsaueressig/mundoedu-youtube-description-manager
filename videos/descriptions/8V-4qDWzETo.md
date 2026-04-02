@@ -8,7 +8,7 @@ url: https://www.youtube.com/watch?v=8V-4qDWzETo
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#matematica
+https://mundoedu.com.br/plano-de-estudos
 
 Quer calcular a probabilidade d@ crush te chamar pra sair? Ou a probabilidade de acertar os números da loteria? E a probabilidade de ganhar uma promoshare? Nesta videoaula, o professor Gui vai ensinar o que são probabilidades: espaço amostral, evento e cálculo.
 

@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=YIeEtjW_UJQ
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#quimica
+https://mundoedu.com.br/plano-de-estudos
 
 Nesta videoaula, o professor Camacho fala dos métodos de separação de misturas: catação, peneiração, ventilação, levigação, decantação, filtração, evaporação, centrifugação, destilação, dissolução e cromatografia.
 

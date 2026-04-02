@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=5ZLUz0at42E
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#filosofia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Nesta videoaula, o professor Betover fala sobre o que é a ciência, seu conceito e sua origem.
 

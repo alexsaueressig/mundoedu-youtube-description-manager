@@ -9,4 +9,4 @@ Vídeo feito com muito carinho para a galera do Colégio Estadual Humberto Mende
 #MundoEdu #Artes 
 
 🎭 PLANO DE ESTUDOS DE ARTES - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#artes
+https://mundoedu.com.br/plano-de-estudos

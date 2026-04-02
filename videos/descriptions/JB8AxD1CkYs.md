@@ -16,7 +16,7 @@ url: https://www.youtube.com/watch?v=JB8AxD1CkYs
 ✔️ 8:02 Pantanal
 
 ✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#biologia
+https://mundoedu.com.br/plano-de-estudos
 
 🌱 ECOLOGIA - MÓDULO COMPLETO (videoaulas + apostilas)
 - Aula 1 - Biomas: https://mundoedu.com.br/videoaula/536

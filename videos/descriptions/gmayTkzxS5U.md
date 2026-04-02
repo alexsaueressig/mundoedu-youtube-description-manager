@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=gmayTkzxS5U
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#geografia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Videoaula com o professor Giba sobre os agentes externos modificadores do relevo, também conhecidos como exógenos ou morfoesculturais: intemperismo físico e químico, erosão pluvial, fluvial, marinha, glacial e eólica.
 

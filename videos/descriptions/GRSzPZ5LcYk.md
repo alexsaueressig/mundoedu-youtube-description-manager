@@ -26,6 +26,6 @@ url: https://www.youtube.com/watch?v=GRSzPZ5LcYk
 https://mundoedu.com.br/videoaula/108
 
 📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#historia
+https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #História #Antiguidade

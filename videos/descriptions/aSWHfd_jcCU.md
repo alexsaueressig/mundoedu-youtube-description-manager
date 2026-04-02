@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=aSWHfd_jcCU
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#geografia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Heey!!! Chegou a videoaula sobre os agentes internos do relevo, também chamados de endógenos ou morfoestruturais. Irraaa!! \o/ 
 Alerta SPOILER: Claudia Leite não estava certa, o Brasil tem terremotos sim!! :O

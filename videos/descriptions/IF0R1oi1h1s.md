@@ -8,7 +8,7 @@ url: https://www.youtube.com/watch?v=IF0R1oi1h1s
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#filosofia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Quem foi Kant? 
 👉 Qual a teoria de Kant? 

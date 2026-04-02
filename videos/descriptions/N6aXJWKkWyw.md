@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=N6aXJWKkWyw
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#filosofia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Quem foi Karl Marx?
 👉 O que prega o marxismo?

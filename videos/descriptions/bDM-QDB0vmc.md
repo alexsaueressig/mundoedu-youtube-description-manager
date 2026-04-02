@@ -36,4 +36,4 @@ url: https://www.youtube.com/watch?v=bDM-QDB0vmc
 ☆ 38:41 - INTERPRETAÇÃO DE QUESTÕES
 
 ✫ Plano de Estudos COMPLETO:
-https://mundoedu.com.br/plano-de-estudos#matematica
+https://mundoedu.com.br/plano-de-estudos

@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=FjY4q7NSgRs
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🎭 PLANO DE ESTUDOS DE LITERATURA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#literatura
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Videoaula sobre como interpretar duas formas de arte bastante cobradas no ENEM: a música e a literatura.
 

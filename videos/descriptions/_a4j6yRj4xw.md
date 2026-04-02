@@ -8,7 +8,7 @@ url: https://www.youtube.com/watch?v=_a4j6yRj4xw
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#filosofia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 O que é o empirismo na filosofia?
 👉 O que é um filósofo empirista?

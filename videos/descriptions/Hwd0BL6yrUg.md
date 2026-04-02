@@ -12,6 +12,6 @@ url: https://www.youtube.com/watch?v=Hwd0BL6yrUg
 👉 Parte 3 - Presidentes do Regime Militar - https://mundoedu.com.br/videoaula/40
 
 📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#historia
+https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #História #HistóriaDoBrasil

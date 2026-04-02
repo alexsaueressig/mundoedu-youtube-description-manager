@@ -4,7 +4,7 @@ title: "\U0001F9EB Histologia (1/3): Tecido Epitelial - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=vIjzv-_vUVA
 ---
 
-✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos#biologia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 
 ❓ O que é o tecido epitelial?
 ❓ Quais as funções do tecido epitelial?

@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=5Y-k8KsOnDY
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#sociologia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 O que é sociologia?
 👉 O que a sociologia estuda?

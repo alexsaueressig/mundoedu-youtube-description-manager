@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=TWTUIOTO_aM
 ---
 
 🌌 PLANO DE ESTUDOS DE REDAÇÃO - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#redacao
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Videoaula sobre como iniciar e desenvolver uma tese para a redação do ENEM.
 

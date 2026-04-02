@@ -8,6 +8,6 @@ url: https://www.youtube.com/watch?v=5CwEOa67DzQ
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#geografia
+https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #Geografia #Terra

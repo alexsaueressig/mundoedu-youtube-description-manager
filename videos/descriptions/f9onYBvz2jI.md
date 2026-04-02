@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=f9onYBvz2jI
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👥 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#sociologia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Que foi Max Weber? 
 👉 O que é pensamento weberiano? 

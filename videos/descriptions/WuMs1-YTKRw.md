@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=WuMs1-YTKRw
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👥 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos#sociologia
+https://mundoedu.com.br/plano-de-estudos
 
 👉 Videoaula sobre Sociologia no Brasil com o professor Betover
 
