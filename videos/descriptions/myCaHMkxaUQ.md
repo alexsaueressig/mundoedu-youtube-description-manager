@@ -12,10 +12,4 @@ Gostou? Não esquece de deixar teu like, teu comentário e nos seguir nas redes 
 
 Snap: portalmundoedu
 http://mundoedu.com.br
-http://blog.mundoedu.com.br
-http://pergunte.mundoedu.com.br
-https://instagram.com/mundoedu
-https://twitter.com/MundoEduENEM
-https://www.facebook.com/MundoEduOficial
-Link perfil da orientadora Gi: https://goo.gl/bdbjAu
-Plano de estudos: http://bit.ly/PlanoDeEstudosENEM
+Plano de estudos: http://mundoedu.com.br/plano-de-estudos

@@ -4,7 +4,6 @@ title: Pergunte! - Quando o Parlamentarismo surgiu na Inglaterra?
 url: https://www.youtube.com/watch?v=PwfqLOJ0bCU
 ---
 
-Envie sua pergunta também: http://pergunte.mundoedu.com.br
 O professor Bussunda responde! #RUUI
 
 Estude para o ENEM com videoaulas divertidas:

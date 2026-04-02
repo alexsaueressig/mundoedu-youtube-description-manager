@@ -7,6 +7,5 @@ url: https://www.youtube.com/watch?v=gDc1M7WNLp0
 Vídeo-aula sobre o Mundo da Globalização.
 
 Prepare-se para o ENEM e vestibular com Prof. Bussunda, no Mundo História.
-Mais vídeo-aulas: http://www.facebook.com/PortalMundoHistoria
 
 Aprenda se divertindo!

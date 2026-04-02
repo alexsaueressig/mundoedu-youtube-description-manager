@@ -9,4 +9,3 @@ Videoaula sobre Revolução Francesa, movimento social e político ocorrido na F
 ✫ Plano de Estudos COMPLETO:
 https://mundoedu.com.br/plano-de-estudos
 
-✫ Siga o #MundoEdu no Instagram: https://instagram.com/mundoedu

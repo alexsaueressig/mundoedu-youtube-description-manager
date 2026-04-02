@@ -4,7 +4,6 @@ title: Pergunte! - A miopia pode ser corrigida com lente convergente?
 url: https://www.youtube.com/watch?v=n6NeIvpROsE
 ---
 
-Envie sua pergunta também: http://pergunte.mundoedu.com.br
 O professor Vasco responde!
 
 Estude para o ENEM com videoaulas divertidas:

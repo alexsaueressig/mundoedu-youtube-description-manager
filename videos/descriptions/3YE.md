@@ -61,6 +61,5 @@ url: https://www.youtube.com/watch?v=TPYs7Yd_3YE
 - Emenda da reeleição
 
 ✫ Plano de Estudos Enem COMPLETO: https://mundoedu.com.br/plano-de-estudos
-✫ Siga o MundoEdu no Instagram: https://instagram.com/mundoedu
 
 #ENEM #História #Revisão

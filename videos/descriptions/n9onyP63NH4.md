@@ -4,7 +4,6 @@ title: Pergunte! - Qual é a origem do anarquismo? Como ele se diferencia do com
 url: https://www.youtube.com/watch?v=n9onyP63NH4
 ---
 
-Envie sua pergunta também: http://pergunte.mundoedu.com.br
 O professor Bussunda responde! #RUUI
 
 Estude para o ENEM com videoaulas divertidas:

@@ -8,13 +8,7 @@ O que as palavras ideia, jiboia, veem, voo, contrarregra e micro-ondas têm em c
 
 ☆Nossas redes sociais
 Snap: portalmundoedu
-https://instagram.com/mundoedu
-https://twitter.com/MundoEduENEM
-https://www.facebook.com/MundoEduOficial
 
 ☆Links úteis 
 http://mundoedu.com.br
-http://blog.mundoedu.com.br
-http://pergunte.mundoedu.com.br
-Plano de estudos #ENEM: http://bit.ly/1Jiv3Qf
-Link perfil da orientadora Gi: https://goo.gl/bdbjAu
+Plano de estudos #ENEM: http://mundoedu.com.br/plano-de-estudos

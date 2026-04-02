@@ -8,4 +8,3 @@ EDUVideoaula sobre a Revolução Industrial, que foi a transição para novos pr
 
 ☆Links úteis 
 Plano de estudos #ENEM: https://mundoedu.com.br/plano-de-estudos
-Instagram: https://instagram.com/mundoedu

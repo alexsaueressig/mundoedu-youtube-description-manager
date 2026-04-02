@@ -4,7 +4,6 @@ title: 'Pergunte! - O que gera mais energia no Brasil: petróleo ou hidrelétric
 url: https://www.youtube.com/watch?v=dzoLB8E99dE
 ---
 
-Envie sua pergunta também: http://pergunte.mundoedu.com.br
 O professor Giba  responde! #Criatuuuura
 
 Estude para o ENEM com videoaulas divertidas:

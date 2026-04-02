@@ -8,4 +8,3 @@ Nesta videoaula, a #DaniRainha explica tudinho sobre a famigerada #Crase: quando
 
 ☆Links úteis 
 Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
-Nosso Instagram: https://instagram.com/mundoedu

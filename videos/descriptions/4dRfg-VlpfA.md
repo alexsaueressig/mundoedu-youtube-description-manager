@@ -9,9 +9,3 @@ A partir de agora o prof. JowJow chega com o #MundoArtes para pirar muito e te a
 
 Snap: portalmundoedu
 http://mundoedu.com.br
-http://blog.mundoedu.com.br
-http://pergunte.mundoedu.com.br
-https://instagram.com/mundoedu
-https://twitter.com/PortalMundoEdu
-https://www.facebook.com/MundoEduOficial
-Link perfil da orientadora Gi: https://goo.gl/bdbjAu

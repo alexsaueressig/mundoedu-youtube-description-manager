@@ -6,6 +6,6 @@ url: https://www.youtube.com/watch?v=hAQlzQdQHP4
 
 A redação assusta muita gente e, por isso, a prof. #DaniBressan resolveu fazer uma série de vídeos curtos sobre alguns temas que ela aposta para o ENEM deste ano. 
 
-✫ Plano de Estudos Enem COMPLETO: http://bit.ly/2wDFFaU
+✫ Plano de Estudos Enem COMPLETO: http://mundoedu.com.br/plano-de-estudos
 
 #Redação #ENEM #MundoEdu

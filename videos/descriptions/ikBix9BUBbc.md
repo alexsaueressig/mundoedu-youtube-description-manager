@@ -9,15 +9,7 @@ Hoje é dia de ver como acontece as gravações aqui no MundoEdu. O menino Rodri
 É muito amor pela educação, minha gente! ❤
 
 ☆Nossas redes sociais
-https://instagram.com/mundoedu
-https://instagram.com/gilvanadias
-https://instagram.com/guivalenzuela
-https://instagram.com/fesiol
-https://twitter.com/MundoEduENEM
-https://www.facebook.com/MundoEduOficial
 
 ☆Links úteis 
 http://mundoedu.com.br
-http://blog.mundoedu.com.br
-http://pergunte.mundoedu.com.br
-Plano de estudos #ENEM: http://bit.ly/1Jiv3Qf
+Plano de estudos #ENEM: http://mundoedu.com.br/plano-de-estudos
