@@ -1,0 +1,11 @@
+---
+id: T8Q3Kpoku_A
+title: Pergunte! - Qual é a diferença entre socialismo e comunismo?
+url: https://www.youtube.com/watch?v=T8Q3Kpoku_A
+---
+
+Envie sua pergunta também: http://pergunte.mundoedu.com.br
+O professor Bussunda responde! #RUUI
+
+Estude para o ENEM com videoaulas divertidas: 
+http://mundoedu.com.br

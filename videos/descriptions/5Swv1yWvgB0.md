@@ -1,0 +1,16 @@
+---
+id: 5Swv1yWvgB0
+title: "\U0001F468‍\U0001F52C Estequiometria (introdução) - Química - ENEM"
+url: https://www.youtube.com/watch?v=5Swv1yWvgB0
+---
+
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+✨ Apostila Grátis: https://mundoedu.com.br/videoaula/419
+
+👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
+https://mundoedu.com.br/plano-de-estudos#quimica
+
+Fica com medinho só de ouvir a palavra "estequiometria"? 😱
+Caaaaalma o coração, porque nesta aula o professor Camacho vai mostrar como é relativamente fácil entender e resolver os cálculos estequiométricos.
+
+#ENEM #Química #TransformaçõesQuímicas

@@ -1,0 +1,21 @@
+# OAuth credentials (never commit these)
+client_secrets.json
+token.json
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
