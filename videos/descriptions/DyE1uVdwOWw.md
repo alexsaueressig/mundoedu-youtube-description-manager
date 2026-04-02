@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=DyE1uVdwOWw
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/xxxx
 
 👉 O homem grego, seus valores, pensadores como Sócrates, Platão e Aristóteles.
 

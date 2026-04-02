@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=7NA__kWVrs8
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/392
 
 👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO:
 https://mundoedu.com.br/plano-de-estudos#quimica

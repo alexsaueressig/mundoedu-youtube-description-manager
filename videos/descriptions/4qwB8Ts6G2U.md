@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=4qwB8Ts6G2U
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/312
 
 🎭 PLANO DE ESTUDOS DE ARTES - COMPLETO: 
 https://mundoedu.com.br/plano-de-estudos#artes

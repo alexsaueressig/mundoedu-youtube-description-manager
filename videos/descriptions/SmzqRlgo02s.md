@@ -6,7 +6,6 @@ url: https://www.youtube.com/watch?v=SmzqRlgo02s
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/271
 
 A palavra ÉTICA faz cada vez mais parte do vocabulário cotidiano de boa parte das pessoas. Vivemos uma crise ética na política, na economia, na igreja... Mas como objeto de discussão em si: o que é ética? A amplitude do conceito e de seu uso permite uma reflexão além da filosofia e do estudo da moral, da justiça (...)
 

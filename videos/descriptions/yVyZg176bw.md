@@ -6,7 +6,6 @@ url: https://www.youtube.com/watch?v=_yVyZg176bw
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/96
 
 🏺 PRÓXIMA AULA SOBRE GRÉCIA: Grécia Antiga - As Pólis (Atenas e Esparta)
 https://mundoedu.com.br/videoaula/103

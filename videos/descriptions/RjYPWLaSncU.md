@@ -4,7 +4,6 @@ title: "\U0001F9EB Histologia (3/3): Tecido Muscular e Nervoso - Biologia - ENEM
 url: https://www.youtube.com/watch?v=RjYPWLaSncU
 ---
 
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/385
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos#biologia
 
 * MundoEdu: O melhor cursinho online agora é 100% gratuito! *

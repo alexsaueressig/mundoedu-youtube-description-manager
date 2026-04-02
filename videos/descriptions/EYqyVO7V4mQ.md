@@ -6,7 +6,6 @@ url: https://www.youtube.com/watch?v=EYqyVO7V4mQ
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/531
 
 💉 Quais são os tipos sanguíneos que existem? 
 💉 O que é o sistema ABO?

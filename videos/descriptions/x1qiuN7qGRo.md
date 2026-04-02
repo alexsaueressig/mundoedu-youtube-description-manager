@@ -4,12 +4,8 @@ title: "\U0001F9A0 Microbiologia (5/5): Malária - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=x1qiuN7qGRo
 ---
 
-✨ Correção de Redação: https://www.imaginie.com.br/precos-imaginie/
-💚 CUPOM 40%: MUNDOEDU
-
 * MundoEdu: O melhor cursinho online agora é 100% gratuito! *
 
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/423
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos#biologia
 
 ❓ O que causa a malária?

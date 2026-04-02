@@ -6,7 +6,6 @@ url: https://www.youtube.com/watch?v=HOJ4IaTuG2I
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/45
 
 🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
 https://mundoedu.com.br/plano-de-estudos#geografia

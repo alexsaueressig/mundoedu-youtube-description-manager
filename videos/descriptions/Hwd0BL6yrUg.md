@@ -6,7 +6,6 @@ url: https://www.youtube.com/watch?v=Hwd0BL6yrUg
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/38
 
 👉 Parte 1 - Antecedentes do Golpe de 64 - https://mundoedu.com.br/videoaula/38
 👉 Parte 2 - Características do Regime Militar - https://mundoedu.com.br/videoaula/39

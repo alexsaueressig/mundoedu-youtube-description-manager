@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=9ufZWn8MKik
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/518
 
 🍄 O que é um fungo? 
 🍄 Quais as doenças causadas por fungos?

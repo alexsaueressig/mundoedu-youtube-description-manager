@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=hCyjIi7YDVg
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/342
 
 👉 Videoaula com o professor Bussunda sobre o processo de redemocratização do Brasil nos anos 90: governo Collor, caras-pintadas, Itamar Franco, Plano Real, FHC...
 

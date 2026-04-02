@@ -6,7 +6,6 @@ url: https://www.youtube.com/watch?v=oFHH-Ss7FnA
 
 * MundoEdu: O melhor cursinho online agora é 100% gratuito! *
 
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/413
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos#biologia
 
 🦠 MICROBIOLOGIA 

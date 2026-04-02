@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=Ns11jWTbtEY
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/343
 
 👉 Videoaula sobre o cenário político do Brasil nos anos 2000: governo Lula, programas sociais, escândalos de corrupção, governo Dilma, protestos anticorrupção e impeachment.
 

@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=z0cK5p1FMDQ
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/297
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
 https://mundoedu.com.br/plano-de-estudos#filosofia

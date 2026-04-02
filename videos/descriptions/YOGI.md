@@ -5,11 +5,7 @@ title: "\U0001F4AD Teoria do Conhecimento (2/8): Racionalismo e Empirismo - Filo
 url: https://www.youtube.com/watch?v=IvuSAT_YOGI
 ---
 
-✨ Correção de Redação: https://www.imaginie.com.br/precos-imaginie/
-💚 CUPOM 40%: MUNDOEDU
-
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/307
 
 🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
 https://mundoedu.com.br/plano-de-estudos#filosofia

@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=pFl4Kdwf2a0
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/341
 
 👉 Videoaula sobre o processo de redemocratização do Brasil pós-ditadura militar com o professor Bussunda! RUUUI
 

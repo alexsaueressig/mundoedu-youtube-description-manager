@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=pl7DY5MBfIM
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/212
 
 🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
 https://mundoedu.com.br/plano-de-estudos#fisica

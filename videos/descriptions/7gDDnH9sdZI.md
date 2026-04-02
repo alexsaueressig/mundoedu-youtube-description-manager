@@ -4,12 +4,7 @@ title: "\U0001F4E2 Figuras de Linguagem - Literatura - ENEM"
 url: https://www.youtube.com/watch?v=7gDDnH9sdZI
 ---
 
-✨ Correção de Redação: https://www.imaginie.com.br/precos-imaginie/
-💚 CUPOM 40%: MUNDOEDU
-
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/240
-
 
 EXEMPLOS DE FIGURAS DE LINGUAGEM:
 

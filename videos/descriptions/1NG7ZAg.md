@@ -5,12 +5,8 @@ title: "\U0001F40D Zoologia (3/6): Principais doenças causadas por vermes - Bio
 url: https://www.youtube.com/watch?v=9cK_1NG7ZAg
 ---
 
-✨ Correção de Redação: https://www.imaginie.com.br/precos-imaginie/
-💚 CUPOM 40%: MUNDOEDU
-
 * MundoEdu: O melhor cursinho online agora é 100% gratuito! *
 
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/427
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos#biologia
 
 Ewwwwww! 🤢 Nesta aula, o professor Guerra vai falar das principais doenças causadas por vermes platelmintos e nematelmintos.

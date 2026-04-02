@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=U7f7WOG0_HI
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/209
 
 👉 Criatuuuuras do MundoEdu, hoje teremos uma aula com a temática Os Vingadores. \o/
 O Vini, nosso editor, estava super inspirado. Espero que gostem! Falaremos sobre aquecimento global, efeito estufa, camada de ozônio e chuvas ácidas.

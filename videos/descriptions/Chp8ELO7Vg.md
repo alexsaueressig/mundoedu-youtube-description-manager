@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=_Chp8ELO7Vg
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/155
 
 👉 Fala criatura do MundoEdu... Hoje é a vez do professor Giba falar da produção de energia do nosso país. Abordaremos vários assuntos, entre eles as usinas, o potencial, os próximos investimentos em energia e uma comparação entre o Brasil e o mundo.
 

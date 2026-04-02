@@ -4,12 +4,8 @@ title: "\U0001F9EC Bioquímica (5/5): Ácidos Nucleicos - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=s3dKZx3UXqI
 ---
 
-✨ Correção de Redação: https://www.imaginie.com.br/precos-imaginie/
-💚 CUPOM 40%: MUNDOEDU
-
 * MundoEdu: O melhor cursinho online agora é 100% gratuito! *
 
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/363
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos#biologia
 
 🧬 BIOQUÍMICA

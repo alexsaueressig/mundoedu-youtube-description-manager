@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=JB8AxD1CkYs
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/536
 
 ✔️ 2:09 Amazônia
 ✔️ 4:10 Cerrado

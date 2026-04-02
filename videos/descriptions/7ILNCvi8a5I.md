@@ -5,7 +5,6 @@ url: https://www.youtube.com/watch?v=7ILNCvi8a5I
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/533
 
 ✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
 https://mundoedu.com.br/plano-de-estudos#biologia

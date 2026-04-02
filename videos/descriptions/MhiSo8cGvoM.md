@@ -4,11 +4,7 @@ title: "\U0001F331 Ecologia (2/7): Ciclos Biogeoquímicos - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=MhiSo8cGvoM
 ---
 
-✨ Correção de Redação: https://www.imaginie.com.br/precos-imaginie/
-💚 CUPOM 40%: MUNDOEDU
-
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/537
 
 ✔️ 1:17 Ciclo da água
 ✔️ 3:30 Ciclo do carbono

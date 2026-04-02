@@ -6,7 +6,6 @@ url: https://www.youtube.com/watch?v=gAW8pEzfpOQ
 ---
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
-✨ Apostila Grátis: https://mundoedu.com.br/videoaula/108
 
 🏛️  AULA ANTERIOR SOBRE ROMA: Roma Antiga - Monarquia e República
 https://mundoedu.com.br/videoaula/107
