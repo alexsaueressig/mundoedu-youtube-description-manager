@@ -9,7 +9,7 @@ url: https://www.youtube.com/watch?v=bV89jp82Bt8
 ✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
 https://mundoedu.com.br/plano-de-estudos
 
-🌿 BOTÂNICA - MÓDULO COMPLETO (videoaulas + apostilas)
+🌿 BOTÂNICA - MÓDULO COMPLETO
 ✔️ Aula 1 - Briófitas e pteridófitas: https://mundoedu.com.br/videoaula/514
 ✔️ Aula 2 - Gimnospermas e angiospermas: https://mundoedu.com.br/videoaula/515
 ✔️ Aula 3 - Histologia vegetal: https://mundoedu.com.br/videoaula/516

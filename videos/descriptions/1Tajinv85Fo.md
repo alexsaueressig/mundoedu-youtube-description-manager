@@ -9,7 +9,7 @@ url: https://www.youtube.com/watch?v=1Tajinv85Fo
 ✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
 https://mundoedu.com.br/plano-de-estudos
 
-👩‍⚕️ FISIOLOGIA - MÓDULO COMPLETO (videoaulas + apostilas)
+👩‍⚕️ FISIOLOGIA - MÓDULO COMPLETO
 ✔️ Aula 1 - Sistema nervoso: https://mundoedu.com.br/videoaula/519
 ✔️ Aula 2 - Sistema circulatório: https://mundoedu.com.br/videoaula/520
 ✔️ Aula 3 - Sistema respiratório: https://mundoedu.com.br/videoaula/521

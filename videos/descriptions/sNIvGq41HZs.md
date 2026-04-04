@@ -9,7 +9,7 @@ url: https://www.youtube.com/watch?v=sNIvGq41HZs
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 
 🐍 ZOOLOGIA 
-👉 Módulo completo (videoaulas + apostilas)
+👉 Módulo completo
 ✔️ Aula 1 - Poríferos, Cnidários e Platelmintos: https://mundoedu.com.br/videoaula/425
 ✔️ Aula 2 - Nematódeos e Anelídeos: https://mundoedu.com.br/videoaula/426
 ✔️ Aula 3 - Principais doenças causadas por vermes: https://mundoedu.com.br/videoaula/427

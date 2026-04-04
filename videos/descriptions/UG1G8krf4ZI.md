@@ -9,7 +9,7 @@ url: https://www.youtube.com/watch?v=UG1G8krf4ZI
 ✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
 https://mundoedu.com.br/plano-de-estudos
 
-🌱 ECOLOGIA - MÓDULO COMPLETO (videoaulas + apostilas)
+🌱 ECOLOGIA - MÓDULO COMPLETO
 ✔️ Aula 1 - Biomas: https://mundoedu.com.br/videoaula/536
 ✔️ Aula 2 - Ciclos biogeoquímicos: https://mundoedu.com.br/videoaula/537
 ✔️ Aula 3 - Relações ecológicas: https://mundoedu.com.br/videoaula/538

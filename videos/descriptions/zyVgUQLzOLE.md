@@ -14,7 +14,7 @@ url: https://www.youtube.com/watch?v=zyVgUQLzOLE
 ❓ Quais são os tipos de protozoários?
 
 🦠 MICROBIOLOGIA 
-👉 Módulo completo (videoaulas + apostilas)
+👉 Módulo completo
 ✔️ Aula 1 - Vírus: https://mundoedu.com.br/videoaula/413
 ✔️ Aula 2 - Bactérias: https://mundoedu.com.br/videoaula/414
 ✔️ Aula 3 - Reino Protista: https://mundoedu.com.br/videoaula/415

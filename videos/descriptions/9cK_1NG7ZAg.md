@@ -20,7 +20,7 @@ Ewwwwww! 🤢 Nesta aula, o professor Guerra vai falar das principais doenças c
 🕒 14:56 - Elefantíase/Filariose
 
 🐍 ZOOLOGIA 
-👉 Módulo completo (videoaulas + apostilas)
+👉 Módulo completo
 ✔️ Aula 1 - Poríferos, Cnidários e Platelmintos: https://mundoedu.com.br/videoaula/425
 ✔️ Aula 2 - Nematódeos e Anelídeos: https://mundoedu.com.br/videoaula/426
 ✔️ Aula 3 - Principais doenças causadas por vermes: https://mundoedu.com.br/videoaula/427

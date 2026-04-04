@@ -10,7 +10,7 @@ url: https://www.youtube.com/watch?v=61thLTV6U9Y
 ✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
 https://mundoedu.com.br/plano-de-estudos
 
-🧬 GENÉTICA - MÓDULO COMPLETO (videoaulas + apostilas)
+🧬 GENÉTICA - MÓDULO COMPLETO
 ✔️ Aula 1 - 1ª Lei de Mendel: https://mundoedu.com.br/videoaula/527
 ✔️ Aula 2 - Cruzamento teste: https://mundoedu.com.br/videoaula/528
 ✔️ Aula 3 - Ausência de dominância e dominância incompleta: https://mundoedu.com.br/videoaula/529

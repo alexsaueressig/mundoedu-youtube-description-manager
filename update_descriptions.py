@@ -20,17 +20,21 @@ for consent with the write scope.
 import argparse
 import os
 import sys
+import time
 from pathlib import Path
 
 import frontmatter
 from dotenv import load_dotenv
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
-from google_auth_oauthlib.flow import InstalledAppFlow
+from google_auth_oauthlib.flow import Flow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 load_dotenv()
+
+# Allow OAuth over plain HTTP for localhost redirects (no actual network risk).
+os.environ.setdefault("OAUTHLIB_INSECURE_TRANSPORT", "1")
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -38,6 +42,7 @@ load_dotenv()
 CLIENT_SECRETS_FILE = os.getenv("CLIENT_SECRETS_FILE", "client_secrets.json")
 TOKEN_FILE = os.getenv("TOKEN_FILE", "token.json")
 DESCRIPTIONS_DIR = os.getenv("DESCRIPTIONS_DIR", "videos/descriptions")
+PROGRESS_FILE = os.getenv("PROGRESS_FILE", "progress.txt")
 
 # Write access requires the force-ssl scope.
 SCOPES = ["https://www.googleapis.com/auth/youtube.force-ssl"]
@@ -64,8 +69,19 @@ def get_authenticated_service() -> object:
                     "Download your OAuth 2.0 client secrets from Google Cloud Console\n"
                     "and save them as client_secrets.json in the project root."
                 )
-            flow = InstalledAppFlow.from_client_secrets_file(CLIENT_SECRETS_FILE, SCOPES)
-            creds = flow.run_local_server(port=0)
+            flow = Flow.from_client_secrets_file(
+                CLIENT_SECRETS_FILE, SCOPES, redirect_uri="http://localhost"
+            )
+            auth_url, _ = flow.authorization_url(prompt="consent", access_type="offline")
+            print("\nOpen this URL in your browser to authorize:\n")
+            print(auth_url)
+            print(
+                "\nAfter authorizing, your browser will try to open http://localhost/?code=..."
+                "\n(it will show an error — that's fine). Copy the full URL from the address bar and paste it below.\n"
+            )
+            redirect_response = input("Paste the full redirect URL: ").strip()
+            flow.fetch_token(authorization_response=redirect_response)
+            creds = flow.credentials
 
         with open(TOKEN_FILE, "w") as f:
             f.write(creds.to_json())
@@ -116,7 +132,7 @@ def load_description_file(filepath: str) -> tuple[str, str, str]:
     Raises:
         ValueError: if required frontmatter fields are missing.
     """
-    with open(filepath, "rb") as f:
+    with open(filepath, "r", encoding="utf-8") as f:
         post = frontmatter.load(f)
 
     video_id = post.metadata.get("id")
@@ -126,6 +142,20 @@ def load_description_file(filepath: str) -> tuple[str, str, str]:
         raise ValueError(f"Missing 'id' in frontmatter of '{filepath}'.")
 
     return video_id, title, post.content
+
+
+def load_progress() -> set:
+    """Return the set of video IDs already successfully updated."""
+    if not os.path.exists(PROGRESS_FILE):
+        return set()
+    with open(PROGRESS_FILE, "r", encoding="utf-8") as f:
+        return {line.strip() for line in f if line.strip()}
+
+
+def save_progress(video_id: str) -> None:
+    """Append a video ID to the progress file."""
+    with open(PROGRESS_FILE, "a", encoding="utf-8") as f:
+        f.write(video_id + "\n")
 
 
 def collect_md_files(directory: str) -> list[Path]:
@@ -156,6 +186,26 @@ def main() -> None:
         metavar="PATH",
         help="Update only the specified Markdown file.",
     )
+    parser.add_argument(
+        "--limit",
+        metavar="N",
+        type=int,
+        help="Process only the first N files (useful for testing).",
+    )
+    parser.add_argument(
+        "--batch-size",
+        metavar="N",
+        type=int,
+        default=10,
+        help="Number of videos per batch (default: 10). Pauses between batches.",
+    )
+    parser.add_argument(
+        "--batch-pause",
+        metavar="SECONDS",
+        type=float,
+        default=2.0,
+        help="Seconds to wait between batches (default: 2).",
+    )
     args = parser.parse_args()
 
     if args.file:
@@ -165,11 +215,20 @@ def main() -> None:
     else:
         md_files = collect_md_files(DESCRIPTIONS_DIR)
 
+    if args.limit:
+        md_files = md_files[: args.limit]
+
     if not md_files:
         print(f"No Markdown files found in '{DESCRIPTIONS_DIR}/'. Nothing to update.")
         return
 
-    print(f"Found {len(md_files)} file(s) to process.")
+    done_ids = load_progress()
+    if done_ids:
+        before = len(md_files)
+        md_files = [f for f in md_files if f.stem not in done_ids]
+        print(f"Resuming: {before - len(md_files)} already done, {len(md_files)} remaining.")
+    else:
+        print(f"Found {len(md_files)} file(s) to process.")
 
     if not args.dry_run:
         print("Authenticating with YouTube API…")
@@ -178,7 +237,11 @@ def main() -> None:
     updated = 0
     failed = 0
 
-    for md_path in md_files:
+    for i, md_path in enumerate(md_files):
+        if not args.dry_run and i > 0 and i % args.batch_size == 0:
+            print(f"\n--- Batch {i // args.batch_size} done. Pausing {args.batch_pause}s… ---\n")
+            time.sleep(args.batch_pause)
+
         try:
             video_id, title, description = load_description_file(str(md_path))
         except (ValueError, Exception) as e:
@@ -198,8 +261,12 @@ def main() -> None:
         try:
             update_video_description(youtube, video_id, description)
             print(f"  UPDATED  {label}")
+            save_progress(video_id)
             updated += 1
         except HttpError as e:
+            if "quotaExceeded" in str(e):
+                print(f"  QUOTA EXCEEDED — stopping. Run again tomorrow to resume.")
+                break
             print(f"  FAILED   {label}: {e}")
             failed += 1
         except ValueError as e:

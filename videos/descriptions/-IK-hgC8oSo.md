@@ -9,7 +9,7 @@ url: https://www.youtube.com/watch?v=-IK-hgC8oSo
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 
 🧬 BIOQUÍMICA
-👉 Módulo completo (videoaulas + apostilas)
+👉 Módulo completo
 ✔️ Aula 1 - Organização dos Seres Vivos: https://mundoedu.com.br/videoaula/359
 ✔️ Aula 2 - Água e Sais Minerais: https://mundoedu.com.br/videoaula/360
 ✔️ Aula 3 - Carboidratos e Lipídios: https://mundoedu.com.br/videoaula/361
