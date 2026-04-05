@@ -1,6 +1,6 @@
 ---
 id: V4oBSRSTDLY
-title: Recado do Prof. Giba para os alunos do Colégio El-Shaday - ENEM 2014
+title: Recado do Prof. Giba para os alunos do Colégio El-Shaday - ENEM
 url: https://www.youtube.com/watch?v=V4oBSRSTDLY
 ---
 
