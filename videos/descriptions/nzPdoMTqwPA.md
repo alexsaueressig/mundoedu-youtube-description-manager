@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=nzPdoMTqwPA
 
 Nesta videoaula, a #DaniRainha explica tudinho sobre a famigerada #Crase: quando usar, quando não usar, usos opcionais, casos especiais e várias dicas para você aprender de vez a usar a crase. #ENEM
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Crase #Português #QuandoUsarCrase #DaniRainha

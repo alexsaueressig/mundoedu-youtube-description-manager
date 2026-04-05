@@ -10,5 +10,6 @@ Hoje é dia de ver como acontece as gravações aqui no MundoEdu. O menino Rodri
 
 É muito amor pela educação, minha gente! ❤
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #MakingOf

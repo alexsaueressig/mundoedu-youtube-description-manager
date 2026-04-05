@@ -10,5 +10,6 @@ url: https://www.youtube.com/watch?v=_yVyZg176bw
 🏺 PRÓXIMA AULA SOBRE GRÉCIA: Grécia Antiga - As Pólis (Atenas e Esparta)
 https://mundoedu.com.br/videoaula/103
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #Antiguidade #AntiguidadeOcidental #GréciaAntiga

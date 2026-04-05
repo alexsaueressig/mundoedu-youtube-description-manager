@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=Zoiooplbwy4
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Vasco responde!
+Prof. Vasco responde: por que o elemento usado no termômetro é o mercúrio?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Por que o elemento usado no termômetro é o mercúrio?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte

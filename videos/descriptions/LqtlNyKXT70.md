@@ -11,5 +11,6 @@ Como se formam os gametas?
 Como são formados os espermatozoides e os óvulos?
 Quais são as fases do desenvolvimento embrionário?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Citologia #Embriologia

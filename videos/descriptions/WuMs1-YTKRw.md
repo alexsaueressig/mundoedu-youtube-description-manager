@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=WuMs1-YTKRw
 
 👉 Videoaula sobre Sociologia no Brasil com o professor Betover
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Sociologia #Brasil #SociologiaNoBrasil

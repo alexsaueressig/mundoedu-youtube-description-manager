@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=nCo7s8dmNmw
 
 👉 Videoaula sobre potencial elétrico, blindagem eletrostática, poder das pontas e capacitores.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Eletrostática #PotencialElétrico

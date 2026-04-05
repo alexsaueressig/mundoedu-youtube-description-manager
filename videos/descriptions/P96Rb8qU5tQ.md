@@ -13,5 +13,6 @@ url: https://www.youtube.com/watch?v=P96Rb8qU5tQ
 
 Aristóteles (384-322 a.C.) critica a teoria das ideias de Platão, principalmente a divisão entre um mundo sensível e um mundo inteligível. Ao retomar a problemática do conhecimento, distingue três tipos de saber (...)
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #Epistemologia #TeoriaConhecimento

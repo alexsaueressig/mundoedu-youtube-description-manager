@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=SY9gf4MK7MU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 6 sobre Globalização: Nova Ordem Mundial. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica nova ordem mundial — parte do módulo de globalização.
 
+👉 O que é nova ordem mundial?
+👉 Como estudar globalização para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Globalização #NovaOrdemMundial

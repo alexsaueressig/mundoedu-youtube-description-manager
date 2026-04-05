@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=5Swv1yWvgB0
 Fica com medinho só de ouvir a palavra "estequiometria"? 😱
 Caaaaalma o coração, porque nesta aula o professor Camacho vai mostrar como é relativamente fácil entender e resolver os cálculos estequiométricos.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas #Estequiometria

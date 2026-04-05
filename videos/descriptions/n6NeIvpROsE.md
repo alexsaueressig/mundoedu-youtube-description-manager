@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=n6NeIvpROsE
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Vasco responde!
+Prof. Vasco responde: A miopia pode ser corrigida com lente convergente?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 A miopia pode ser corrigida com lente convergente?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte

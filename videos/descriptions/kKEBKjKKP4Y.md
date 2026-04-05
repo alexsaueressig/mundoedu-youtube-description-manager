@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=kKEBKjKKP4Y
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 7 de 8 sobre Cinemática: O que é MCU? - Movimento Circular Uniforme. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica o que é MCU? - movimento circular uniforme — parte do módulo de cinemática.
 
+👉 O que é o que é MCU? - movimento circular uniforme?
+👉 Como estudar cinemática para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Cinemática #OQueÉMcu

@@ -10,5 +10,6 @@ url: https://www.youtube.com/watch?v=LhevlGbUzIg
 1) Energia Cinética 
 2) Energia Potencial
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Energia

@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=d90BgJ2j2QA
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Geometria Molecular. Conteúdo de Química para o ENEM.
+Nesta videoaula, o prof. Camacho explica geometria molecular.
 
+👉 O que é geometria molecular?
+👉 Como geometria molecular cai no ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #SubstânciasMisturas #GeometriaMolecular

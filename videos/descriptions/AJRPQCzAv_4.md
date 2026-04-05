@@ -12,5 +12,6 @@ Prepare-se para o ENEM e vestibular com Prof. Bussunda, no Mundo História.
 
 Aprenda se divertindo!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #Resumo

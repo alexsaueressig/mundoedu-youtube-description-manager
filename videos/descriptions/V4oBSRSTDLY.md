@@ -11,5 +11,6 @@ Olha aí, galerinha... Recado do prof. Giba, o mais queridão da interwebs, pra 
 Estão gostando das videoaulas do MundoEdu? Comentei aí! =D
 Abraço e bons estudos pra todos!!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM

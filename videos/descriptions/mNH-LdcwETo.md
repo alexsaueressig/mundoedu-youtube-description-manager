@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=mNH-LdcwETo
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Eletroquímica: Cálculo do potencial (DDP) de uma pilha. Conteúdo de Química para o ENEM.
+Nesta videoaula, o prof. Camacho explica eletroquímica: cálculo do potencial (DDP) de uma pilha.
 
+👉 O que é cálculo do potencial (DDP) de uma pilha?
+👉 Como estudar eletroquímica para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicasEnergia

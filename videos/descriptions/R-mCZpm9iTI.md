@@ -10,5 +10,6 @@ Meus queridões, hoje a aula é sobre interpretação de textos. É uma aula sup
 
 Quer mais aulas? Tem lá no site! =D
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Português

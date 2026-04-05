@@ -10,5 +10,6 @@ O que são orações coordenadas?
 Quais são as orações coordenadas assindéticas?
 O que é oração coordenada explicativa?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Português #OraçõesCoordenadas

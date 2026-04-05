@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=h_TII_7wgWw
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 3 sobre Urbanização: Urbanização do Brasil. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica urbanização do Brasil — parte do módulo de urbanização.
 
+👉 O que é urbanização do Brasil?
+👉 Como estudar urbanização para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Urbanização #UrbanizaçãoBrasil

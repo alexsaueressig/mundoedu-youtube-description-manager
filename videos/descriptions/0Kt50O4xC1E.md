@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=0Kt50O4xC1E
 
 👉 Características, organização e informações sobre as pólis da Grécia Antiga. As pólis gregas eram as cidades-estado da Grécia Antiga.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #FilosofiaPolítica

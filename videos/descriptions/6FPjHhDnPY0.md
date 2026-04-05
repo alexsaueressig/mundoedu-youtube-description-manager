@@ -10,5 +10,6 @@ Prof Dani comenta a prova de redação, literatura e língua portuguesa do Enem,
 
 Uma revisão útil para entender o estilo da prova e reforçar pontos-chave de leitura, escrita e interpretação.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Redação #LínguaPortuguesa #Literatura

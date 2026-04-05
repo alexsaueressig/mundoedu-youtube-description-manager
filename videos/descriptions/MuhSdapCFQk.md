@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=MuhSdapCFQk
 
 👉 A professora Dani Bressan resolve +6 questões para vocês!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Literatura #QuestõesComentadas

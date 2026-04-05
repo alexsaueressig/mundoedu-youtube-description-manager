@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=c4Tx-2lJouw
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 4 de 4 sobre Arte no Brasil: Arquitetura brasileira. Videoaula de Mundo Artes para o ENEM.
+Nesta aula, o prof. JowJow explica arquitetura brasileira — parte do módulo de arte no Brasil.
 
+👉 O que é arquitetura brasileira?
+👉 Como estudar arte no Brasil para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ArteNoBrasil #ArquiteturaBrasileira

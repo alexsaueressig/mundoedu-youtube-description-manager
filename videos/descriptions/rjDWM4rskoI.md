@@ -11,5 +11,6 @@ Então preste muita atenção que a prof. Dani Bressan vai explicar tudinho nest
 
 Uma aula de gramática útil para evitar erros comuns na escrita e melhorar a redação no ENEM.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Português #Porquês #Gramática #UsoPorquês

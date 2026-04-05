@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=NpTWzUYZHPM
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Bussunda responde! #RUUI
+Prof. Bussunda responde: por que a crise de 29 afetou vários países além dos EUA?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Por que a crise de 29 afetou vários países além dos EUA?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte #RUUI

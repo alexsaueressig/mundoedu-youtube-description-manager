@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=JgKc7K0kFvA
 
 Nesta videoaula, o professor Gui vai explicar a Teoria da Soma e da Multiplicação de Probabilidades, resolver exemplos e dar algumas dicas para você não se perder!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Probabilidade

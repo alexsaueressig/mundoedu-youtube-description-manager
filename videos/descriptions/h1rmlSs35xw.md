@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=h1rmlSs35xw
 
 Nesta proposta de redação ENEM, a discussão gira em torno da cultura dos jovens e da internet, com foco em argumentos, repertório e impacto digital na sociedade.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Redação #RedaçãoENEM #CulturaDigital #Juventude

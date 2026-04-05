@@ -11,5 +11,6 @@ url: https://www.youtube.com/watch?v=6yc1vjuBJWg
 ❓ Qual a fórmula de progressão geométrica? 
 ❓ Como calcular o termo de uma PG?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #SequênciasNuméricas #ProgressãoGeométricaPg

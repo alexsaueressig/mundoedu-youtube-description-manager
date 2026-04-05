@@ -37,5 +37,6 @@ url: https://www.youtube.com/watch?v=bDM-QDB0vmc
 
 ✨ 38:41 - INTERPRETAÇÃO DE QUESTÕES
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Revisão

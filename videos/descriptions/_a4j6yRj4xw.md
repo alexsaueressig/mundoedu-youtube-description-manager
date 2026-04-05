@@ -13,5 +13,6 @@ url: https://www.youtube.com/watch?v=_a4j6yRj4xw
 👉 Que pensava Francis Bacon? 
 👉 O que é o empirismo crítico de John Locke?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #Epistemologia #TeoriaConhecimento #EmpirismoModerno

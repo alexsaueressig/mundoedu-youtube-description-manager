@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=LdF0XSM0Sh0
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Cinética Química: Velocidade de reação. Conteúdo de Química para o ENEM.
+Nesta videoaula, o prof. Camacho explica cinética química: velocidade de reação.
 
+👉 O que é velocidade de reação?
+👉 Como estudar cinética química para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #DinâmicaDasTransformaçõesQuímicas #VelocidadeReação

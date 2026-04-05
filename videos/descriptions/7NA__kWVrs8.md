@@ -11,5 +11,6 @@ Como podemos enunciar a Lei de Avogadro?
 Qual o volume de uma molécula?
 Qual é o significado de mol?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas #PrincípioAvogadro

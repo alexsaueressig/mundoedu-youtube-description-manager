@@ -13,5 +13,6 @@ A FOTOSSÍNTESE é como se fosse uma respiração ao contrário! Na respiração
 
 Continue lendo: https://mundoedu.com.br/videoaula/375
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Citologia #Fotossíntese

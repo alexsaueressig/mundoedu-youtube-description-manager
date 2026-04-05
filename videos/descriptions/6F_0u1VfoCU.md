@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=6F_0u1VfoCU
 
 O vídeo mais esperado DO ANO com a convidada mais requisitada! 😍😍😍
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Redação

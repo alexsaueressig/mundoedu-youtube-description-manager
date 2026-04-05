@@ -62,5 +62,6 @@ url: https://www.youtube.com/watch?v=TPYs7Yd_3YE
 - Ampliação da legislação trabalhista
 - Emenda da reeleição
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #Revisão

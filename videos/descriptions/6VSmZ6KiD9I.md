@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=6VSmZ6KiD9I
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 3 sobre Eletrodinâmica: Potência e consumo de energia elétrica. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica potência e consumo de energia elétrica — parte do módulo de eletrodinâmica.
 
+👉 Qual a diferença entre potência e consumo de energia elétrica?
+👉 Como estudar eletrodinâmica para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Eletrodinâmica

@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=8V-4qDWzETo
 
 Quer calcular a probabilidade d@ crush te chamar pra sair? Ou a probabilidade de acertar os números da loteria? E a probabilidade de ganhar uma promoshare? Nesta videoaula, o professor Gui vai ensinar o que são probabilidades: espaço amostral, evento e cálculo.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Probabilidade

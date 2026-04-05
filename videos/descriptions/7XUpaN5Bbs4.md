@@ -11,5 +11,6 @@ url: https://www.youtube.com/watch?v=7XUpaN5Bbs4
 👉 O que é senso comum?
 👉 O que é conhecimento empírico e conhecimento científico?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #Epistemologia #TeoriaConhecimento #TiposConhecimento

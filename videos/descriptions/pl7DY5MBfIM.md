@@ -16,5 +16,6 @@ Videoaula do professor Vasco sobre 4 forças importantes para o ENEM:
 👉  FORÇAS #2 - PRÓXIMA AULA:
 https://mundoedu.com.br/videoaula/213
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Dinâmica #Forças1

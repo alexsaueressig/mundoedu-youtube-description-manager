@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=Wu5r7G4RrlE
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Bussunda responde! #RUUI
+Prof. Bussunda responde: A Guerra Civil Espanhola teve influências socialistas e capitalistas?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 A Guerra Civil Espanhola teve influências socialistas e capitalistas?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte #RUUI

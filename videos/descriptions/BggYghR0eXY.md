@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=BggYghR0eXY
 Ó o gááás! 🔥
 Nesta videoaula, o professor Camacho vai falar sobre bolhas de sabão, mergulhos, jogos da seleção, viagens de balão... e sobre como tudo isso se relaciona com as transformações químicas!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas #MisturasGasosas

@@ -22,5 +22,6 @@ Outros tópicos:
 
 Bastante coisa né?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #PrimaveraÁrabe #África #Atualidades

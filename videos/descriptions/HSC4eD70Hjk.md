@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=HSC4eD70Hjk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Mecânica Impulsiva (1/2). Conteúdo de Física para o ENEM.
+Nesta aula, o prof. Vasco explica mecânica impulsiva.
 
+👉 O que é mecânica impulsiva?
+👉 Como mecânica impulsiva cai no ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #MecânicaImpulsiva

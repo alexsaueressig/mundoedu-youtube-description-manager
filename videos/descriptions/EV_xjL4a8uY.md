@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=EV_xjL4a8uY
 
 👉 Um movimento oblíquo é um movimento parte vertical e parte horizontal... É mais fácil do que você imagina!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Cinemática

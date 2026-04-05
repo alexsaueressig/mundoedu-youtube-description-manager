@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=OIdPQDsetDk
 
 👉🌊 Conceito, classificação, características, elementos e exemplos do cotidiano. Tudo sobre ondas!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Oscilações #OndasOndulatória

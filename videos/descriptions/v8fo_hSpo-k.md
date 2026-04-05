@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=v8fo_hSpo-k
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 4 sobre Estatística: Medidas de tendência central (moda, média e mediana). Videoaula de Matemática para o ENEM.
+Nesta aula, o prof. Gui Valenzuela explica medidas de tendência central (moda, média e mediana) — parte do módulo de estatística.
 
+👉 O que é medidas de tendência central (moda, média e mediana)?
+👉 Como estudar estatística para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Estatística

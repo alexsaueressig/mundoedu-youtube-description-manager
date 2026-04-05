@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=vAfCYner4BM
 
 👉 Rapaziada, Napoleão Bonaparte foi uma figura importante na história do mundo. Hoje vamos falar deste rapaz, que praticamente se transformou em um mito... Dá play aí, vamos lá, rumo ao topo do ENEM!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #EraDasRevoluções

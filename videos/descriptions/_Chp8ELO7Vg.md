@@ -17,5 +17,6 @@ Principais tópicos:
 - Biomassa: etanol, biodiesel, termelétricas
 - Energias alternativas: eólica, solar, oceânica (Pecém)
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #ProduçãoDeEnergia #ProduçãoEnergia #Brasil

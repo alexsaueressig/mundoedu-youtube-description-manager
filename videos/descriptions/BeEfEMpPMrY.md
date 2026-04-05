@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=BeEfEMpPMrY
 
 👉 Videoaula com o professor Vasco sobre os fenômenos ondulatórios: reflexão, refração, difração, ressonância, polarização, interferências construtiva e destrutiva e batimentos.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Oscilações #FenômenosOndulatórios

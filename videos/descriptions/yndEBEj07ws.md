@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=yndEBEj07ws
 
 Pergunta e resposta sobre História: o professor Bussunda explica o que levou Dom Pedro I a abdicar em 1831 e o contexto político do período.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #DomPedroI #BrasilImpério #Pergunte

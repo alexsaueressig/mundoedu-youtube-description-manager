@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=rxivLM9zRCw
 
 Nesta videoaula, o professor Gui Valenzuela vai falar sobre as medidas de dispersão: desvio médio, desvio padrão e variância.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Estatística #MedidasDispersão

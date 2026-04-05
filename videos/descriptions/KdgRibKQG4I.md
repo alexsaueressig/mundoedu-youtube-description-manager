@@ -10,5 +10,6 @@ url: https://www.youtube.com/watch?v=KdgRibKQG4I
 🏺 AULA ANTERIOR SOBRE GRÉCIA: Grécia Antiga - Formação
 https://mundoedu.com.br/videoaula/96
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #Antiguidade #AntiguidadeOcidental #GréciaAntiga

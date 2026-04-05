@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=YIeEtjW_UJQ
 
 Nesta videoaula, o professor Camacho fala dos métodos de separação de misturas: catação, peneiração, ventilação, levigação, decantação, filtração, evaporação, centrifugação, destilação, dissolução e cromatografia.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #SubstânciasMisturas #SeparaçãoMisturas

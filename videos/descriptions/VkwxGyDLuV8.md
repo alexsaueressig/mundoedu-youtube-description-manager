@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=VkwxGyDLuV8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 5 sobre Primeiros Estados: Mesopotâmia. Videoaula de História para o ENEM.
+Nesta aula, o prof. Bussunda explica mesopotâmia — parte do módulo de primeiros estados.
 
+👉 O que é mesopotâmia?
+👉 Como estudar primeiros estados para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #PrimeirosEstados #Mesopotâmia

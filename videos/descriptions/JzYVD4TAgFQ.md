@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=JzYVD4TAgFQ
 
 Nesta videoaula, o professor Gui Valenzuela vai falar sobre a Função Afim: lei da função, valor numérico da função e exemplos.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #FunçãoAfim #LeiFunçãoAfim

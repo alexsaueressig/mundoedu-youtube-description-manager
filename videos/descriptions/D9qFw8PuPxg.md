@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=D9qFw8PuPxg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 6 de 6 sobre Hidrostática: Densidade e Viscosidade. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica densidade e viscosidade — parte do módulo de hidrostática.
 
+👉 Qual a diferença entre densidade e viscosidade?
+👉 Como estudar hidrostática para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Hidrostática #DensidadeViscosidade

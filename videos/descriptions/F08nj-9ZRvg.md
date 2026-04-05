@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=F08nj-9ZRvg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 9 de 9 sobre Litosfera: Solos. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica solos — parte do módulo de litosfera.
 
+👉 O que são solos?
+👉 Como estudar litosfera para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Litosfera #Solos

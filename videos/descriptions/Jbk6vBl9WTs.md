@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=Jbk6vBl9WTs
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Bussunda responde! #RUUI
+Prof. Bussunda responde: qual era a relação de Getúlio Vargas com o Nazismo/Fascismo?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Qual era a relação de Getúlio Vargas com o Nazismo/Fascismo?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte #RUUI

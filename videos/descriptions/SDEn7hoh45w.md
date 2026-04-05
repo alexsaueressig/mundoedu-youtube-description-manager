@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=SDEn7hoh45w
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Giba  responde! #Criatuuuura
+Prof. Giba responde: el Niño e La Niña podem se agravar com o efeito estufa?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 El Niño e La Niña podem se agravar com o efeito estufa?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Criatuuuura #Pergunte

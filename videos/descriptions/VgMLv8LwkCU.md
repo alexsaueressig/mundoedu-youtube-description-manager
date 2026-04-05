@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=VgMLv8LwkCU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Revolução Francesa, movimento social e político ocorrido na França no final do século XVIII que demarcou o início da Idade Contemporânea, com a Tomada da Bastilha em 1789.
+Nesta videoaula, o prof. Bussunda faz um resumão de revolução francesa pra você revisar pro ENEM.
 
+👉 O que estudar sobre revolução francesa pro ENEM?
+👉 Quais os principais conceitos de revolução francesa?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #RevoluçãoFrancesa #Resumo

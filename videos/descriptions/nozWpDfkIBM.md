@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=nozWpDfkIBM
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 4 sobre Eletrostática: Carga elétrica. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica carga elétrica — parte do módulo de eletrostática.
 
+👉 O que é carga elétrica?
+👉 Como estudar eletrostática para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Eletrostática #CargaElétrica

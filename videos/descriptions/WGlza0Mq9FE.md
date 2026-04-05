@@ -12,5 +12,6 @@ Qual a origem da Química?
 O que se estuda na Química?
 Para que serve a Química?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #IntroduçãoÀQuímica

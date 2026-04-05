@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=thiKWgLGxDY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 6 sobre População: Conceitos e Taxas. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica conceitos e taxas — parte do módulo de população.
 
+👉 Qual a diferença entre conceitos e taxas?
+👉 Como estudar população para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #População #ConceitosTaxas

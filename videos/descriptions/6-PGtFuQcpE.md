@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=6-PGtFuQcpE
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 6 sobre Arte clássica: Alta Renascença. Videoaula de Mundo Artes para o ENEM.
+Nesta aula, o prof. JowJow explica alta renascença — parte do módulo de arte clássica.
 
+👉 O que é alta renascença?
+👉 Como estudar arte clássica para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ArteClássica #AltaRenascença

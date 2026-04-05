@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=9SLtYU8eRqY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 4 sobre Eletrostática: Processos de eletrização e Lei de Coulomb. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica processos de eletrização e lei de coulomb — parte do módulo de eletrostática.
 
+👉 Qual a diferença entre processos de eletrização e lei de coulomb?
+👉 Como estudar eletrostática para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Eletrostática

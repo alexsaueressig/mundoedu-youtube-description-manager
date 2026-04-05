@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=ZMunD9b_APY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 3 sobre Logaritmos: Definição e consequências. Videoaula de Matemática para o ENEM.
+Nesta aula, o prof. Gui Valenzuela explica definição e consequências — parte do módulo de logaritmos.
 
+👉 Qual a diferença entre definição e consequências?
+👉 Como estudar logaritmos para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Logaritmos #DefiniçãoConsequências

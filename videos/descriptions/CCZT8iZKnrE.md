@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=CCZT8iZKnrE
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 4 de 6 sobre Hidrostática: Princípio de Pascal. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica princípio de pascal — parte do módulo de hidrostática.
 
+👉 O que é princípio de pascal?
+👉 Como estudar hidrostática para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Hidrostática #PrincípioPascal

@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=FGvW5QerHgg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 6 sobre População: Teorias Demográficas. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica teorias demográficas — parte do módulo de população.
 
+👉 O que são teorias demográficas?
+👉 Como estudar população para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #População #TeoriasDemográficas

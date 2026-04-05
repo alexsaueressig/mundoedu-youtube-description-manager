@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=3xxvAjpYv44
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 5 de 6 sobre Globalização: Blocos econômicos. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica blocos econômicos — parte do módulo de globalização.
 
+👉 O que são blocos econômicos?
+👉 Como estudar globalização para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Globalização #BlocosEconômicos

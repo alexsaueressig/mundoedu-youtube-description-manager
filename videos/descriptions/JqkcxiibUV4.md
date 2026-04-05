@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=JqkcxiibUV4
 
 Nesta videoaula, o professor Camacho vai falar sobre átomos, íons (cátions e ânions), prótons, elétrons, nêutrons e elementos isótopos, isótonos, isóbaros e isoeletrônicos.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas #AtomísticaIsotopia

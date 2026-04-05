@@ -13,5 +13,6 @@ url: https://www.youtube.com/watch?v=qbeWIbVXbcE
 - Código Florestal Brasileiro: Reserva Legal e APP (Área de Preservação Permanente)
 - Lixo: lixões e a famosa Política Nacional dos Resíduos Sólidos
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #MeioAmbiente

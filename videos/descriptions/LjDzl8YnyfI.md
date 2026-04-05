@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=LjDzl8YnyfI
 
 Coisa linda essa equipe gente!  ❤
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #MakingOf

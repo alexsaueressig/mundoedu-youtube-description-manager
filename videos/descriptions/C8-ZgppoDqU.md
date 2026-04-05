@@ -6,7 +6,10 @@ url: https://www.youtube.com/watch?v=C8-ZgppoDqU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 6 de 8 sobre Fisiologia: Sistema Imune. Videoaula de Biologia para o ENEM.
+Nesta aula, explicamos sistema imune — parte do módulo de fisiologia.
+
+👉 O que é sistema imune?
+👉 Como estudar fisiologia para o ENEM?
 
 👩‍⚕️ FISIOLOGIA - MÓDULO COMPLETO
 ✔️ Aula 1 - Sistema nervoso: https://mundoedu.com.br/videoaula/519
@@ -18,5 +21,6 @@ Aula 6 de 8 sobre Fisiologia: Sistema Imune. Videoaula de Biologia para o ENEM.
 ✔️ Aula 7 - Sistema endócrino: https://mundoedu.com.br/videoaula/525
 ✔️ Aula 8 - Sistema reprodutor: https://mundoedu.com.br/videoaula/526
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Fisiologia #SistemaImune

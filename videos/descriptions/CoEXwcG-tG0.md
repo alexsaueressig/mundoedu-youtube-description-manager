@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=CoEXwcG-tG0
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 4 sobre Função quadrática: Coordenadas do vértice. Videoaula de Matemática para o ENEM.
+Nesta aula, o prof. Gui Valenzuela explica coordenadas do vértice — parte do módulo de função quadrática.
 
+👉 O que é coordenadas do vértice?
+👉 Como estudar função quadrática para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #FunçãoQuadrática #CoordenadasVértice

@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=Hdj0Iyr0NVg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 2 sobre Energia: Energia, Trabalho e Potência. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica energia, trabalho e potência — parte do módulo de energia.
 
+👉 O que é energia, trabalho e potência?
+👉 Como estudar energia para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Energia #EnergiaTrabalhoPotência

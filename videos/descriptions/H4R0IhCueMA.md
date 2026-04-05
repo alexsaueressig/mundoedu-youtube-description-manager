@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=H4R0IhCueMA
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 2 sobre Função exponencial: Equação Exponencial. Videoaula de Matemática para o ENEM.
+Nesta aula, o prof. Gui Valenzuela explica equação exponencial — parte do módulo de função exponencial.
 
+👉 O que é equação exponencial?
+👉 Como estudar função exponencial para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #FunçãoExponencial #EquaçãoExponencial

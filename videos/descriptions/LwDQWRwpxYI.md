@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=LwDQWRwpxYI
 
 Continuando na estequiometria, nesta videoaula o professor Camacho explica os conceitos de reagente limitante, reagente em excesso, pureza e rendimento.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas #Estequiometria

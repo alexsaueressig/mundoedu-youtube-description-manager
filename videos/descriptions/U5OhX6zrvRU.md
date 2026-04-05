@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=U5OhX6zrvRU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 7 de 9 sobre Arte moderna: SURREALISMO. Videoaula de Mundo Artes para o ENEM.
+Nesta aula, o prof. JowJow explica surrealismo — parte do módulo de arte moderna.
 
+👉 O que é surrealismo?
+👉 Como estudar arte moderna para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ArteModerna #Surrealismo

@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=5CwEOa67DzQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 6 sobre Terra: Orientação e Coordenadas Geográficas. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica orientação e coordenadas geográficas — parte do módulo de terra.
 
+👉 Qual a diferença entre orientação e coordenadas geográficas?
+👉 Como estudar terra para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Terra

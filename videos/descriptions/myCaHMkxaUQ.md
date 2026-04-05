@@ -12,5 +12,6 @@ Aqui o prof Giba vai falar sobre escassez hídrica, água potável e contaminaç
 
 Gostou? Não esquece de deixar teu like, teu comentário e nos seguir nas redes socias! \o/\o/\o/
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #DisponibilidadeÁgua

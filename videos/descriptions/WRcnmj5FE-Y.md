@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=WRcnmj5FE-Y
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Escola de Frankfurt. Conteúdo de Sociologia para o ENEM.
+Nesta videoaula, explicamos escola de frankfurt.
 
+👉 O que é escola de frankfurt?
+👉 Como escola de frankfurt cai no ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Sociologia #EscolaDeFrankfurt #EscolaFrankfurt

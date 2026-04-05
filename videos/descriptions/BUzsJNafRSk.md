@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=BUzsJNafRSk
 
 Nesta videoaula, o professor Gui Valenzuela resolve alguns exercícios envolvendo os diferentes assuntos da estatística: tabelas de frequência, medidas de tendência central e medidas de dispersão.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Estatística #ExercíciosResolvidos

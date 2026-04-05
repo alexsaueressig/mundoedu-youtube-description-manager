@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=85bci9Mygtk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 4 de 4 sobre Geometria plana: Exercícios resolvidos. Videoaula de Matemática para o ENEM.
+Nesta aula, o prof. Gui Valenzuela resolve exercícios de geometria plana.
 
+👉 Como resolver exercícios de geometria plana?
+👉 Quais exercícios de geometria plana caem no ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #GeometriaPlana #ExercíciosResolvidos

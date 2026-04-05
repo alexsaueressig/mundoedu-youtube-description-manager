@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=SZCsf8MQ4b8
 
 Entenda o conflito entre judeus e árabes palestinos no Oriente Médio.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Atualidades #Israel #Judeus #Árabes

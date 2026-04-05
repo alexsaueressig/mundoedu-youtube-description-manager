@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=IcYn77Cbpyg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Vasco responde!
+Prof. Vasco responde: O que é uma onda mecânica?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 O que é uma onda mecânica?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte

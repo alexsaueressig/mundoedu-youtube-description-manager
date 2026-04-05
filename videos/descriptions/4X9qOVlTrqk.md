@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=4X9qOVlTrqk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Bussunda responde! #RUUI
+Prof. Bussunda responde: A fuga da Família Real influenciou na independência do Brasil?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 A fuga da Família Real influenciou na independência do Brasil?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte #RUUI

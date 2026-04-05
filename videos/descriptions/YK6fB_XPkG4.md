@@ -10,5 +10,6 @@ url: https://www.youtube.com/watch?v=YK6fB_XPkG4
 👉 Como é a arquitetura do Coliseu?
 👉 Qual a diferença da arquitetura grega e da arquitetura romana?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #RomaAntiga

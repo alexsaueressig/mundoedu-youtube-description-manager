@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=6h4FcduXTnQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Globalização (2/6). Conteúdo de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica globalização.
 
+👉 O que é globalização?
+👉 Como globalização cai no ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Globalização

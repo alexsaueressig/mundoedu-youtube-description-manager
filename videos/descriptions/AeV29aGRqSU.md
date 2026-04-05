@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=AeV29aGRqSU
 
 Nesta videoaula, o professor Camacho vai falar da famooosa tabela periódica: história, estrutura, organização, simbologia e propriedades (periódicas e aperiódicas).
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas

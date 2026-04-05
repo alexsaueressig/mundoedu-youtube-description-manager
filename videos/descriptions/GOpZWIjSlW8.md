@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=GOpZWIjSlW8
 
 Nesta aula sobre Análise Combinatória, o professor Gui vai ensinar o que são permutações, como identificá-las e como resolver os exercícios desse assunto.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #AnáliseCombinatória #Permutações

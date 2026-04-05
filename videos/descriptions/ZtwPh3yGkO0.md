@@ -10,5 +10,6 @@ url: https://www.youtube.com/watch?v=ZtwPh3yGkO0
 👉 05:01 - 2ª Segunda Lei de Newton (Princípio Fundamental)
 👉 08:30 - 3ª Terceira Lei de Newton (Lei da ação e reação)
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Dinâmica #LeisNewton

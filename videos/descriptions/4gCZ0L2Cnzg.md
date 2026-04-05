@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=4gCZ0L2Cnzg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 2 sobre Magnetismo: Transformadores. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica transformadores — parte do módulo de magnetismo.
 
+👉 O que são transformadores?
+👉 Como estudar magnetismo para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Magnetismo #Transformadores

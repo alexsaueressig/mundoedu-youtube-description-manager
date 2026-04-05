@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=g5uqGcd6mBk
 
 👉 Aulinha romântica para vocês hoje! ❤❤❤❤
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ArteClássica #Romantismo

@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=GNkQxM4gP_8
 
 Super videoaula sobre a #Constituição Brasileira com o prof. #Bussunda, do Mundo História, e o prof. #Giba, do Mundo Geografia.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Constituição #Bussunda #Giba #Atualidades

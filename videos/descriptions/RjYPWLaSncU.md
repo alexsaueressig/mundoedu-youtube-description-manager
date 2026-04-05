@@ -6,11 +6,13 @@ url: https://www.youtube.com/watch?v=RjYPWLaSncU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧫 HISTOLOGIA 
+🧫 HISTOLOGIA
+
 👉 Módulo completo
 ✔️ Aula 1 - Tecido Epitelial: https://mundoedu.com.br/videoaula/383
 ✔️ Aula 2 - Tecido Conjuntivo: https://mundoedu.com.br/videoaula/384
 ✔️ Aula 3 - Tecido Muscular e Tecido Nervoso: https://mundoedu.com.br/videoaula/385
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Histologia #TecidoMuscularNervoso

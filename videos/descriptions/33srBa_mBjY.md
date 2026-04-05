@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=33srBa_mBjY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 6 sobre Hidrostática: Pressão Hidrostática. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica pressão hidrostática — parte do módulo de hidrostática.
 
+👉 O que é pressão hidrostática?
+👉 Como estudar hidrostática para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Hidrostática #PressãoHidrostática

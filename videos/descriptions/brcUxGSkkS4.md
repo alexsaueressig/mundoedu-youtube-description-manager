@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=brcUxGSkkS4
 
 👉 Nesta videoaula o prof. Betover fala sobre a FORMAÇÃO DO ESTADO MODERNO.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #Estado

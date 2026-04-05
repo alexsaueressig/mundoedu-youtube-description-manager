@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=jQ3bYTtEu10
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 4 de 5 sobre Dinâmica: Leis de Kepler e Lei da Gravitação Universal. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica leis de kepler e lei da gravitação universal — parte do módulo de dinâmica.
 
+👉 Qual a diferença entre leis de kepler e lei da gravitação universal?
+👉 Como estudar dinâmica para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Dinâmica

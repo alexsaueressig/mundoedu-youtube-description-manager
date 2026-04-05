@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=DG_x1JeiUJk
 
 👉 A ética no Helenismo, Escolas Helênicas, a moral e a ética cristã
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #FilosofiaMoral

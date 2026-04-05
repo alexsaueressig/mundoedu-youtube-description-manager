@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=rIe547sS6II
 
 👉 Aquela famosa aula sobre TEORIA DO CONHECIMENTO (ou Epistemologia).
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #Epistemologia #TeoriaConhecimento #IntroduçãoÀEpistemologia

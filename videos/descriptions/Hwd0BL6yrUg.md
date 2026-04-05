@@ -11,5 +11,6 @@ url: https://www.youtube.com/watch?v=Hwd0BL6yrUg
 👉 Parte 2 - Características do Regime Militar - https://mundoedu.com.br/videoaula/39
 👉 Parte 3 - Presidentes do Regime Militar - https://mundoedu.com.br/videoaula/40
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #HistóriaDoBrasil

@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=Z99Ktk1QeGs
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 5 sobre Primeiros Estados: Egito. Videoaula de História para o ENEM.
+Nesta aula, o prof. Bussunda explica egito — parte do módulo de primeiros estados.
 
+👉 O que é egito?
+👉 Como estudar primeiros estados para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #PrimeirosEstados #Egito

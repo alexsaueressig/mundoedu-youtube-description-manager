@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=5ZuwHdfaqxI
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Bussunda responde! #RUUI
+Prof. Bussunda responde: quem foi o Barão de Mauá?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Quem foi o Barão de Mauá?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte #RUUI

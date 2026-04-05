@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=WNMfSeY64aY
 
 Quer aprender a resolver na prática os problemas de porcentagem que costumam cair no ENEM? Então presta atenção nesta videoaula que o professor Gui vai resolver alguns exercícios!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Porcentagem #ExercíciosResolvidos

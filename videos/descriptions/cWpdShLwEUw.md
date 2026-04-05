@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=cWpdShLwEUw
 
 👉 A era da imagem, a sociologia e a sociedade midiática
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Sociologia #Comunicação

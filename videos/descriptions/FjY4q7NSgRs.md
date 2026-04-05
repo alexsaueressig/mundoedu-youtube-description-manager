@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=FjY4q7NSgRs
 
 👉 Videoaula sobre como interpretar duas formas de arte bastante cobradas no ENEM: a música e a literatura.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Literatura

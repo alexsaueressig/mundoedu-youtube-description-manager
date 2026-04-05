@@ -10,7 +10,6 @@ url: https://www.youtube.com/watch?v=MhiSo8cGvoM
 ✔️ 3:30 Ciclo do carbono
 ✔️ 6:50 Ciclo do nitrogênio
 
-🌱 ECOLOGIA - MÓDULO COMPLETO
 - Aula 1 - Biomas: https://mundoedu.com.br/videoaula/536
 - Aula 2 - Ciclos biogeoquímicos: https://mundoedu.com.br/videoaula/537
 - Aula 3 - Relações ecológicas: https://mundoedu.com.br/videoaula/538
@@ -19,5 +18,8 @@ url: https://www.youtube.com/watch?v=MhiSo8cGvoM
 - Aula 6 - Sucessão ecológica: https://mundoedu.com.br/videoaula/541
 - Aula 7 - Desequilíbrios ambientais: https://mundoedu.com.br/videoaula/543
 
+🌱 ECOLOGIA - MÓDULO COMPLETO
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Ecologia #CiclosBiogeoquímicos

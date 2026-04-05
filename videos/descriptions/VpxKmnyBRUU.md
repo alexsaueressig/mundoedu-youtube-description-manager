@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=VpxKmnyBRUU
 
 Vídeo feito com muito carinho para a galera do Colégio Estadual Humberto Mendes, de Palmeira dos Índios/AL! #ExpoMendes
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ExpoMendes #MundoEdu

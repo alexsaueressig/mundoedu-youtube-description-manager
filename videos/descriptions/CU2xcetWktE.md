@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=CU2xcetWktE
 
 Nesta videoaula, o professor Gui Valenzuela ensina um truque fácil e rápido para encontrar o MDC e o MMC e resolve exercícios aplicando a regra prática.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #MDCeMMC #MmcMdc #ExercíciosResolvidos

@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=tAllCRCtoGQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Bussunda responde! #RUUI
+Prof. Bussunda responde: O Iluminismo serviu para consolidar a supremacia da Burguesia?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 O Iluminismo serviu para consolidar a supremacia da Burguesia?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte #RUUI

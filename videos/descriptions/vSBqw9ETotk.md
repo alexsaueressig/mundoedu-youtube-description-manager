@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=vSBqw9ETotk
 
 Nesta videoaula, o professor Gui explica o que é um Triângulo Qualquer e fala sobre as Leis dos Senos e Cossenos.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Trigonometria #TriânguloQualquer

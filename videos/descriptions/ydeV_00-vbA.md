@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=ydeV_00-vbA
 
 Prof. Dani Bressan resolve 7 questões de português para vocês!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Português #QuestõesComentadas #Gramática

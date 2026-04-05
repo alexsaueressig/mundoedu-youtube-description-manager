@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=khEBus_ECQU
 
 Nesta aula, o professor Gui Valenzuela vai falar sobre  money (que é good nós não have): matemática financeira, juros simples e juros compostos.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #MatemáticaFinanceira

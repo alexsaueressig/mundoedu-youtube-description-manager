@@ -6,7 +6,10 @@ url: https://www.youtube.com/watch?v=k1hTepClCcQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 7 de 7 sobre Ecologia: Desequilíbrios Ambientais. Videoaula de Biologia para o ENEM.
+Nesta aula, explicamos desequilíbrios ambientais — parte do módulo de ecologia.
+
+👉 O que são desequilíbrios ambientais?
+👉 Como estudar ecologia para o ENEM?
 
 🌱 ECOLOGIA - MÓDULO COMPLETO
 ✔️ Aula 1 - Biomas: https://mundoedu.com.br/videoaula/536
@@ -17,5 +20,6 @@ Aula 7 de 7 sobre Ecologia: Desequilíbrios Ambientais. Videoaula de Biologia pa
 ✔️ Aula 6 - Sucessão ecológica: https://mundoedu.com.br/videoaula/541
 ✔️ Aula 7 - Desequilíbrios ambientais: https://mundoedu.com.br/videoaula/543
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Ecologia #DesequilíbriosAmbientais

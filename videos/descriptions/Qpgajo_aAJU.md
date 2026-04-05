@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=Qpgajo_aAJU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Hidrostática (1/6). Conteúdo de Física para o ENEM.
+Nesta aula, o prof. Vasco explica hidrostática.
 
+👉 O que é hidrostática?
+👉 Como hidrostática cai no ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Hidrostática

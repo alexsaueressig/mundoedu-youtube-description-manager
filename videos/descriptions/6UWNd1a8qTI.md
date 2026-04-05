@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=6UWNd1a8qTI
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 3 sobre Geometria espacial: Esfera, cone e pirâmide. Videoaula de Matemática para o ENEM.
+Nesta aula, o prof. Gui Valenzuela explica esfera, cone e pirâmide — parte do módulo de geometria espacial.
 
+👉 O que é esfera, cone e pirâmide?
+👉 Como estudar geometria espacial para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #GeometriaEspacial #EsferaConePirâmide

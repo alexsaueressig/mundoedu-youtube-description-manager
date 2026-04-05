@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=Q8XSVelzPRA
 
 Nesta proposta de redação ENEM, a discussão é sobre mídias sociais, seus impactos na comunicação, no comportamento e na formação de opinião.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Redação #RedaçãoENEM #MídiasSociais #ComunicaçãoDigital

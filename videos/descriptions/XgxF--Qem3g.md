@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=XgxF--Qem3g
 
 EDUVideoaula sobre a Revolução Industrial, que foi a transição para novos processos de manufatura iniciada no Reino Unido a partir de 1760. #História #Industrialização
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #Industrialização #RevoluçãoIndustrial #Resumo

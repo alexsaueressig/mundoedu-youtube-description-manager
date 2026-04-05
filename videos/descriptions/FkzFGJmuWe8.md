@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=FkzFGJmuWe8
 Macho, macho man!
 Quer aprender a fazer o balanceamento de equações químicas ao som de Macho Man? Então dá o play e aprenda o método MACHO do professor Camacho! 🕺
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas

@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=ee_Ox8_Jgkw
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 6 sobre População: Estrutura Populacional e IDH. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica estrutura populacional e IDH — parte do módulo de população.
 
+👉 Qual a diferença entre estrutura populacional e IDH?
+👉 Como estudar população para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #População #EstruturaPopulacionalIdh

@@ -10,5 +10,6 @@ url: https://www.youtube.com/watch?v=aSWHfd_jcCU
 Alerta SPOILER: Claudia Leite não estava certa, o Brasil tem terremotos sim!! :O
 Mas fica susse que professor Giba explica tudo sobre tectonismo, vulcanismo e abalos sísmicos (terremoto e maremoto)...
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Litosfera #Relevo

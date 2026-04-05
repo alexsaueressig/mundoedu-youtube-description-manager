@@ -10,5 +10,6 @@ url: https://www.youtube.com/watch?v=t5iU9fO0jaU
 👉O que é positivismo? 
 👉 Por que a frase "Ordem e Progresso" é positivista?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Sociologia #Comte #Durkheim

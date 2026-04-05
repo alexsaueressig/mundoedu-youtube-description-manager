@@ -22,5 +22,6 @@ url: https://www.youtube.com/watch?v=EYqyVO7V4mQ
 ✔️ Aula 7 - Clonagem, transgênicos e CRISPR: https://mundoedu.com.br/videoaula/533
 ✔️ Aula 8 - Evolução: https://mundoedu.com.br/videoaula/535
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Genética

@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=1iGMHJ_o9i4
 
 Nesta aula, o professor Gui Valenzuela fala sobre os Agrupamentos da Análise Combinatória: os arranjos e as combinações.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #AnáliseCombinatória

@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=24j6vhhRtkY
 
 Nesta videoaula, o professor Gui Valenzuela fala da Função Afim, explicando o gráfico, os coeficientes e a raiz da função.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #FunçãoAfim #GráficoCoeficientesRaiz

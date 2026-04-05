@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=swbxTyYHTb0
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-A professora Dani Bressan responde! #DaniMaravilha #Sensacional
+Profª Dani responde: O que é antítese?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 O que é antítese?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Sensacional #Pergunte #DaniMaravilha

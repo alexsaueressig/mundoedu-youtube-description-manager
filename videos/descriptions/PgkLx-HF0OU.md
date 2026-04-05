@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=PgkLx-HF0OU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 2 sobre Termodinâmica: Estudo dos gases. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica estudo dos gases — parte do módulo de termodinâmica.
 
+👉 O que são estudo dos gases?
+👉 Como estudar termodinâmica para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Termodinâmica #EstudoGases

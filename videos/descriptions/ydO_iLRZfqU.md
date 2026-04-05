@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=ydO_iLRZfqU
 
 👉 As relações de poder em Foucault, força e poder, relações de poder, poder coercitivo, discurso, pan-óptico...
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #FilosofiaPolítica #RelaçõesPoderFoucault

@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=AAPKgOX4_NM
 Say my name!
 Nesta videoaula, vamos estudar os modelos atômicos propostos por Demócrito e Leucipo, Dalton, Thomson, Rutherford, Bohr e o modelo atual.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas #ModelosAtômicos

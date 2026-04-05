@@ -17,5 +17,6 @@ url: https://www.youtube.com/watch?v=9ufZWn8MKik
 ✔️ Aula 4 - Fisiologia vegetal: https://mundoedu.com.br/videoaula/517
 ✔️ Aula 5 - Fungos: https://mundoedu.com.br/videoaula/518
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Botanica #Botânica #Fungos

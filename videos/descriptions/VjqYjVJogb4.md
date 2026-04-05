@@ -12,5 +12,6 @@ Maquiavel (1469-1527), é um dos mais importantes pensadores de todos os tempos,
 
 Enquanto Platão, Aristóteles, Santo Agostinho e Thomas Morus, por exemplo, procuraram estabelecer as características de um Estado ideal, Maquiavel seguiu no sentido oposto: ao invés de se preocupar com o que o Estado deveria ser, procurou desenvolver uma teoria a partir do que o Estado era de fato (...)
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #FilosofiaPolítica #Maquiavel

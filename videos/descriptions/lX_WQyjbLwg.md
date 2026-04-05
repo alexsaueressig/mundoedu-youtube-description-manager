@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=lX_WQyjbLwg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 2 sobre Mecânica Impulsiva: Lei da conservação da quantidade de movimento. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica lei da conservação da quantidade de movimento — parte do módulo de mecânica impulsiva.
 
+👉 O que é lei da conservação da quantidade de movimento?
+👉 Como estudar mecânica impulsiva para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #MecânicaImpulsiva

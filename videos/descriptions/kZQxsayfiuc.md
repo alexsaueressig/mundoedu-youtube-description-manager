@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=kZQxsayfiuc
 
 👉 Aula muito louca o prof. JowJow sobre o Renascimento!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ArteClássica #Renascença

@@ -11,5 +11,6 @@ O que são transformações gasosas?
 Quais os tipos de transformações gasosas?
 Qual é a diferença entre transformação isotérmica, isobárica e isovolumétrica?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas #Gases

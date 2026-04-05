@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=98cdP-cYOho
 
 👉 Filósofos principais: Nietzsche, Sartre, Habermas, Peter Singer (...)
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #FilosofiaMoral #ÉticaContemporânea

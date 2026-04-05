@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=IX2deQt5GBc
 
 Nesta videoaula, nossa #DaniRainha explica as principais regras da concordância verbal com vááários exemplos pra você arrasar na redação e nunca mais errar!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Português #ConcordânciaVerbal #DaniRainha

@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=0ySzA3UNoZU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 9 sobre Filosofia Política: Democracia e Liberdade. Videoaula de ENEM.
+Nesta aula, explicamos democracia e liberdade — parte do módulo de filosofia política.
 
+👉 Qual a diferença entre democracia e liberdade?
+👉 Como estudar filosofia política para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #FilosofiaPolítica #DemocraciaLiberdade

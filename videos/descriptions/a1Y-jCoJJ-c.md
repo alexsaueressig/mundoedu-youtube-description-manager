@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=a1Y-jCoJJ-c
 
 👉 O que é Movimento Retilíneo Uniforme? O professor Vasco explica!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Cinemática #OQueÉMru

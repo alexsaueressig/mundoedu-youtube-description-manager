@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=htA7uibLxsk
 
 Nesta videoaula, o professor Gui Valenzuela explica tudinho sobre as tabelas de frequência e os gráficos de setores, de pizza, de barras horizontais e verticais e de linha.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Estatística #TabelasGráficos

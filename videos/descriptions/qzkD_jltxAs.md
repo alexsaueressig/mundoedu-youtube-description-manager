@@ -15,5 +15,6 @@ RESPIRAÇÃO é o processo de oxidar a matéria orgânica pra obter energia. Ela
 
 Continue lendo: https://mundoedu.com.br/videoaula/270
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Citologia #RespiraçãoCelular

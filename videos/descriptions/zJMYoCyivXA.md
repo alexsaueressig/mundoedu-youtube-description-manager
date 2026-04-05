@@ -12,5 +12,6 @@ Aula com o Vasco, o prof. ogro e queridão... É o Shrek da Física! hahaha
 Mais aulas pro ENEM:
 https://mundoedu.com.br/fisica/plano-de-estudos
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Calorimetria

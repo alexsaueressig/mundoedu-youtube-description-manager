@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=KbVHwv2jw64
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 2 sobre Magnetismo: Campo magnético. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica campo magnético — parte do módulo de magnetismo.
 
+👉 O que é campo magnético?
+👉 Como estudar magnetismo para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Magnetismo #CampoMagnético

@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=w1p_uL4q9C0
 
 Nesta videoaula, o professor Gui relaciona Matemática e Economia: função receita, função custo e função lucro.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #FunçãoAfim #MatemáticaEconomia

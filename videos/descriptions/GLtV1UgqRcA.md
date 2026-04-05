@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=GLtV1UgqRcA
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Bussunda responde! #RUUI
+Prof. Bussunda responde: como Oliver Cromwell chegou ao poder?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Como Oliver Cromwell chegou ao poder?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte #RUUI

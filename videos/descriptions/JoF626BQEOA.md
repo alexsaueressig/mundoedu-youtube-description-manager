@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=JoF626BQEOA
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Bussunda responde! #RUUI
+Prof. Bussunda responde: em que período da História se encaixa o Matriarcado?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Em que período da História se encaixa o Matriarcado?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #Pergunte #RUUI

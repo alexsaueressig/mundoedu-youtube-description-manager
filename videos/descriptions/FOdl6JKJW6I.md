@@ -11,5 +11,6 @@ O que significa a equação "PV = nRT"?
 Quando utilizamos a equação dos gases ideais?
 Qual é o valor da constante universal dos gases?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas

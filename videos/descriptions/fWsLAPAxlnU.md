@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=fWsLAPAxlnU
 👉 Quais as principais características da arte grega?
 👉 Quais os temas da arte grega?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #GréciaAntiga

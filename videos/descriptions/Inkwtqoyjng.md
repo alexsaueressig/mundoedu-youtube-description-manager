@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=Inkwtqoyjng
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Bussunda responde! #RUUI
+Prof. Bussunda responde: como se diferenciavam os partidos Liberal e Conservador?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Como se diferenciavam os partidos Liberal e Conservador?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte #RUUI

@@ -16,5 +16,6 @@ Cursinho Pré-ENEM do MundoEdu
 Faça sua matrícula!
 https://mundoedu.com.br/matricula
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM

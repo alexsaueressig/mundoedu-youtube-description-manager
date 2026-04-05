@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=GESPsB7cQnk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 5 sobre Brasil Império: 1º Reinado. Videoaula de História para o ENEM.
+Nesta aula, o prof. Bussunda explica 1º reinado — parte do módulo de Brasil império.
 
+👉 O que é 1º reinado?
+👉 Como estudar Brasil império para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #BrasilImpério #1ºReinado

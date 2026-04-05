@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=Sc6MSR9l1g0
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 4 sobre Arte no Brasil: Arte contemporânea no Brasil. Videoaula de Mundo Artes para o ENEM.
+Nesta aula, o prof. JowJow explica arte contemporânea no Brasil — parte do módulo de arte no Brasil.
 
+👉 O que é arte contemporânea no Brasil?
+👉 Como estudar arte no Brasil para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ArteNoBrasil #ArteContemporâneaNoBrasil

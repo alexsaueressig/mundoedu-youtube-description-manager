@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=HuoDmHLarMU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 4 sobre Oscilações: Movimento Harmônico Simples (MHS). Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica movimento harmônico simples (MHS) — parte do módulo de oscilações.
 
+👉 O que é movimento harmônico simples (MHS)?
+👉 Como estudar oscilações para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Oscilações

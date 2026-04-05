@@ -17,7 +17,8 @@ Ewwwwww! 🤢 Nesta aula, o professor Guerra vai falar das principais doenças c
 🕒14:49 - Bicho Geográfico
 🕒 14:56 - Elefantíase/Filariose
 
-🐍 ZOOLOGIA 
+🐍 ZOOLOGIA
+
 👉 Módulo completo
 ✔️ Aula 1 - Poríferos, Cnidários e Platelmintos: https://mundoedu.com.br/videoaula/425
 ✔️ Aula 2 - Nematódeos e Anelídeos: https://mundoedu.com.br/videoaula/426
@@ -26,5 +27,6 @@ Ewwwwww! 🤢 Nesta aula, o professor Guerra vai falar das principais doenças c
 ✔️ Aula 5 - Equinodermos e Cordados: https://mundoedu.com.br/videoaula/429
 ✔️ Aula 6 - Vertebrados: https://mundoedu.com.br/videoaula/430
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Zoologia

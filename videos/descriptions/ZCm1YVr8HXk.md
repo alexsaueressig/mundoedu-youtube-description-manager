@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=ZCm1YVr8HXk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 6 sobre Arte clássica: Barroco. Videoaula de Mundo Artes para o ENEM.
+Nesta aula, o prof. JowJow explica barroco — parte do módulo de arte clássica.
 
+👉 O que é barroco?
+👉 Como estudar arte clássica para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ArteClássica #Barroco

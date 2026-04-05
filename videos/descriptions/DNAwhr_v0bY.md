@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=DNAwhr_v0bY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 4 de 5 sobre Primeiros Estados: Fenícios e Persas. Videoaula de História para o ENEM.
+Nesta aula, o prof. Bussunda explica fenícios e persas — parte do módulo de primeiros estados.
 
+👉 Qual a diferença entre fenícios e persas?
+👉 Como estudar primeiros estados para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #PrimeirosEstados #FeníciosPersas

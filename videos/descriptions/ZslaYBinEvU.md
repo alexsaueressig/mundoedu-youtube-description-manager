@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=ZslaYBinEvU
 
 👉 Videoaula com o professor Giba sobre fontes renováveis de energia: hidrelétrica, solar, eólica, oceânica, geotérmica e de biomassa.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #ProduçãoDeEnergia #ProduçãoEnergia #FontesEnergiasRenováveis

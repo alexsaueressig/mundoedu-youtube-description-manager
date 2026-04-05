@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=8oij5CsITkA
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 9 sobre Compostos Orgânicos: Funções Oxigenadas. Videoaula de Química para o ENEM.
+Nesta aula, o prof. Camacho explica funções oxigenadas — parte do módulo de compostos orgânicos.
 
+👉 O que são funções oxigenadas?
+👉 Como estudar compostos orgânicos para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #CompostosOrgânicos #FunçõesOxigenadas

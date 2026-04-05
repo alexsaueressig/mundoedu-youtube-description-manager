@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=gm8i4NM--68
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-A professora Dani Bressan responde! #DaniMaravilha #Sensacional
+Profª Dani responde: posso colocar frase de efeito na introdução da redação?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Posso colocar frase de efeito na introdução da redação?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Sensacional #Redação #Pergunte #DaniMaravilha

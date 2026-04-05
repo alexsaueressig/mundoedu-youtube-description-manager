@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=s08L2MnE6bQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 9 de 9 sobre Compostos Orgânicos: Macromoléculas: lipídios, aminoácidos e proteínas. Videoaula de Química para o ENEM.
+Nesta aula, o prof. Camacho explica macromoléculas: lipídios, aminoácidos e proteínas — parte do módulo de compostos orgânicos.
 
+👉 O que são macromoléculas: lipídios, aminoácidos e proteínas?
+👉 Como estudar compostos orgânicos para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #CompostosOrgânicos

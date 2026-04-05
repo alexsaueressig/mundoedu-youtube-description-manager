@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=wXjvN9KMbOM
 
 Nesta videoaula, a prof. Dani continua explicando as regras de acentuação, desta vez as regras especiais: regra do hiato, regra do ditongo+hiato e regra do ditongo aberto.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Português #RegrasEspeciais

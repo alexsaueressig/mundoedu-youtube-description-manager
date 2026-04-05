@@ -11,5 +11,6 @@ url: https://www.youtube.com/watch?v=eK1sTqqrNDk
 👉 Qual o objetivo da criação do mito da caverna?
 👉 O que representa a alegoria da caverna?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #Epistemologia #TeoriaConhecimento #MitoCavernaPlatão

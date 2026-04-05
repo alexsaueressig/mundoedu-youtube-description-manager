@@ -12,5 +12,6 @@ Boa prova, galera!! #RUUI
 
 https://mundoedu.com.br/historia
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #sqn #História #RUUI

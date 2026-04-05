@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=VvbeZdOGYCs
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 8 de 9 sobre Litosfera: Relevo do Brasil. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica relevo do Brasil — parte do módulo de litosfera.
 
+👉 O que é relevo do Brasil?
+👉 Como estudar litosfera para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Litosfera #RelevoBrasil

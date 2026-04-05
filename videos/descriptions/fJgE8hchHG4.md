@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=fJgE8hchHG4
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Condutividade Elétrica. Conteúdo de Química para o ENEM.
+Nesta videoaula, o prof. Camacho explica condutividade elétrica.
 
+👉 O que é condutividade elétrica?
+👉 Como condutividade elétrica cai no ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #Água #CondutividadeElétrica

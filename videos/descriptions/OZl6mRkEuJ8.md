@@ -12,5 +12,6 @@ url: https://www.youtube.com/watch?v=OZl6mRkEuJ8
 👉 O que é cultura?
 👉 O que é trabalho?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Sociologia #Conceitos #ConceitosFundamentais

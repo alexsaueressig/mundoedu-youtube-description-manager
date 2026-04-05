@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=TH94tXvSqTU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 4 sobre Arte no Brasil: Cultura africana no Brasil. Videoaula de Mundo Artes para o ENEM.
+Nesta aula, o prof. JowJow explica cultura africana no Brasil — parte do módulo de arte no Brasil.
 
+👉 O que é cultura africana no Brasil?
+👉 Como estudar arte no Brasil para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ArteNoBrasil #CulturaAfricanaNoBrasil

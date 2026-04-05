@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=ysngu594sBs
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Brasil Colônia (Século 17). Conteúdo de História para o ENEM.
+Nesta videoaula, o prof. Bussunda explica Brasil colônia (século 17).
 
+👉 O que é Brasil colônia (século 17)?
+👉 Como Brasil colônia (século 17) cai no ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #ÉpocaColonial #BrasilColônia

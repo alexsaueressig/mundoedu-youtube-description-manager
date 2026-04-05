@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=o0QHR8SRrk8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 2 sobre Vegetação: Vegetação Mundial. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica vegetação mundial — parte do módulo de vegetação.
 
+👉 O que é vegetação mundial?
+👉 Como estudar vegetação para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Vegetação #VegetaçãoMundial

@@ -11,5 +11,6 @@ Exemplos de transformações químicas?
 Qual a diferença entre transformação química e transformação física?
 O que é uma reação química?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas

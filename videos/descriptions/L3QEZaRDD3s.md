@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=L3QEZaRDD3s
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 7 sobre A Era das Revoluções: Revolução Inglesa. Videoaula de História para o ENEM.
+Nesta aula, o prof. Bussunda explica revolução inglesa — parte do módulo de a era das revoluções.
 
+👉 O que é revolução inglesa?
+👉 Como estudar a era das revoluções para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #EraDasRevoluções #RevoluçãoInglesa

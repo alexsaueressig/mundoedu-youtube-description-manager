@@ -30,5 +30,6 @@ url: https://www.youtube.com/watch?v=e8w7EWhsga4
 20. Pegada hídrica
 21. Trump (bônus)
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Atualidades #PodcastAtualidadesEnem

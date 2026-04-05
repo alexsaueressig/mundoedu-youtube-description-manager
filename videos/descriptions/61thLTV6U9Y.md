@@ -7,7 +7,10 @@ url: https://www.youtube.com/watch?v=61thLTV6U9Y
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 8 sobre Genética: Ausência de dominância e dominância incompleta. Videoaula de Biologia para o ENEM.
+Nesta aula, explicamos ausência de dominância e dominância incompleta — parte do módulo de genética.
+
+👉 Qual a diferença entre ausência de dominância e dominância incompleta?
+👉 Como estudar genética para o ENEM?
 
 🧬 GENÉTICA - MÓDULO COMPLETO
 ✔️ Aula 1 - 1ª Lei de Mendel: https://mundoedu.com.br/videoaula/527
@@ -19,5 +22,6 @@ Aula 3 de 8 sobre Genética: Ausência de dominância e dominância incompleta. 
 ✔️ Aula 7 - Clonagem, transgênicos e CRISPR: https://mundoedu.com.br/videoaula/533
 ✔️ Aula 8 - Evolução: https://mundoedu.com.br/videoaula/535
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Genética

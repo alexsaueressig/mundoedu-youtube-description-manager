@@ -6,7 +6,8 @@ url: https://www.youtube.com/watch?v=iZDinscoSJg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🐍 ZOOLOGIA 
+🐍 ZOOLOGIA
+
 👉 Módulo completo
 ✔️ Aula 1 - Poríferos, Cnidários e Platelmintos: https://mundoedu.com.br/videoaula/425
 ✔️ Aula 2 - Nematódeos e Anelídeos: https://mundoedu.com.br/videoaula/426
@@ -15,5 +16,6 @@ url: https://www.youtube.com/watch?v=iZDinscoSJg
 ✔️ Aula 5 - Equinodermos e Cordados: https://mundoedu.com.br/videoaula/429
 ✔️ Aula 6 - Vertebrados: https://mundoedu.com.br/videoaula/430
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Zoologia #NematódeosAnelídeos

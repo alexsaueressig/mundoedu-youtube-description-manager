@@ -13,5 +13,6 @@ url: https://www.youtube.com/watch?v=IvuSAT_YOGI
 
 O Racionalismo é uma corrente filosófica baseada nas operações mentais para definir a viabilidade e efetividade das proposições apresentadas. Essa corrente surgiu como doutrina no século I antes de Cristo para enfatizar que tudo que é existente é decorrente de uma causa (...)
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #Epistemologia #TeoriaConhecimento #RacionalismoEmpirismo

@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=uOQtO_HE2MU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 5 de 7 sobre A Era das Revoluções: Revolução Francesa. Videoaula de História para o ENEM.
+Nesta aula, o prof. Bussunda explica revolução francesa — parte do módulo de a era das revoluções.
 
+👉 O que é revolução francesa?
+👉 Como estudar a era das revoluções para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #EraDasRevoluções #RevoluçãoFrancesa

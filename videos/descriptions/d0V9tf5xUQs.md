@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=d0V9tf5xUQs
 
 Múltiplos, divisores, mínimo múltiplo comum (MMC), máximo divisor comum (MDC), números primos, exercícios resolvidos...
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #MDCeMMC #MmcMdc

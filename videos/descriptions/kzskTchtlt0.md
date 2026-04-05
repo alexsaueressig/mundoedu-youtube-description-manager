@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=kzskTchtlt0
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 6 de 6 sobre Terra: Localização Geográfica do Brasil. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica localização geográfica do Brasil — parte do módulo de terra.
 
+👉 O que é localização geográfica do Brasil?
+👉 Como estudar terra para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Terra

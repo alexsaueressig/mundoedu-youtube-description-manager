@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=U5AhtMQsgOc
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 2 de 4 sobre Função quadrática: Coeficientes. Videoaula de Matemática para o ENEM.
+Nesta aula, o prof. Gui Valenzuela explica coeficientes — parte do módulo de função quadrática.
 
+👉 O que são coeficientes?
+👉 Como estudar função quadrática para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #FunçãoQuadrática #Coeficientes

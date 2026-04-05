@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=K7OeENepK9Y
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Radioatividade: Transformações nucleares. Conteúdo de Química para o ENEM.
+Nesta videoaula, o prof. Camacho explica radioatividade: transformações nucleares.
 
+👉 O que são transformações nucleares?
+👉 Como estudar radioatividade para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicasEnergia #TransformaçõesNucleares

@@ -10,5 +10,6 @@ url: https://www.youtube.com/watch?v=kp32nZH6VXU
 
 Um passo a passo útil para começar a redação do ENEM com mais segurança e clareza de argumento.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Redação #ProfessoraDaniBressan #RedaçãoENEM

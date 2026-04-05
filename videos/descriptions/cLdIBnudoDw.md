@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=cLdIBnudoDw
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 5 de 6 sobre População: População Brasileira (Povo Brasileiro). Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica população brasileira (povo brasileiro) — parte do módulo de população.
 
+👉 O que é população brasileira (povo brasileiro)?
+👉 Como estudar população para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #População

@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=v2bMzrBdslU
 
 Nesta aula de citologia, o foco é organelas celulares e suas funções, conteúdo essencial para Biologia e para a prova do ENEM.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Citologia #OrganelasCelulares

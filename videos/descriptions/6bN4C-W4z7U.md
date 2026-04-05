@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=6bN4C-W4z7U
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 3 sobre Calorimetria: Escalas termométricas e dilatação. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica escalas termométricas e dilatação — parte do módulo de calorimetria.
 
+👉 Qual a diferença entre escalas termométricas e dilatação?
+👉 Como estudar calorimetria para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Calorimetria

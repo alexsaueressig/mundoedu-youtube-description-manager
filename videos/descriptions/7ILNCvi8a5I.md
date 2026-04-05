@@ -6,7 +6,10 @@ url: https://www.youtube.com/watch?v=7ILNCvi8a5I
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 7 de 8 sobre Genética: Clonagem, Transgenia e CRISPR. Videoaula de Biologia para o ENEM.
+Nesta aula, explicamos clonagem, transgenia e CRISPR — parte do módulo de genética.
+
+👉 O que é clonagem, transgenia e CRISPR?
+👉 Como estudar genética para o ENEM?
 
 🧬 GENÉTICA - MÓDULO COMPLETO
 ✔️ Aula 1 - 1ª Lei de Mendel: https://mundoedu.com.br/videoaula/527
@@ -18,5 +21,6 @@ Aula 7 de 8 sobre Genética: Clonagem, Transgenia e CRISPR. Videoaula de Biologi
 ✔️ Aula 7 - Clonagem, transgênicos e CRISPR: https://mundoedu.com.br/videoaula/533
 ✔️ Aula 8 - Evolução: https://mundoedu.com.br/videoaula/535
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Genética #ClonagemTransgeniaCrispr

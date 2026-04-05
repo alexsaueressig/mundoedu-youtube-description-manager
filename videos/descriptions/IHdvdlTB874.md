@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=IHdvdlTB874
 
 👉 Videoaula da professora #DaniBressan sobre este importante período artístico e literário.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #DaniBressan #Literatura #Romantismo

@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=Vwh920v6Wwk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 9 sobre Arte moderna: REALISMO. Videoaula de Mundo Artes para o ENEM.
+Nesta aula, o prof. JowJow explica realismo — parte do módulo de arte moderna.
 
+👉 O que é realismo?
+👉 Como estudar arte moderna para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ArteModerna #Realismo

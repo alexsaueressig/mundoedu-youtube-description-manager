@@ -11,5 +11,6 @@ url: https://www.youtube.com/watch?v=sJXV-9zOI9w
 👉 O que a democracia garante?
 👉 O que é cidadania?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Sociologia #Democracia

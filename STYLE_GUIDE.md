@@ -53,30 +53,43 @@ Deve estar em itálico (entre `*`). Não alterar o texto.
 
 ## 3. Resumo
 
-Toda descrição deve ter 1-3 frases que expliquem o conteúdo do vídeo. O resumo deve:
+Toda descrição deve ter 1-2 frases que expliquem o conteúdo do vídeo. O resumo deve:
 
-- Ser claro e direto
-- Mencionar o tópico principal
+- Ser casual e direto — sem robotizar
+- Mencionar o professor pelo apelido (ver tabela de professores)
 - Usar linguagem acessível (público ENEM)
-- Manter a personalidade do canal (tom leve e engajante)
+- Ser lowkey engraçado quando possível, sem forçar
+- **Nunca** usar o padrão antigo "Aula X de Y sobre Z. Videoaula de W para o ENEM."
+
+### Professores
+
+| Professor       | Matéria(s)                                | Referência no texto    |
+| --------------- | ----------------------------------------- | ---------------------- |
+| Bussunda        | História                                  | o prof. Bussunda       |
+| Camacho         | Química                                   | o prof. Camacho        |
+| Gui Valenzuela  | Matemática                                | o prof. Gui Valenzuela |
+| Dani Bressan    | Redação, Português, Literatura, Gramática | a profª Dani           |
+| Vasco           | Física                                    | o prof. Vasco          |
+| Giba            | Geografia                                 | o prof. Giba           |
+| JowJow          | Artes                                     | o prof. JowJow         |
 
 ### Exemplos por tipo de vídeo
 
 **Videoaula de série:**
 
-> Aula 3 de 8 sobre Genética: Ausência de dominância e dominância incompleta. Videoaula de Biologia para o ENEM.
+> Nesta aula, o prof. Vasco explica transformadores — parte do módulo de magnetismo.
 
 **Videoaula avulsa:**
 
-> Nesta videoaula, o professor Camacho vai falar da famooosa tabela periódica: história, estrutura, organização, simbologia e propriedades.
+> Nesta videoaula, o prof. Camacho explica tabela periódica e propriedades.
 
 **Pergunte!:**
 
-> Nesta videoaula, respondemos a pergunta: Qual é a diferença entre a Baixa e a Alta Idade Média?
+> Prof. Bussunda responde: qual é a diferença entre a Baixa e a Alta Idade Média?
 
-**Proposta de redação:**
+**Exercícios:**
 
-> Proposta de redação sobre doação de sangue no Brasil no estilo ENEM.
+> Nesta aula, o prof. Gui Valenzuela resolve exercícios de geometria plana.
 
 **Vídeo especial/institucional:**
 
@@ -84,24 +97,45 @@ Toda descrição deve ter 1-3 frases que expliquem o conteúdo do vídeo. O resu
 
 ---
 
-## 4. Link do Plano de Estudos
+## 4. Perguntas SEO
 
-**Formato padronizado** (sem variação):
+Após o resumo, incluir 2-3 perguntas que os estudantes buscam no Google:
 
 ```
+👉 O que são transformadores?
+👉 Como estudar magnetismo para o ENEM?
+```
+
+Regras:
+
+- Usar 👉 como prefixo
+- Formular como perguntas reais de busca
+- Para "Pergunte!", usar a pergunta do título como SEO
+- Para exercícios: "Como resolver exercícios de X?"
+- Para "X e Y": "Qual a diferença entre X e Y?"
+
+---
+
+## 5. CTA e Link do Plano de Estudos
+
+**Formato padronizado** (sempre antes do link):
+
+```
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 ```
 
 Regras:
 
-- Usar sempre o emoji ✨
+- CTA "Bora estudar de graça? 🚀" **sempre** antes do link
+- Usar sempre o emoji ✨ no link
 - Usar `Plano de Estudos:` (com dois-pontos, sem CAPS)
 - Nunca duplicar com variações (📜, 🧮, 🌌, etc.)
 - **Não** incluir `https://mundoedu.com.br` como link separado quando o plano de estudos já está presente
 
 ---
 
-## 5. Bloco de Módulo (Séries)
+## 6. Bloco de Módulo (Séries)
 
 Para videoaulas que fazem parte de uma série (ex: Genética 1-8), incluir o bloco de módulo completo **antes** do link do plano de estudos:
 
@@ -122,7 +156,7 @@ Regras:
 
 ---
 
-## 6. Hashtags
+## 7. Hashtags
 
 ### Regras
 
@@ -176,67 +210,66 @@ Hashtags compostas usam PascalCase sem espaços:
 
 ---
 
-## 7. Exemplo Completo
+## 8. Exemplo Completo
 
 ### Videoaula de série
 
 ```markdown
 ---
-id: 61thLTV6U9Y
-title: "🧬 Genética (3/8): Ausência de dominância - Biologia - ENEM"
-url: https://www.youtube.com/watch?v=61thLTV6U9Y
+id: 4gCZ0L2Cnzg
+title: "🧲 Magnetismo (2/2): Transformadores - Física - ENEM"
+url: https://www.youtube.com/watch?v=4gCZ0L2Cnzg
 ---
 
-_MundoEdu: O melhor cursinho online agora é 100% gratuito!_
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 8 sobre Genética: Ausência de dominância e dominância incompleta. Videoaula de Biologia para o ENEM.
+Nesta aula, o prof. Vasco explica transformadores — parte do módulo de magnetismo.
 
-🧬 GENÉTICA - MÓDULO COMPLETO
-✔️ Aula 1 - 1ª Lei de Mendel: https://mundoedu.com.br/videoaula/527
-✔️ Aula 2 - Cruzamento teste: https://mundoedu.com.br/videoaula/528
-✔️ Aula 3 - Ausência de dominância: https://mundoedu.com.br/videoaula/529
-✔️ Aula 4 - Polialelia e 2ª Lei de Mendel: https://mundoedu.com.br/videoaula/530
-✔️ Aula 5 - Tipos sanguíneos: https://mundoedu.com.br/videoaula/531
-✔️ Aula 6 - Herança ligada ao sexo: https://mundoedu.com.br/videoaula/532
-✔️ Aula 7 - Clonagem e CRISPR: https://mundoedu.com.br/videoaula/533
-✔️ Aula 8 - Evolução: https://mundoedu.com.br/videoaula/535
+👉 O que são transformadores?
+👉 Como estudar magnetismo para o ENEM?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
-#ENEM #Biologia #Genética #AusênciaDominância
+#ENEM #Física #Magnetismo #Transformadores
 ```
 
 ### Videoaula avulsa
 
 ```markdown
 ---
-id: AeV29aGRqSU
-title: "👨‍🔬 Tabela Periódica e propriedades - Química - ENEM"
-url: https://www.youtube.com/watch?v=AeV29aGRqSU
+id: BggYghR0eXY
+title: "👨‍🔬 Misturas Gasosas - Química - ENEM"
+url: https://www.youtube.com/watch?v=BggYghR0eXY
 ---
 
-_MundoEdu: O melhor cursinho online agora é 100% gratuito!_
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Nesta videoaula, o professor Camacho vai falar da famooosa tabela periódica: história, estrutura, organização, simbologia e propriedades (periódicas e aperiódicas).
+Ó o gááás! 🔥
+Nesta videoaula, o professor Camacho vai falar sobre bolhas de sabão, mergulhos, jogos da seleção, viagens de balão... e sobre como tudo isso se relaciona com as transformações químicas!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
-#ENEM #Química #TabelaPeriódica #TransformaçõesQuímicas
+#ENEM #Química #TransformaçõesQuímicas #MisturasGasosas
 ```
 
 ### Vídeo "Pergunte!"
 
 ```markdown
 ---
-id: SwmTJxTAud0
-title: "Pergunte! - Qual é a diferença entre a Baixa e a Alta Idade Média?"
-url: https://www.youtube.com/watch?v=SwmTJxTAud0
+id: 6SYipWcf7PY
+title: "Pergunte! - Qual é a diferença entre pretérito imperfeito e futuro do pretérito?"
+url: https://www.youtube.com/watch?v=6SYipWcf7PY
 ---
 
-_MundoEdu: O melhor cursinho online agora é 100% gratuito!_
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Nesta videoaula, respondemos a pergunta: Qual é a diferença entre a Baixa e a Alta Idade Média?
+Profª Dani responde: qual é a diferença entre pretérito imperfeito e futuro do pretérito?
 
+👉 Qual é a diferença entre pretérito imperfeito e futuro do pretérito?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
-#ENEM #História #IdadeMédia #Pergunte #RUUI
+#ENEM #Sensacional #Pergunte #DaniMaravilha
 ```
 
 ---
@@ -246,8 +279,10 @@ Nesta videoaula, respondemos a pergunta: Qual é a diferença entre a Baixa e a 
 | Script                                    | Função                                       |
 | ----------------------------------------- | -------------------------------------------- |
 | `python analyze_descriptions.py`          | Analisa todos os arquivos e gera `report.md` |
-| `python fix_descriptions.py --dry-run`    | Mostra correções sem aplicar                 |
-| `python fix_descriptions.py`              | Aplica todas as correções                    |
+| `python fix_descriptions.py --dry-run`    | Mostra correções estruturais sem aplicar     |
+| `python fix_descriptions.py`              | Aplica correções estruturais                 |
+| `python improve_descriptions.py --dry-run`| Mostra melhorias de conteúdo sem aplicar     |
+| `python improve_descriptions.py`          | Aplica melhorias de conteúdo (SEO + tom)     |
 | `python fetch_descriptions.py`            | Baixa descrições do YouTube                  |
 | `python update_descriptions.py --dry-run` | Preview de push para YouTube                 |
 | `python update_descriptions.py`           | Push descrições para YouTube                 |
@@ -258,9 +293,12 @@ Nesta videoaula, respondemos a pergunta: Qual é a diferença entre a Baixa e a 
 
 - [ ] Frontmatter completo (id, title, url)
 - [ ] Tagline MundoEdu na primeira linha
-- [ ] Resumo de 1-3 frases sobre o conteúdo
+- [ ] Resumo casual de 1-2 frases com nome do professor
+- [ ] 2-3 perguntas SEO com 👉
 - [ ] Bloco de módulo (se faz parte de uma série)
+- [ ] CTA "Bora estudar de graça? 🚀"
 - [ ] Link `✨ Plano de Estudos:` no formato padrão
 - [ ] 4-5 hashtags: #ENEM + matéria + tópico + subtópico
 - [ ] Sem URL base `mundoedu.com.br` duplicada
 - [ ] Sem linhas em branco excessivas
+- [ ] Tom casual e direto — não robótico

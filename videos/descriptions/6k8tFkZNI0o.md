@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=6k8tFkZNI0o
 
 👉 Rococócócócócócóóóóóó cocó cocó! 🐔🐔🐔
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ArteClássica #Rococó

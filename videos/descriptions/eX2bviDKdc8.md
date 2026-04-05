@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=eX2bviDKdc8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 4 de 4 sobre Oscilações: Acústica. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica acústica — parte do módulo de oscilações.
 
+👉 O que é acústica?
+👉 Como estudar oscilações para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Oscilações #Acústica

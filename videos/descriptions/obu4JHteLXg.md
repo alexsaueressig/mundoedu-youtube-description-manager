@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=obu4JHteLXg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Vasco responde!
+Prof. Vasco responde: do que depende o brilho de uma lâmpada?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Do que depende o brilho de uma lâmpada?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte

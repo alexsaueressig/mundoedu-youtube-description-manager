@@ -17,5 +17,6 @@ Hoje vamos falar sobre uma assunto que certamente vai estar na tua prova do ENEM
 - Energia interna
 - Ciclo de Carnot
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Termodinâmica

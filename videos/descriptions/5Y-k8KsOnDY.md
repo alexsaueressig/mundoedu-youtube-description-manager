@@ -11,5 +11,6 @@ url: https://www.youtube.com/watch?v=5Y-k8KsOnDY
 👉 Como surgiu a sociologia?
 👉 Pra que serve a sociologia?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Sociologia #Introdução #IntroduçãoÀSociologia

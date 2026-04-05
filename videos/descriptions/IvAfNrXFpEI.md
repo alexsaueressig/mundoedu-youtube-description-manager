@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=IvAfNrXFpEI
 Qual é a diferença entre substâncias e misturas? 🤔
 Nesta videoaula, o professor Camacho explica o que são substâncias puras, simples e compostas, alotropia e misturas homogêneas e heterogêneas.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #SubstânciasMisturas

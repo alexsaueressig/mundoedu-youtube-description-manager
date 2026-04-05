@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=T0Vm6U3lzWs
 
 Parte 1/2 sobre classes gramaticais, com foco em verbos, pronomes e advérbios para reforçar gramática e interpretação de texto.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Português #Gramática #ClassesGramaticais

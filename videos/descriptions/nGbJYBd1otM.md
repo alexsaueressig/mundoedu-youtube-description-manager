@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=nGbJYBd1otM
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 5 de 9 sobre Compostos Orgânicos: Propriedades Químicas. Videoaula de Química para o ENEM.
+Nesta aula, o prof. Camacho explica propriedades químicas — parte do módulo de compostos orgânicos.
 
+👉 O que são propriedades químicas?
+👉 Como estudar compostos orgânicos para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #CompostosOrgânicos #PropriedadesQuímicas

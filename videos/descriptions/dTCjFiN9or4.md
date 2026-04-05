@@ -33,5 +33,6 @@ https://materiais.mundoedu.com.br/revisao-magica-enem-2019-ciencias-humanas
 
 ✨ 07:07 - REGIMES TOTALITÁRIOS
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #Revisão

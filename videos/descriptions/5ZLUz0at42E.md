@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=5ZLUz0at42E
 
 👉 Nesta videoaula, o professor Betover fala sobre o que é a ciência, seu conceito e sua origem.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #Ciência

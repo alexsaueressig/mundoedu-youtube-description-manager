@@ -9,5 +9,6 @@ url: https://www.youtube.com/watch?v=8SLjNjWU0AA
 Chegooooooooooou nossa placa dos 100K!! ❤❤❤❤
 VALEU GALERAAAAAA!!! VOCÊS SÃO DEMAIS!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM

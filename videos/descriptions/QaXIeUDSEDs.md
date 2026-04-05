@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=QaXIeUDSEDs
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 6 de 6 sobre População: População Brasileira (Estrutura e Indicadores). Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica população brasileira (estrutura e indicadores) — parte do módulo de população.
 
+👉 Qual a diferença entre população brasileira (estrutura e indicadores)?
+👉 Como estudar população para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #População

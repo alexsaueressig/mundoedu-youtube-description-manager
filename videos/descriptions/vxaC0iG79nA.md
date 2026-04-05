@@ -11,5 +11,6 @@ url: https://www.youtube.com/watch?v=vxaC0iG79nA
 ❓ Como fazer a PA?
 ❓ Qual a fórmula da progressão aritmética?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #SequênciasNuméricas #ProgressãoAritméticaPa

@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=drjFOphFGxY
 
 Nesta videoaula sobre Análise Combinatória, o professor Gui vai falar sobre o Princípio Multiplicativo, explicando o que são números fatoriais, eventos e etapas.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #AnáliseCombinatória #PrincípioMultiplicativo

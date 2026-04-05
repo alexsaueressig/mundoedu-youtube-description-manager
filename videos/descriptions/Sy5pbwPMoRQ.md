@@ -11,5 +11,6 @@ Detone no ENEM e vestibular com o Prof. Vasco!
 Assine já!
 https://mundoedu.com.br/fisica
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física

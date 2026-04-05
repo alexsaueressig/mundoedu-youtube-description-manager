@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=VGrCdSeCjRg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-A professora Dani Bressan responde! #DaniMaravilha #Sensacional
+Profª Dani responde: quais os principais assuntos que caem sobre Linguagens no ENEM?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Quais os principais assuntos que caem sobre Linguagens no ENEM?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Sensacional #Pergunte #DaniMaravilha

@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=x3fkt7n3bCE
 
 Proposta de redação ENEM sobre a sociedade do "ter de", com espaço para discutir obrigação social, linguagem e construção de argumento.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Redação #RedaçãoENEM #Sociedade #Argumentação

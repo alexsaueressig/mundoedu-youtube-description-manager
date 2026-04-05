@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=FFkkdbMAjeQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre Eletroquímica: Cálculos na Eletrólise. Conteúdo de Química para o ENEM.
+Nesta videoaula, o prof. Camacho explica eletroquímica: cálculos na eletrólise.
 
+👉 O que é cálculos na eletrólise?
+👉 Como estudar eletroquímica para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicasEnergia #CálculosNaEletrólise

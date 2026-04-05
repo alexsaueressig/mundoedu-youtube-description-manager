@@ -7,9 +7,11 @@ url: https://www.youtube.com/watch?v=WZ7dhDulN28
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Videoaula sobre os antecedentes da Segunda Guerra Mundial, conflito militar global que durou de 1939 a 1945, envolvendo a maioria das nações do mundo — incluindo todas as grandes potências — organizadas em duas alianças militares opostas: os Aliados e o Eixo.
+Nesta videoaula, o prof. Bussunda explica 2ª segunda guerra mundial (parte 1) - antecedentes.
 
-Prepare-se para o ENEM e vestibular com Prof. Bussunda, no Mundo História. Mais videoaulas: https://mundoedu.com.br/historia
+👉 O que são 2ª segunda guerra mundial (parte 1) - antecedentes?
+👉 Como 2ª segunda guerra mundial (parte 1) - antecedentes cai no ENEM?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História

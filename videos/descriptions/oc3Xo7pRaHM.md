@@ -12,5 +12,6 @@ url: https://www.youtube.com/watch?v=oc3Xo7pRaHM
 
 SIMONE DE BEAUVOIR (1908-1986) foi uma das filósofas existencialistas francesas mais proeminentes da história. Trabalhando ao lado de outros existencialistas famosos, como Jean-Paul Sartre, Albert Camus e Maurice Merleau-Ponty, Beauvoir produziu um rico corpos de escritos, incluindo obras sobre ética, feminismo, ficção, autobiografia e política. Em "O Segundo Sexo", ela produziu um ataque articulado no fato de que ao longo da história as mulheres foram relegadas a uma esfera de "imanência", e a aceitação passiva dos papéis atribuídos a elas pela sociedade (...)
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #FilosofiaPolítica #OQueÉFeminismo

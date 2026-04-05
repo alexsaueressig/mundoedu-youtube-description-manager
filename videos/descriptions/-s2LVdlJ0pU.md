@@ -6,7 +6,10 @@ url: https://www.youtube.com/watch?v=-s2LVdlJ0pU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 8 sobre Genética: 1ª Primeira Lei de Mendel. Videoaula de Biologia para o ENEM.
+Nesta aula, explicamos 1ª primeira lei de Mendel — parte do módulo de genética.
+
+👉 O que é 1ª primeira lei de Mendel?
+👉 Como estudar genética para o ENEM?
 
 🧬 GENÉTICA - MÓDULO COMPLETO
 ✔️ Aula 1 - 1ª Lei de Mendel: https://mundoedu.com.br/videoaula/527
@@ -18,5 +21,6 @@ Aula 1 de 8 sobre Genética: 1ª Primeira Lei de Mendel. Videoaula de Biologia p
 ✔️ Aula 7 - Clonagem, transgênicos e CRISPR: https://mundoedu.com.br/videoaula/533
 ✔️ Aula 8 - Evolução: https://mundoedu.com.br/videoaula/535
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Genética

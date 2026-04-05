@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=QAFSw5_lPr8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 9 de 9 sobre Arte moderna: POP ART. Videoaula de Mundo Artes para o ENEM.
+Nesta aula, o prof. JowJow explica POP ART — parte do módulo de arte moderna.
 
+👉 O que é POP ART?
+👉 Como estudar arte moderna para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #ArteModerna #PopArt

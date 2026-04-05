@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=cStYAr3ZUy8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 5 sobre Espaço da produção: Fases da Industrialização e tipos de indústrias. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica fases da industrialização e tipos de indústrias — parte do módulo de espaço da produção.
 
+👉 Qual a diferença entre fases da industrialização e tipos de indústrias?
+👉 Como estudar espaço da produção para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #EspaçoDaProdução #EspaçoProdução

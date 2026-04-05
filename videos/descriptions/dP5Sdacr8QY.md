@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=dP5Sdacr8QY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 7 de 9 sobre Compostos Orgânicos: Isomeria Espacial. Videoaula de Química para o ENEM.
+Nesta aula, o prof. Camacho explica isomeria espacial — parte do módulo de compostos orgânicos.
 
+👉 O que é isomeria espacial?
+👉 Como estudar compostos orgânicos para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #CompostosOrgânicos #IsomeriaEspacial

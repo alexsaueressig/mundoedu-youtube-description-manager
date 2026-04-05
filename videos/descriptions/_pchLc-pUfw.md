@@ -6,8 +6,11 @@ url: https://www.youtube.com/watch?v=_pchLc-pUfw
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👉 Prof. JowJow na área! 
-Videoaula sobre pintura egípcia, lei da frontalidade, lápis-lazúli, pirâmides, antropozoomorfismo e muito mais...
+Nesta videoaula, o prof. JowJow explica arte egípcia.
 
+👉 O que é arte egípcia?
+👉 Como arte egípcia cai no ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Artes #EgitoAntigo #ArteEgípcia

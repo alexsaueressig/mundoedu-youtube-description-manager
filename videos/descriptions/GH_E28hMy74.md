@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=GH_E28hMy74
 
 👉 Vetores e análise vetorial: garanta mais uma questão no ENEM!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Cinemática #Vetores

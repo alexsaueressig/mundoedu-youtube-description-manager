@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=UrhFMkGwcac
 
 Porcentagem é um assunto muito frequente na prova do ENEM. Nesta videoaula, o professor Gui Valenzuela explica o que é porcentagem: representações, exemplos, dicas e exercícios resolvidos.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Porcentagem

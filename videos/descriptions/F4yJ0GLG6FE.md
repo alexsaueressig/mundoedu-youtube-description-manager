@@ -11,5 +11,6 @@ Estamos tããããããão felizes que não se fala em outra coisa aqui no estúdi
 
 Muiiiiiiiiito obrigadoooooooo seus lindos!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #100KKkkkkkkkk

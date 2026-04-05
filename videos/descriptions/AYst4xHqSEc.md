@@ -17,5 +17,6 @@ Câmera/som: Pedro Lago
 Trilha Sonora: Martin Chisté
 Apoio: MundoEdu
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #ProjectHub #BIC #ATropicália

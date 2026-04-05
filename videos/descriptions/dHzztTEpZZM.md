@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=dHzztTEpZZM
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 1 de 9 sobre Compostos Orgânicos: Características Gerais. Videoaula de Química para o ENEM.
+Nesta aula, o prof. Camacho explica características gerais — parte do módulo de compostos orgânicos.
 
+👉 O que são características gerais?
+👉 Como estudar compostos orgânicos para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #CompostosOrgânicos #CaracterísticasGerais

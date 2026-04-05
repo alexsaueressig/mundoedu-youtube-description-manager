@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=gLohUUimCY8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 5 de 6 sobre Hidrostática: Princípio de Arquimedes. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica princípio de arquimedes — parte do módulo de hidrostática.
 
+👉 O que são princípio de arquimedes?
+👉 Como estudar hidrostática para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Hidrostática #PrincípioArquimedes

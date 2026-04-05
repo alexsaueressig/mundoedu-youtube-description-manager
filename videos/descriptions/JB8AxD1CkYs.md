@@ -15,7 +15,6 @@ url: https://www.youtube.com/watch?v=JB8AxD1CkYs
 ✔️ 7:36 Pampa
 ✔️ 8:02 Pantanal
 
-🌱 ECOLOGIA - MÓDULO COMPLETO
 - Aula 1 - Biomas: https://mundoedu.com.br/videoaula/536
 - Aula 2 - Ciclos biogeoquímicos: https://mundoedu.com.br/videoaula/537
 - Aula 3 - Relações ecológicas: https://mundoedu.com.br/videoaula/538
@@ -24,5 +23,8 @@ url: https://www.youtube.com/watch?v=JB8AxD1CkYs
 - Aula 6 - Sucessão ecológica: https://mundoedu.com.br/videoaula/541
 - Aula 7 - Desequilíbrios ambientais: https://mundoedu.com.br/videoaula/543
 
+🌱 ECOLOGIA - MÓDULO COMPLETO
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Ecologia #Biomas

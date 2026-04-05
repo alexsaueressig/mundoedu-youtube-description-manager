@@ -6,7 +6,11 @@ url: https://www.youtube.com/watch?v=U-tq0TzYIPo
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 3 sobre Calorimetria: Temperatura e calor. Videoaula de Física para o ENEM.
+Nesta aula, o prof. Vasco explica temperatura e calor — parte do módulo de calorimetria.
 
+👉 Qual a diferença entre temperatura e calor?
+👉 Como estudar calorimetria para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Calorimetria #TemperaturaCalor

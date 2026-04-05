@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=TWTUIOTO_aM
 
 👉 Videoaula sobre como iniciar e desenvolver uma tese para a redação do ENEM.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Redação #ProfessoraDaniBressan #RedaçãoENEM

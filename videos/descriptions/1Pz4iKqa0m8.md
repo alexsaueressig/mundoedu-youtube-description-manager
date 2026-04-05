@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=1Pz4iKqa0m8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-A professora Dani Bressan responde! #DaniMaravilha #Sensacional
+Profª Dani responde: que tipo de frase seria considerada senso comum na redação?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Que tipo de frase seria considerada senso comum na redação?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Sensacional #Redação #Pergunte #DaniMaravilha

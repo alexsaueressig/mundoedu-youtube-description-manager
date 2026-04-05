@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=210zSHhTT_c
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 6 de 9 sobre Compostos Orgânicos: Isomeria Plana. Videoaula de Química para o ENEM.
+Nesta aula, o prof. Camacho explica isomeria plana — parte do módulo de compostos orgânicos.
 
+👉 O que é isomeria plana?
+👉 Como estudar compostos orgânicos para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #CompostosOrgânicos #IsomeriaPlana

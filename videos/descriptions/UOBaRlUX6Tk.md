@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=UOBaRlUX6Tk
 
 Nesta aula, a prof. Dani explica os tipos e formas de pontuação dos períodos compostos (aqueles com duas ou mais orações).
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Português #PeríodoComposto

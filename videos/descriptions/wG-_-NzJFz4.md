@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=wG-_-NzJFz4
 
 Nesta aula sobre Razão e Proporção, o prof. Gui Valenzuela vai explicar o que são e para que servem razões e proporções e grandezas diretamente e inversamente proporcionais.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #RazãoProporção

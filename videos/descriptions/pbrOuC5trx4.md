@@ -7,7 +7,11 @@ url: https://www.youtube.com/watch?v=pbrOuC5trx4
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-Aula 3 de 9 sobre Litosfera: Deriva Continental e Placas Tectônicas. Videoaula de Geografia para o ENEM.
+Nesta aula, o prof. Giba explica deriva continental e placas tectônicas — parte do módulo de litosfera.
 
+👉 Qual a diferença entre deriva continental e placas tectônicas?
+👉 Como estudar litosfera para o ENEM?
+
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Litosfera

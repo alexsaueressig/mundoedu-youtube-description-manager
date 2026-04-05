@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=L2HOhNee8CY
 
 Nesta videoaula, o professor Camacho vai explicar como representamos as substâncias com as diferentes fórmulas Químicas: molecular, mínima e percentual.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas #FórmulasQuímicas

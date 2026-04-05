@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=hAQlzQdQHP4
 
 A redação assusta muita gente e, por isso, a prof. #DaniBressan resolveu fazer uma série de vídeos curtos sobre alguns temas que ela aposta para o ENEM deste ano.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #DaniBressan #Redação #PropostaRedação #PropostaDeRedação #MundoEdu

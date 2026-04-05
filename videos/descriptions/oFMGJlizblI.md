@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=oFMGJlizblI
 
 👉 Partícula, corpo extenso, referencial, aceleração... O professor Vasco explica tudo nesta nossa primeira aula de cinemática!
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Cinemática #ConceitosIniciais

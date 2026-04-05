@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=gmayTkzxS5U
 
 👉 Videoaula com o professor Giba sobre os agentes externos modificadores do relevo, também conhecidos como exógenos ou morfoesculturais: intemperismo físico e químico, erosão pluvial, fluvial, marinha, glacial e eólica.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Litosfera #Relevo

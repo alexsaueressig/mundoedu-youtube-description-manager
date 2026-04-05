@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=02zory6XQWI
 
 👉 Liberalismo x Marxismo
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #Marxismo #LiberalismoMarxismo

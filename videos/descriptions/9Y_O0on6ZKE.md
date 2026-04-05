@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=9Y_O0on6ZKE
 
 👉 Videoaula do professor Vasco sobre variação de temperatura  e mudanças de estado físico (solidificação, vaporização, condensação, sublimação...).
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Calorimetria

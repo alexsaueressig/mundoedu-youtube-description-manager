@@ -8,5 +8,6 @@ url: https://www.youtube.com/watch?v=Rmdi3p6-bEc
 
 Nesta videoaula, o professor Camacho vai explicar como reações químicas como síntese, decomposição, simples troca e dupla troca.
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas #ReaçõesQuímicas

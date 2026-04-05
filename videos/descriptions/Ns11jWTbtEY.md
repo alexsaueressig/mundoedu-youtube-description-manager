@@ -13,5 +13,6 @@ Videoaulas:
 ✔️ Anos 90: https://mundoedu.com.br/videoaula/342
 ✔️ Anos 2000: https://mundoedu.com.br/videoaula/343
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #HistóriaDoBrasil #Brasil

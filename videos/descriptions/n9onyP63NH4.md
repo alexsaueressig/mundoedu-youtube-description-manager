@@ -6,9 +6,10 @@ url: https://www.youtube.com/watch?v=n9onyP63NH4
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-O professor Bussunda responde! #RUUI
+Prof. Bussunda responde: qual é a origem do anarquismo? Como ele se diferencia do comunismo?
 
-Estude para o ENEM com videoaulas divertidas:
+👉 Qual é a origem do anarquismo? Como ele se diferencia do comunismo?
 
+Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Pergunte #RUUI
