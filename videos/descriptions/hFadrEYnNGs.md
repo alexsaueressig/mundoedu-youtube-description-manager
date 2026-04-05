@@ -16,9 +16,6 @@ Edição: Neandro Catto
 Trilha Sonora: Martin Chisté
 Apoio: MundoEdu
 
-✨ Nossas redes sociais
-Snap: portalmundoedu
-
 ✨ Links úteis 
 https://mundoedu.com.br
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos

@@ -13,5 +13,3 @@ Muiiiiiiiiito obrigadoooooooo seus lindos!
 ✨ Links úteis 
 https://mundoedu.com.br
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
-✨ Nossas redes sociais
-Snap: portalmundoedu
