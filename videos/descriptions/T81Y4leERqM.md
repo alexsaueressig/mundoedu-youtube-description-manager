@@ -8,6 +8,6 @@ Meio ambiente é um assunto sempre presente na prova do ENEM. Então, preparamos
 
 Nesta aula, o Acordo de Paris aparece como ponto de partida para discutir clima, políticas ambientais e atualidades cobradas no ENEM.
 
-https://mundoedu.com.br/plano-de-estudos
+Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #Atualidades #MeioAmbiente #AcordoDeParis

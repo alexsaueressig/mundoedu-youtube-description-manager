@@ -8,4 +8,6 @@ Prof Bussunda comenta a prova de História do ENEM 2015, destacando temas, conte
 
 Uma revisão rápida para entender o padrão da avaliação e reforçar conteúdos de História cobrados no exame.
 
+Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
+
 #ENEM #História #ProvaENEM #Revisão

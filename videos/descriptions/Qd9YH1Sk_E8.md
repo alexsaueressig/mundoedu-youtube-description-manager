@@ -6,6 +6,6 @@ url: https://www.youtube.com/watch?v=Qd9YH1Sk_E8
 
 Pergunta e resposta sobre História: o professor Bussunda explica por que Hitler é considerado ditador e como isso se conecta ao regime nazista.
 
-Estude para o ENEM com videoaulas divertidas: https://mundoedu.com.br
+Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #História #Hitler #Ditadura

@@ -6,6 +6,6 @@ url: https://www.youtube.com/watch?v=CkuqI7a4g6I
 
 Pergunta e resposta sobre História: o professor Bussunda comenta uma dúvida sobre o paleolítico e ajuda a contextualizar conteúdos de evolução humana.
 
-Estude para o ENEM com videoaulas divertidas: https://mundoedu.com.br
+Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #História #Paleolítico #EvoluçãoHumana

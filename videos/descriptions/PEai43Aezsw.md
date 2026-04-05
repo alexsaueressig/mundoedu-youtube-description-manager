@@ -6,6 +6,6 @@ url: https://www.youtube.com/watch?v=PEai43Aezsw
 
 Pergunta e resposta sobre História: o professor Bussunda comenta o que havia em comum entre a Primeira Guerra e o nazifascismo.
 
-Estude para o ENEM com videoaulas divertidas: https://mundoedu.com.br
+Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #História #PrimeiraGuerra #Nazifascismo

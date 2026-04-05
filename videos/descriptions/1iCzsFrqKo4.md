@@ -6,6 +6,6 @@ url: https://www.youtube.com/watch?v=1iCzsFrqKo4
 
 Nesta aula de citologia, o professor apresenta as membranas celulares, sua estrutura e sua função na célula, um tema central em Biologia e no ENEM.
 
-✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
 
 #ENEM #Biologia #Citologia #MembranaCelular
