@@ -6,9 +6,7 @@ url: https://www.youtube.com/watch?v=ydO_iLRZfqU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 👉 As relações de poder em Foucault, força e poder, relações de poder, poder coercitivo, discurso, pan-óptico...
 
-#ENEM #Filosofia #FilosofiaPolítica
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Filosofia #FilosofiaPolítica #RelaçõesPoderFoucault

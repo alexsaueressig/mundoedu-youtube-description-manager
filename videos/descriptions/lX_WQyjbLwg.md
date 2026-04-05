@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=lX_WQyjbLwg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 2 sobre Mecânica Impulsiva: Lei da conservação da quantidade de movimento. Videoaula de Física para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #MecânicaImpulsiva

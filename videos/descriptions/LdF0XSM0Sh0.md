@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=LdF0XSM0Sh0
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Cinética Química: Velocidade de reação. Conteúdo de Química para o ENEM.
 
-#ENEM #Química #DinâmicaDasTransformaçõesQuímicas
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #DinâmicaDasTransformaçõesQuímicas #VelocidadeReação

@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=Z99Ktk1QeGs
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 5 sobre Primeiros Estados: Egito. Videoaula de História para o ENEM.
 
-#ENEM #História #PrimeirosEstados
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #PrimeirosEstados #Egito

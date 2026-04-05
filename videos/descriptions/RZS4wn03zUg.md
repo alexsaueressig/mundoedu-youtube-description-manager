@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=RZS4wn03zUg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 4 sobre Geometria plana: Ângulos, paralelas e transversais. Videoaula de Matemática para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #GeometriaPlana

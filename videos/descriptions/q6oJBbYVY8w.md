@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=q6oJBbYVY8w
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 4 sobre Clima: Fatores Climáticos. Videoaula de Geografia para o ENEM.
 
-#ENEM #Geografia #Clima
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #Clima #FatoresClimáticos

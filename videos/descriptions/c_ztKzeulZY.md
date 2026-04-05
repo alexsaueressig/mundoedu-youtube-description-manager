@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=c_ztKzeulZY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 3 de 5 sobre Brasil Império: Período Regencial. Videoaula de História para o ENEM.
 
-#ENEM #História #BrasilImpério
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #BrasilImpério #PeríodoRegencial

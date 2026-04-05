@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=U5AhtMQsgOc
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 4 sobre Função quadrática: Coeficientes. Videoaula de Matemática para o ENEM.
 
-#ENEM #Matemática #FunçãoQuadrática
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Matemática #FunçãoQuadrática #Coeficientes

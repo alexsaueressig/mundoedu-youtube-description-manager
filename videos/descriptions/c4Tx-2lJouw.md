@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=c4Tx-2lJouw
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🎭 PLANO DE ESTUDOS DE ARTES - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 4 de 4 sobre Arte no Brasil: Arquitetura brasileira. Videoaula de Mundo Artes para o ENEM.
 
-#ENEM #Artes #ArteNoBrasil
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Artes #ArteNoBrasil #ArquiteturaBrasileira

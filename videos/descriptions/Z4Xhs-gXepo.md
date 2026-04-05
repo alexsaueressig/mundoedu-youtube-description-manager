@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=Z4Xhs-gXepo
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Cinética Química: Lei da velocidade. Conteúdo de Química para o ENEM.
 
-#ENEM #Química #DinâmicaDasTransformaçõesQuímicas
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #DinâmicaDasTransformaçõesQuímicas #LeiVelocidade

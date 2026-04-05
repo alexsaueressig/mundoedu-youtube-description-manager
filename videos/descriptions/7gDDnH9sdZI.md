@@ -92,7 +92,5 @@ Exemplo: "A minha alma tá armada e apontada para a cara do sossego."
 Palavra que imita sons.
 Exemplo: "O tic-tac do relógio."
 
-📚 PLANO DE ESTUDOS DE LITERATURA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos 
-
-#ENEM #Literatura
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Literatura #FigurasLinguagem

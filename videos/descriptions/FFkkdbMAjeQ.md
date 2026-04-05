@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=FFkkdbMAjeQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Eletroquímica: Cálculos na Eletrólise. Conteúdo de Química para o ENEM.
 
-#ENEM #Química #TransformaçõesQuímicasEnergia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #TransformaçõesQuímicasEnergia #CálculosNaEletrólise

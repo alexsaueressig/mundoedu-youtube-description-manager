@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=4gCZ0L2Cnzg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 2 sobre Magnetismo: Transformadores. Videoaula de Física para o ENEM.
 
-#ENEM #Física #Magnetismo
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Magnetismo #Transformadores

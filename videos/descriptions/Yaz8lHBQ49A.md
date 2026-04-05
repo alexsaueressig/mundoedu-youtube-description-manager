@@ -5,7 +5,11 @@ title: Pergunte! - Como se deu o projeto de branqueamento da população brasile
 url: https://www.youtube.com/watch?v=Yaz8lHBQ49A
 ---
 
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+
 O professor Bussunda responde! #RUUI
 
 Estude para o ENEM com videoaulas divertidas:
-https://mundoedu.com.br
+
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Pergunte #RUUI

@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=mPMdu6_fBoU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Funções inorgânicas: ácidos e bases. Conteúdo de Química para o ENEM.
 
-#ENEM #Química #Água
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #Água #ÁcidosBases

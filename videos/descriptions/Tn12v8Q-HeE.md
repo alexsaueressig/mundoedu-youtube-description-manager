@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=Tn12v8Q-HeE
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Renascimento. Conteúdo de História para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #Renascimento

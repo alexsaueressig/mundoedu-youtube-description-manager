@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=9eFTUuXdhNA
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📚 PLANO DE ESTUDOS DE LITERATURA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Modernismo (1ª Fase). Conteúdo de Literatura para o ENEM.
 
-#ENEM #Literatura
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Literatura #Modernismo

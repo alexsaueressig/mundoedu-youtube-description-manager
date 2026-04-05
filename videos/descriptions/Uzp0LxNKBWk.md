@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=Uzp0LxNKBWk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Brasil: Tratados de limite. Conteúdo de História para o ENEM.
 
-#ENEM #História #ÉpocaColonial
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #ÉpocaColonial #TratadosLimite

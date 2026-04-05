@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=j-m70o3HQOc
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🎭 PLANO DE ESTUDOS DE ARTES - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 5 de 6 sobre Arte clássica: Neoclássico. Videoaula de Mundo Artes para o ENEM.
 
-#ENEM #Artes #ArteClássica
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Artes #ArteClássica #Neoclássico

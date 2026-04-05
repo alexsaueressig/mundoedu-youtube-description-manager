@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=v8fo_hSpo-k
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 4 sobre Estatística: Medidas de tendência central (moda, média e mediana). Videoaula de Matemática para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Estatística

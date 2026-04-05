@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=cLdIBnudoDw
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 5 de 6 sobre População: População Brasileira (Povo Brasileiro). Videoaula de Geografia para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #População

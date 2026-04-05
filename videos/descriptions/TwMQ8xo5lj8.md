@@ -6,9 +6,7 @@ url: https://www.youtube.com/watch?v=TwMQ8xo5lj8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 Nesta videoaula, o professor Camacho vai explicar as grandezas químicas: massa, volume, quantidade de matéria (mol) e volume molar.
 
-#ENEM #Química #TransformaçõesQuímicas
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #TransformaçõesQuímicas #GrandezasQuímicas

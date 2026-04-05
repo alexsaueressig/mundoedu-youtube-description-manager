@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=OcDQWyU-DX4
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 3 de 3 sobre Pré-história: Homem na América. Videoaula de História para o ENEM.
 
-#ENEM #História #PréHistória
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #PréHistória #HomemNaAmérica

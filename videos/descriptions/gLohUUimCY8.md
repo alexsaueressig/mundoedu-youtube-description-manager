@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=gLohUUimCY8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 5 de 6 sobre Hidrostática: Princípio de Arquimedes. Videoaula de Física para o ENEM.
 
-#ENEM #Física #Hidrostática
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Hidrostática #PrincípioArquimedes

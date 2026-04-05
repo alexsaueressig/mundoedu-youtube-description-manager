@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=RBHvk8Fn9Pg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 4 sobre Geometria plana: Teorema de Tales e Semelhança de Triângulos. Videoaula de Matemática para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #GeometriaPlana

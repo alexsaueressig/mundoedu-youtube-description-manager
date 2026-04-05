@@ -4,6 +4,8 @@ title: REVISÃO MÁGICA ENEM ✨ Guerras Mundiais ✨ Prof. Bussunda
 url: https://www.youtube.com/watch?v=dTCjFiN9or4
 ---
 
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+
 ✨ Revisão Mágica COMPLETA de Ciências Humanas:
 https://materiais.mundoedu.com.br/revisao-magica-enem-2019-ciencias-humanas
 
@@ -31,6 +33,5 @@ https://materiais.mundoedu.com.br/revisao-magica-enem-2019-ciencias-humanas
 
 ✨ 07:07 - REGIMES TOTALITÁRIOS
 
-✨ Plano de Estudos Enem COMPLETO: https://mundoedu.com.br/plano-de-estudos
-
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #Revisão

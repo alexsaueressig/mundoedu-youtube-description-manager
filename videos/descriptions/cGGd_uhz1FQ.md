@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=cGGd_uhz1FQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 5 sobre Brasil Império: Independência do Brasil. Videoaula de História para o ENEM.
 
-#ENEM #História #BrasilImpério
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #BrasilImpério #IndependênciaBrasil

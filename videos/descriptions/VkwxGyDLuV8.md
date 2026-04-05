@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=VkwxGyDLuV8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 5 sobre Primeiros Estados: Mesopotâmia. Videoaula de História para o ENEM.
 
-#ENEM #História #PrimeirosEstados
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #PrimeirosEstados #Mesopotâmia

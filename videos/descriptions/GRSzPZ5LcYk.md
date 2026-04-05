@@ -25,7 +25,5 @@ url: https://www.youtube.com/watch?v=GRSzPZ5LcYk
 🏛️  PRÓXIMA AULA SOBRE ROMA: Roma Antiga - Crise da República e Império Romano
 https://mundoedu.com.br/videoaula/108
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
-#ENEM #História #Antiguidade
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #Antiguidade #AntiguidadeOcidental #RomaAntiga

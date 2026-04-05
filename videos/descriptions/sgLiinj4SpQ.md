@@ -6,12 +6,10 @@ url: https://www.youtube.com/watch?v=sgLiinj4SpQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 O que é transformação química? 
 Exemplos de transformações químicas?
 Qual a diferença entre transformação química e transformação física?
 O que é uma reação química?
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #TransformaçõesQuímicas

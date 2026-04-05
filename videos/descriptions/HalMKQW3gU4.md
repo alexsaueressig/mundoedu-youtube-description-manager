@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=HalMKQW3gU4
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 7 de 7 sobre A Era das Revoluções: Independência da América Espanhola. Videoaula de História para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #EraDasRevoluções

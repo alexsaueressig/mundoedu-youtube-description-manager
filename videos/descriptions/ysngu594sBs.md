@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=ysngu594sBs
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Brasil Colônia (Século 17). Conteúdo de História para o ENEM.
 
-#ENEM #História #ÉpocaColonial
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #ÉpocaColonial #BrasilColônia

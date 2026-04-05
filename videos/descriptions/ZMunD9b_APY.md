@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=ZMunD9b_APY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 3 sobre Logaritmos: Definição e consequências. Videoaula de Matemática para o ENEM.
 
-#ENEM #Matemática #Logaritmos
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Matemática #Logaritmos #DefiniçãoConsequências

@@ -12,9 +12,7 @@ A palavra ÉTICA faz cada vez mais parte do vocabulário cotidiano de boa parte 
 👉 O que é moral? 
 👉 O que é ética? 
 👉 O que é lei? 
-👉 Qual é a diferença de moral é ética? 
+👉 Qual é a diferença de moral é ética?
 
-🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #FilosofiaMoral

@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=xI34aGs5oos
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Verdade x Opinião. Conteúdo de Filosofia para o ENEM.
 
-#ENEM #Filosofia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Filosofia #VerdadeOpinião

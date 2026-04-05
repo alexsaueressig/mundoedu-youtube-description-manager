@@ -15,9 +15,6 @@ url: https://www.youtube.com/watch?v=JB8AxD1CkYs
 ✔️ 7:36 Pampa
 ✔️ 8:02 Pantanal
 
-✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 🌱 ECOLOGIA - MÓDULO COMPLETO
 - Aula 1 - Biomas: https://mundoedu.com.br/videoaula/536
 - Aula 2 - Ciclos biogeoquímicos: https://mundoedu.com.br/videoaula/537
@@ -27,4 +24,5 @@ https://mundoedu.com.br/plano-de-estudos
 - Aula 6 - Sucessão ecológica: https://mundoedu.com.br/videoaula/541
 - Aula 7 - Desequilíbrios ambientais: https://mundoedu.com.br/videoaula/543
 
-#ENEM #Biologia #Ecologia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Biologia #Ecologia #Biomas

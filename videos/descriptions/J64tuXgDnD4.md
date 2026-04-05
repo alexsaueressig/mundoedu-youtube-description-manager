@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=J64tuXgDnD4
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 3 sobre Cartografia: Escala Cartográfica. Videoaula de Geografia para o ENEM.
 
-#ENEM #Geografia #Cartografia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #Cartografia #EscalaCartográfica

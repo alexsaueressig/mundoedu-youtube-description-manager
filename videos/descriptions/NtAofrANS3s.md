@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=NtAofrANS3s
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🎭 PLANO DE ESTUDOS DE ARTES - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 4 de 9 sobre Arte moderna: EXPRESSIONISMO ALEMÃO. Videoaula de Mundo Artes para o ENEM.
 
-#ENEM #Artes #ArteModerna
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Artes #ArteModerna #ExpressionismoAlemão

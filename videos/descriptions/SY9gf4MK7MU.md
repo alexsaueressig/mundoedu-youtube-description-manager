@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=SY9gf4MK7MU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO:
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 6 sobre Globalização: Nova Ordem Mundial. Videoaula de Geografia para o ENEM.
 
-#ENEM #Geografia #Globalização
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #Globalização #NovaOrdemMundial

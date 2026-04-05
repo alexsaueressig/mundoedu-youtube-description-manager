@@ -6,11 +6,6 @@ url: https://www.youtube.com/watch?v=pl7DY5MBfIM
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
-#ENEM #Física #Dinâmica
-
 👉 FORÇAS #1:
 Videoaula do professor Vasco sobre 4 forças importantes para o ENEM:
 1) Força peso (peso e massa, campo gravitacional, aceleração da gravidade, atração entre corpos, par ação e reação...)
@@ -20,3 +15,6 @@ Videoaula do professor Vasco sobre 4 forças importantes para o ENEM:
 
 👉  FORÇAS #2 - PRÓXIMA AULA:
 https://mundoedu.com.br/videoaula/213
+
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Dinâmica #Forças1

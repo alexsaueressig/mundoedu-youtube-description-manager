@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=cqHb2N0CBHQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 4 sobre Equilíbrio Químico: Princípio de Le Chatelier. Videoaula de Química para o ENEM.
 
-#ENEM #Química #EquilíbrioQuímico
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #EquilíbrioQuímico #PrincípioLeChatelier

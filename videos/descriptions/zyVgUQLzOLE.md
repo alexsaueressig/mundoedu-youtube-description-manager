@@ -6,8 +6,6 @@ url: https://www.youtube.com/watch?v=zyVgUQLzOLE
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
-
 ❓ Quem representa o Reino Protista? 
 ❓ O que são os protozoários? 
 ❓ Qual a diferença entre protista e protozoário? 
@@ -21,4 +19,5 @@ url: https://www.youtube.com/watch?v=zyVgUQLzOLE
 ✔️ Aula 4 - Doença de Chagas: https://mundoedu.com.br/videoaula/424
 ✔️ Aula 5 - Malária: https://mundoedu.com.br/videoaula/423
 
-#ENEM #Biologia #Microbiologia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Biologia #Microbiologia #ReinoProtista

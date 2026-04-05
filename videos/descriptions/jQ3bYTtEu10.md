@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=jQ3bYTtEu10
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 4 de 5 sobre Dinâmica: Leis de Kepler e Lei da Gravitação Universal. Videoaula de Física para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Dinâmica

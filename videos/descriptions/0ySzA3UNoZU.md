@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=0ySzA3UNoZU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 3 de 9 sobre Filosofia Política: Democracia e Liberdade. Videoaula de ENEM.
 
-#ENEM #Filosofia #FilosofiaPolítica
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Filosofia #FilosofiaPolítica #DemocraciaLiberdade

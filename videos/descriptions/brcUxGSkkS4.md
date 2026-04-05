@@ -6,9 +6,7 @@ url: https://www.youtube.com/watch?v=brcUxGSkkS4
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+👉 Nesta videoaula o prof. Betover fala sobre a FORMAÇÃO DO ESTADO MODERNO.
 
-👉 Nesta videoaula o prof. Betover fala sobre a FORMAÇÃO DO ESTADO MODERNO. 
-
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Filosofia #Estado

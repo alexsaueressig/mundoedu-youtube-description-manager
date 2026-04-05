@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=-KAe1nc27PM
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Brasil: Expansão territorial. Conteúdo de História para o ENEM.
 
-#ENEM #História #ÉpocaColonial
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #ÉpocaColonial #ExpansãoTerritorial

@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=HTJ6y0umtvk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Estrutura, composição e propriedades da água. Conteúdo de Química para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Química #Água

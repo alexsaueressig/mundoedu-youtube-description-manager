@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=rpWXpH0a0Xo
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Concentração de Soluções. Conteúdo de Química para o ENEM.
 
-#ENEM #Química #Água
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #Água #ConcentraçãoSoluções

@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=fLdazmkrKHY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📚 PLANO DE ESTUDOS DE LITERATURA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Conceito de literatura + Quinhentismo. Conteúdo de Mundo Literatura para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Literatura

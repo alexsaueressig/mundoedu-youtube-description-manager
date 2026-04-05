@@ -4,6 +4,8 @@ title: ✨ REVISÃO MÁGICA ENEM ✨ Constituições do Brasil - História - ENE
 url: https://www.youtube.com/watch?v=TPYs7Yd_3YE
 ---
 
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+
 Índice deste vídeo:
 
 ✨ 00:25 - CONSTITUIÇÃO DE 1824
@@ -60,6 +62,5 @@ url: https://www.youtube.com/watch?v=TPYs7Yd_3YE
 - Ampliação da legislação trabalhista
 - Emenda da reeleição
 
-✨ Plano de Estudos Enem COMPLETO: https://mundoedu.com.br/plano-de-estudos
-
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #História #Revisão

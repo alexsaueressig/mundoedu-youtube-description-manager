@@ -6,9 +6,7 @@ url: https://www.youtube.com/watch?v=rxivLM9zRCw
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 Nesta videoaula, o professor Gui Valenzuela vai falar sobre as medidas de dispersão: desvio médio, desvio padrão e variância.
 
-#ENEM #Matemática #Estatística
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Matemática #Estatística #MedidasDispersão

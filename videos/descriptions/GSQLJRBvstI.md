@@ -6,8 +6,6 @@ url: https://www.youtube.com/watch?v=GSQLJRBvstI
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
-
 🐍 ZOOLOGIA 
 👉 Módulo completo
 ✔️ Aula 1 - Poríferos, Cnidários e Platelmintos: https://mundoedu.com.br/videoaula/425
@@ -17,4 +15,5 @@ url: https://www.youtube.com/watch?v=GSQLJRBvstI
 ✔️ Aula 5 - Equinodermos e Cordados: https://mundoedu.com.br/videoaula/429
 ✔️ Aula 6 - Vertebrados: https://mundoedu.com.br/videoaula/430
 
-#ENEM #Biologia #Zoologia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Biologia #Zoologia #EquinodermosCordados

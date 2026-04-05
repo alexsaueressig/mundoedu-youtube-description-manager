@@ -6,8 +6,7 @@ url: https://www.youtube.com/watch?v=Gh7hsluxaxs
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 4 de 7 sobre Ecologia: Teia Trófica. Videoaula de Biologia para o ENEM.
 
 🌱 ECOLOGIA - MÓDULO COMPLETO
 ✔️ Aula 1 - Biomas: https://mundoedu.com.br/videoaula/536
@@ -18,4 +17,5 @@ https://mundoedu.com.br/plano-de-estudos
 ✔️ Aula 6 - Sucessão ecológica: https://mundoedu.com.br/videoaula/541
 ✔️ Aula 7 - Desequilíbrios ambientais: https://mundoedu.com.br/videoaula/543
 
-#ENEM #Biologia #Ecologia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Biologia #Ecologia #TeiaTrófica

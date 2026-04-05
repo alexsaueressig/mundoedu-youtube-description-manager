@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=CoEXwcG-tG0
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 3 de 4 sobre Função quadrática: Coordenadas do vértice. Videoaula de Matemática para o ENEM.
 
-#ENEM #Matemática #FunçãoQuadrática
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Matemática #FunçãoQuadrática #CoordenadasVértice

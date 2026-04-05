@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=o0QHR8SRrk8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 2 sobre Vegetação: Vegetação Mundial. Videoaula de Geografia para o ENEM.
 
-#ENEM #Geografia #Vegetação
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #Vegetação #VegetaçãoMundial

@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=kKEBKjKKP4Y
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 7 de 8 sobre Cinemática: O que é MCU? - Movimento Circular Uniforme. Videoaula de Física para o ENEM.
 
-#ENEM #Física #Cinemática
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Cinemática #OQueÉMcu

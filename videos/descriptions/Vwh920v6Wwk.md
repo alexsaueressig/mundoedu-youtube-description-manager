@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=Vwh920v6Wwk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🎭 PLANO DE ESTUDOS DE ARTES - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 9 sobre Arte moderna: REALISMO. Videoaula de Mundo Artes para o ENEM.
 
-#ENEM #Artes #ArteModerna
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Artes #ArteModerna #Realismo

@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=KIEI4f28zyM
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 3 sobre Ótica: Reflexão e espelhos. Videoaula de Física para o ENEM.
 
-#ENEM #Física #Ótica
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Ótica #ReflexãoEspelhos

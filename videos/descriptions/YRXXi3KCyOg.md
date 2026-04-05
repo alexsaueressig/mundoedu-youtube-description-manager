@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=YRXXi3KCyOg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 9 sobre Compostos Orgânicos: Hidrocarbonetos. Videoaula de Química para o ENEM.
 
-#ENEM #Química #CompostosOrgânicos
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #CompostosOrgânicos #Hidrocarbonetos

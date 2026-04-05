@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=33srBa_mBjY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 6 sobre Hidrostática: Pressão Hidrostática. Videoaula de Física para o ENEM.
 
-#ENEM #Física #Hidrostática
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Hidrostática #PressãoHidrostática

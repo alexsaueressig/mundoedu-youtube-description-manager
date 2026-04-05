@@ -6,9 +6,7 @@ url: https://www.youtube.com/watch?v=LwDQWRwpxYI
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 Continuando na estequiometria, nesta videoaula o professor Camacho explica os conceitos de reagente limitante, reagente em excesso, pureza e rendimento.
 
-#ENEM #Química #TransformaçõesQuímicas
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #TransformaçõesQuímicas #Estequiometria

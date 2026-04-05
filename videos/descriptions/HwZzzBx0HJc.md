@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=HwZzzBx0HJc
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 3 de 3 sobre Logaritmos: Exercícios resolvidos. Videoaula de Matemática para o ENEM.
 
-#ENEM #Matemática #Logaritmos
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Matemática #Logaritmos #ExercíciosResolvidos

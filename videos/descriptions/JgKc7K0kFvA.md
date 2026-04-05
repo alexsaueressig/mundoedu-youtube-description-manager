@@ -7,9 +7,7 @@ url: https://www.youtube.com/watch?v=JgKc7K0kFvA
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 Nesta videoaula, o professor Gui vai explicar a Teoria da Soma e da Multiplicação de Probabilidades, resolver exemplos e dar algumas dicas para você não se perder!
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Matemática #Probabilidade

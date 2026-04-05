@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=cStYAr3ZUy8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 5 sobre Espaço da produção: Fases da Industrialização e tipos de indústrias. Videoaula de Geografia para o ENEM.
 
-#ENEM #Geografia #EspaçoDaProdução
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #EspaçoDaProdução #EspaçoProdução

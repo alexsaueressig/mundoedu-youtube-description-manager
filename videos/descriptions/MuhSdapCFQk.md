@@ -8,7 +8,5 @@ url: https://www.youtube.com/watch?v=MuhSdapCFQk
 
 👉 A professora Dani Bressan resolve +6 questões para vocês!
 
-📚 PLANO DE ESTUDOS DE LITERATURA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
-#ENEM #Literatura
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Literatura #QuestõesComentadas

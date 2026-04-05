@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=eX2bviDKdc8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 4 de 4 sobre Oscilações: Acústica. Videoaula de Física para o ENEM.
 
-#ENEM #Física #Oscilações
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Oscilações #Acústica

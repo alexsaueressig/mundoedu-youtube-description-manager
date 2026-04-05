@@ -6,9 +6,7 @@ url: https://www.youtube.com/watch?v=xl6n7F7yYIg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 👉Movimento Retilíneo Uniformemente Variado 😨 Calma, calma... Respira fundo e bora garantir mais uma questão no ENEM!
 
-#ENEM #Física #Cinemática
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Cinemática #OQueÉMruv

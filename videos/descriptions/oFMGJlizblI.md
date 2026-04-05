@@ -6,9 +6,7 @@ url: https://www.youtube.com/watch?v=oFMGJlizblI
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+👉 Partícula, corpo extenso, referencial, aceleração... O professor Vasco explica tudo nesta nossa primeira aula de cinemática!
 
-👉 Partícula, corpo extenso, referencial, aceleração... O professor Vasco explica tudo nesta nossa primeira aula de cinemática! 
-
-#ENEM #Física #Cinemática
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Cinemática #ConceitosIniciais

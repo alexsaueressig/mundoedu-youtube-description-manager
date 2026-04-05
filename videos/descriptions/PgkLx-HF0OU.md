@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=PgkLx-HF0OU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 2 sobre Termodinâmica: Estudo dos gases. Videoaula de Física para o ENEM.
 
-#ENEM #Física #Termodinâmica
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Termodinâmica #EstudoGases

@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=5CwEOa67DzQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 3 de 6 sobre Terra: Orientação e Coordenadas Geográficas. Videoaula de Geografia para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Geografia #Terra

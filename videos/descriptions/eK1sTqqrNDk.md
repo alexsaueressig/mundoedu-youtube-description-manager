@@ -7,11 +7,9 @@ url: https://www.youtube.com/watch?v=eK1sTqqrNDk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 👉 Qual é o mito da caverna?
 👉 Qual o objetivo da criação do mito da caverna?
 👉 O que representa a alegoria da caverna?
 
-#ENEM #Filosofia #Epistemologia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Filosofia #Epistemologia #TeoriaConhecimento #MitoCavernaPlatão

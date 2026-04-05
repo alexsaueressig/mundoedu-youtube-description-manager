@@ -6,9 +6,7 @@ url: https://www.youtube.com/watch?v=OIdPQDsetDk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+👉🌊 Conceito, classificação, características, elementos e exemplos do cotidiano. Tudo sobre ondas!
 
-👉🌊 Conceito, classificação, características, elementos e exemplos do cotidiano. Tudo sobre ondas! 
-
-#ENEM #Física #Oscilações
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Oscilações #OndasOndulatória

@@ -4,9 +4,9 @@ title: "\U0001F42E Bumba meu boi / Boi-bumbá - Mundo Artes - ENEM"
 url: https://www.youtube.com/watch?v=VpxKmnyBRUU
 ---
 
-Vídeo feito com muito carinho para a galera do Colégio Estadual Humberto Mendes, de Palmeira dos Índios/AL! #ExpoMendes 
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-#MundoEdu #Artes 
+Vídeo feito com muito carinho para a galera do Colégio Estadual Humberto Mendes, de Palmeira dos Índios/AL! #ExpoMendes
 
-🎭 PLANO DE ESTUDOS DE ARTES - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Artes #ExpoMendes #MundoEdu

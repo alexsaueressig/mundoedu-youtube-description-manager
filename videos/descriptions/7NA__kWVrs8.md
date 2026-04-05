@@ -6,12 +6,10 @@ url: https://www.youtube.com/watch?v=7NA__kWVrs8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO:
-https://mundoedu.com.br/plano-de-estudos
-
 O que diz a lei Avogadro?
 Como podemos enunciar a Lei de Avogadro?
 Qual o volume de uma molécula?
 Qual é o significado de mol?
 
-#ENEM #Química #TransformaçõesQuímicas
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #TransformaçõesQuímicas #PrincípioAvogadro

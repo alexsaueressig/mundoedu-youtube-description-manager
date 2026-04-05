@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=L3QEZaRDD3s
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO:
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 7 sobre A Era das Revoluções: Revolução Inglesa. Videoaula de História para o ENEM.
 
-#ENEM #História #EraDasRevoluções
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #EraDasRevoluções #RevoluçãoInglesa

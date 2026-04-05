@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=f2drfyPyYY8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 3 sobre Eletrodinâmica: Corrente elétrica. Videoaula de Física para o ENEM.
 
-#ENEM #Física #Eletrodinâmica
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Eletrodinâmica #CorrenteElétrica

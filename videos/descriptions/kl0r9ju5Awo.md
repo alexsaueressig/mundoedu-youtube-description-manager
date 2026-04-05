@@ -4,7 +4,9 @@ title: Pergunte! - Quais são os pontos fortes e fracos do capitalismo e do soci
 url: https://www.youtube.com/watch?v=kl0r9ju5Awo
 ---
 
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+
 Pergunta e resposta sobre História e atualidades: o professor Bussunda discute os pontos fortes e fracos do capitalismo e do socialismo.
 
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
-#ENEM #História #Capitalismo #Socialismo
+#ENEM #História #Capitalismo #Socialismo #Pergunte

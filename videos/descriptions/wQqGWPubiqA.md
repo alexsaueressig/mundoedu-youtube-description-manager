@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=wQqGWPubiqA
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 3 sobre Pré-História: Evolução dos hominídeos. Videoaula de História para o ENEM.
 
-#ENEM #História #PréHistória
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #PréHistória #EvoluçãoHominídeos

@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=K-IG2aGZ8lI
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📚 PLANO DE ESTUDOS DE LITERATURA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Simbolismo. Conteúdo de Literatura para o ENEM.
 
-#ENEM #Literatura
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Literatura #Simbolismo

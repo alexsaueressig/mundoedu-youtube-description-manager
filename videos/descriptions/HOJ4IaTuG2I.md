@@ -7,9 +7,7 @@ url: https://www.youtube.com/watch?v=HOJ4IaTuG2I
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 👉 Videoaula sobre os sistemas agrícolas, abordando a agricultura de subsistência e as plantations, além de características regionais de cultivo na Ásia, Europa e Estados Unidos. Também aborda-se a questão da fome mundial, do agronegócio, do melhoramento genético e dos transgênicos.
 
-#ENEM #Geografia #EspaçoAgrário
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #EspaçoAgrário #SistemasAgrícolas

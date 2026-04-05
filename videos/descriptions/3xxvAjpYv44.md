@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=3xxvAjpYv44
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 5 de 6 sobre Globalização: Blocos econômicos. Videoaula de Geografia para o ENEM.
 
-#ENEM #Geografia #Globalização
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #Globalização #BlocosEconômicos

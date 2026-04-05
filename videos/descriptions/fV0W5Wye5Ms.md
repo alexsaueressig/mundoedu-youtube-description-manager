@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=fV0W5Wye5Ms
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 4 de 5 sobre Brasil Império: 2º Reinado (Parte 1). Videoaula de História para o ENEM.
 
-#ENEM #História #BrasilImpério
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #BrasilImpério #2ºReinadoParte1

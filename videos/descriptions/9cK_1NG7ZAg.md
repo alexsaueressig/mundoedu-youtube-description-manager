@@ -7,8 +7,6 @@ url: https://www.youtube.com/watch?v=9cK_1NG7ZAg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
-
 Ewwwwww! 🤢 Nesta aula, o professor Guerra vai falar das principais doenças causadas por vermes platelmintos e nematelmintos.
 
 🕒 01:27 - Teníase
@@ -28,4 +26,5 @@ Ewwwwww! 🤢 Nesta aula, o professor Guerra vai falar das principais doenças c
 ✔️ Aula 5 - Equinodermos e Cordados: https://mundoedu.com.br/videoaula/429
 ✔️ Aula 6 - Vertebrados: https://mundoedu.com.br/videoaula/430
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Biologia #Zoologia

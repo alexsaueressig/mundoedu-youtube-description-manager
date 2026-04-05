@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=thiKWgLGxDY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 6 sobre População: Conceitos e Taxas. Videoaula de Geografia para o ENEM.
 
-#ENEM #Geografia #População
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #População #ConceitosTaxas

@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=xd8WVRC08Lc
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Reforma Religiosa. Conteúdo de História para o ENEM.
 
-#ENEM #História #Modernidade
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #Modernidade #ReformaReligiosa

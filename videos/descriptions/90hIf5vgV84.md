@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=90hIf5vgV84
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 4 de 4 sobre Equilíbrio Químico: Hidrólise de Sais. Videoaula de Química para o ENEM.
 
-#ENEM #Química #EquilíbrioQuímico
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #EquilíbrioQuímico #HidróliseSais

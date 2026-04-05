@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=1Bxbfnu4vNU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 5 de 5 sobre Primeiros Estados: América Pré-colonial. Videoaula de História para o ENEM.
 
-#ENEM #História #PrimeirosEstados
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #PrimeirosEstados #AméricaPré #AméricaPréColonial

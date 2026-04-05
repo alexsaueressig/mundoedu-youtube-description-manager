@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=QpMx8EOZNgM
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 6 sobre Terra: Espaço Geográfico. Videoaula de Geografia para o ENEM.
 
-#ENEM #Geografia #Terra
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #Terra #EspaçoGeográfico

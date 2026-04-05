@@ -6,8 +6,6 @@ url: https://www.youtube.com/watch?v=x1qiuN7qGRo
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
-
 ❓ O que causa a malária?
 ❓ Qual é a prevenção da malária?
 ❓Qual é o mosquito que transmite a malária?
@@ -21,4 +19,5 @@ url: https://www.youtube.com/watch?v=x1qiuN7qGRo
 ✔️ Aula 4 - Doença de Chagas: https://mundoedu.com.br/videoaula/424
 ✔️ Aula 5 - Malária: https://mundoedu.com.br/videoaula/423
 
-#ENEM #Biologia #Microbiologia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Biologia #Microbiologia #Malária

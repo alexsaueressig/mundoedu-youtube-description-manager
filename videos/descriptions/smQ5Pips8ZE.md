@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=smQ5Pips8ZE
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 5 de 8 sobre Cinemática: Queda livre e lançamento vertical pra cima. Videoaula de Física para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Cinemática

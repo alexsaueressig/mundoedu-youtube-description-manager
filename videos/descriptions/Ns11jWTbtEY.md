@@ -13,7 +13,5 @@ Videoaulas:
 ✔️ Anos 90: https://mundoedu.com.br/videoaula/342
 ✔️ Anos 2000: https://mundoedu.com.br/videoaula/343
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO:
-https://mundoedu.com.br/plano-de-estudos
-
-#ENEM #História #HistóriaDoBrasil
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #HistóriaDoBrasil #Brasil

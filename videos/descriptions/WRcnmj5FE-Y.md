@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=WRcnmj5FE-Y
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👥 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Escola de Frankfurt. Conteúdo de Sociologia para o ENEM.
 
-#ENEM #Sociologia #EscolaDeFrankfurt
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Sociologia #EscolaDeFrankfurt #EscolaFrankfurt

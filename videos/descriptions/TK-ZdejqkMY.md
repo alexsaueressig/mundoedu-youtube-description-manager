@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=TK-ZdejqkMY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👥 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre Culturas Contemporâneas. Conteúdo de Sociologia para o ENEM.
 
-#ENEM #Sociologia #Cultura
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Sociologia #Cultura #CulturasContemporâneas

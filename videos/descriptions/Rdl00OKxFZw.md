@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=Rdl00OKxFZw
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 3 de 3 sobre Ótica: Biofísica do olho e problemas de visão. Videoaula de Física para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Ótica

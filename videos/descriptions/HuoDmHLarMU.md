@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=HuoDmHLarMU
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 4 sobre Oscilações: Movimento Harmônico Simples (MHS). Videoaula de Física para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Oscilações

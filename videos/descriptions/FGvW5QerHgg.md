@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=FGvW5QerHgg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 6 sobre População: Teorias Demográficas. Videoaula de Geografia para o ENEM.
 
-#ENEM #Geografia #População
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #População #TeoriasDemográficas

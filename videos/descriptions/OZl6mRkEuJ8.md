@@ -7,12 +7,10 @@ url: https://www.youtube.com/watch?v=OZl6mRkEuJ8
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👥 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 👉 Quais os conceitos fundamentais da sociologia?
 👉 O que é sociedade? 
 👉 O que é cultura?
 👉 O que é trabalho?
 
-#ENEM #Sociologia #Conceitos
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Sociologia #Conceitos #ConceitosFundamentais

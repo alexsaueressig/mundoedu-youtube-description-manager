@@ -12,7 +12,5 @@ url: https://www.youtube.com/watch?v=jMyOgUzPceY
 - Gênero dramático (encenação)
 - Gênero narrativo (gênero moderno - a partir do século XIX)
 
-📚 PLANO DE ESTUDOS DE LITERATURA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
-#ENEM #Literatura
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Literatura #GênerosLiterários

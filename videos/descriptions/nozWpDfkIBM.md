@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=nozWpDfkIBM
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 4 sobre Eletrostática: Carga elétrica. Videoaula de Física para o ENEM.
 
-#ENEM #Física #Eletrostática
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Física #Eletrostática #CargaElétrica

@@ -6,13 +6,11 @@ url: https://www.youtube.com/watch?v=VjqYjVJogb4
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 👉 NICOLAU MAQUIAVEL: famoso pensador do período moderno da filosofia, também autor do famoso livro "O Príncipe".
 
 Maquiavel (1469-1527), é um dos mais importantes pensadores de todos os tempos, especialmente para o campo da política, por um motivo bastante simples: ele foi o primeiro a dissociar a política da moral. A característica mais marcante da obra maquiaveliana reside justamente no fato de que Maquiavel, ao pensar e escrever sobre política, rejeitou completamente o idealismo dos clássicos e rompeu definitivamente com a velha moral católica.
 
 Enquanto Platão, Aristóteles, Santo Agostinho e Thomas Morus, por exemplo, procuraram estabelecer as características de um Estado ideal, Maquiavel seguiu no sentido oposto: ao invés de se preocupar com o que o Estado deveria ser, procurou desenvolver uma teoria a partir do que o Estado era de fato (...)
 
-#ENEM #Filosofia #FilosofiaPolítica
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Filosofia #FilosofiaPolítica #Maquiavel

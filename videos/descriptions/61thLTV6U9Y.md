@@ -7,8 +7,7 @@ url: https://www.youtube.com/watch?v=61thLTV6U9Y
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 3 de 8 sobre Genética: Ausência de dominância e dominância incompleta. Videoaula de Biologia para o ENEM.
 
 🧬 GENÉTICA - MÓDULO COMPLETO
 ✔️ Aula 1 - 1ª Lei de Mendel: https://mundoedu.com.br/videoaula/527
@@ -20,4 +19,5 @@ https://mundoedu.com.br/plano-de-estudos
 ✔️ Aula 7 - Clonagem, transgênicos e CRISPR: https://mundoedu.com.br/videoaula/533
 ✔️ Aula 8 - Evolução: https://mundoedu.com.br/videoaula/535
 
-#ENEM #Biologia #Genetica
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Biologia #Genética

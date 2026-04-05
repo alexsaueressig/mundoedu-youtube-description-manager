@@ -10,7 +10,5 @@ url: https://www.youtube.com/watch?v=gAW8pEzfpOQ
 🏛️  AULA ANTERIOR SOBRE ROMA: Roma Antiga - Monarquia e República
 https://mundoedu.com.br/videoaula/107
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
-#ENEM #História #Antiguidade
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #Antiguidade #AntiguidadeOcidental #RomaAntiga

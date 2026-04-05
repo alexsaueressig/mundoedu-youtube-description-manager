@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=9SLtYU8eRqY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FÍSICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 4 sobre Eletrostática: Processos de eletrização e Lei de Coulomb. Videoaula de Física para o ENEM.
 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #Eletrostática

@@ -4,9 +4,9 @@ title: '✍️ Redação ENEM (4/4): Como fazer a conclusão?'
 url: https://www.youtube.com/watch?v=_n8Z0lM9j6s
 ---
 
-🌌 PLANO DE ESTUDOS DE REDAÇÃO - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👉 Aprenda a concluir sua redação para o ENEM com a professora Dani Bressan. Rumo #TopoDoENEM!
 
-#ENEM #Redação #ProfessoraDaniBressan
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #TopoDoENEM #Redação #ProfessoraDaniBressan #RedaçãoENEM

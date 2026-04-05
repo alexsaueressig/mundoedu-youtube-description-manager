@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=NzacZYse6I0
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Videoaula sobre América Colonial. Conteúdo de História para o ENEM.
 
-#ENEM #História #ÉpocaColonial
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #ÉpocaColonial #AméricaColonial

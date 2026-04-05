@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=Sc6MSR9l1g0
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🎭 PLANO DE ESTUDOS DE ARTES - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 4 sobre Arte no Brasil: Arte contemporânea no Brasil. Videoaula de Mundo Artes para o ENEM.
 
-#ENEM #Artes #ArteNoBrasil
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Artes #ArteNoBrasil #ArteContemporâneaNoBrasil

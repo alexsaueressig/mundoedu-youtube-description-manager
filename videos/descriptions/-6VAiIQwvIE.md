@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=-6VAiIQwvIE
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 4 de 6 sobre População: Migrações. Videoaula de Geografia para o ENEM.
 
-#ENEM #Geografia #População
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #População #Migrações

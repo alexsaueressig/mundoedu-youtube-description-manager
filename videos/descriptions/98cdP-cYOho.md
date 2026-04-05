@@ -6,9 +6,7 @@ url: https://www.youtube.com/watch?v=98cdP-cYOho
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌌 PLANO DE ESTUDOS DE FILOSOFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 👉 Filósofos principais: Nietzsche, Sartre, Habermas, Peter Singer (...)
 
-#ENEM #Filosofia #FilosofiaMoral
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Filosofia #FilosofiaMoral #ÉticaContemporânea

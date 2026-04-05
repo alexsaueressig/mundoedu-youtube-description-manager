@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=dP5Sdacr8QY
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-👨‍🔬 PLANO DE ESTUDOS DE QUÍMICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 7 de 9 sobre Compostos Orgânicos: Isomeria Espacial. Videoaula de Química para o ENEM.
 
-#ENEM #Química #CompostosOrgânicos
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Química #CompostosOrgânicos #IsomeriaEspacial

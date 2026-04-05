@@ -7,11 +7,9 @@ url: https://www.youtube.com/watch?v=6yc1vjuBJWg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 ❓ O que é PG na matemática?
 ❓ Qual a fórmula de progressão geométrica? 
 ❓ Como calcular o termo de uma PG?
 
-#ENEM #Matemática #SequênciasNuméricas
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Matemática #SequênciasNuméricas #ProgressãoGeométricaPg

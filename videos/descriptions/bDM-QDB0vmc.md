@@ -4,6 +4,8 @@ title: "\U0001F534 Revisão de Matemática em 40 minutos - ENEM"
 url: https://www.youtube.com/watch?v=bDM-QDB0vmc
 ---
 
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+
 ✨ Estrutura da aula ⇊
 
 ✨ 00:37 - ESTATÍSTICA
@@ -35,5 +37,5 @@ url: https://www.youtube.com/watch?v=bDM-QDB0vmc
 
 ✨ 38:41 - INTERPRETAÇÃO DE QUESTÕES
 
-✨ Plano de Estudos COMPLETO:
-https://mundoedu.com.br/plano-de-estudos
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Matemática #Revisão

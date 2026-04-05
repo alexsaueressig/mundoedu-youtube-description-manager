@@ -4,8 +4,11 @@ title: Orações Coordenadas - Gramática - Mundo Português - ENEM
 url: https://www.youtube.com/watch?v=bn0T9XfkEws
 ---
 
-✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 O que são orações coordenadas?
 Quais são as orações coordenadas assindéticas?
 O que é oração coordenada explicativa?
+
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Português #OraçõesCoordenadas

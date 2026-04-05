@@ -1,8 +1,10 @@
 ---
 id: e8w7EWhsga4
-title: "Podcast ATUALIDADES ENEM - Episódio BÔNUS: Trump"
+title: 'Podcast ATUALIDADES ENEM - Episódio BÔNUS: Trump'
 url: https://www.youtube.com/watch?v=e8w7EWhsga4
 ---
+
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 ----- 20 EPISÓDIOS INÉDITOS ----
 
@@ -27,3 +29,6 @@ url: https://www.youtube.com/watch?v=e8w7EWhsga4
 19. Mobilidade urbana
 20. Pegada hídrica
 21. Trump (bônus)
+
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Atualidades #PodcastAtualidadesEnem

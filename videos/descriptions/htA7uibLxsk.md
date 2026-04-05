@@ -6,9 +6,7 @@ url: https://www.youtube.com/watch?v=htA7uibLxsk
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🧮 PLANO DE ESTUDOS DE MATEMÁTICA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
-
 Nesta videoaula, o professor Gui Valenzuela explica tudinho sobre as tabelas de frequência e os gráficos de setores, de pizza, de barras horizontais e verticais e de linha.
 
-#ENEM #Matemática #Estatística
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Matemática #Estatística #TabelasGráficos

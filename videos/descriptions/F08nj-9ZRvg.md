@@ -6,7 +6,7 @@ url: https://www.youtube.com/watch?v=F08nj-9ZRvg
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-🌏 PLANO DE ESTUDOS DE GEOGRAFIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 9 de 9 sobre Litosfera: Solos. Videoaula de Geografia para o ENEM.
 
-#ENEM #Geografia #Litosfera
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Geografia #Litosfera #Solos

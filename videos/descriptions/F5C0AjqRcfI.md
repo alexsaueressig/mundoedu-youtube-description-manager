@@ -6,8 +6,7 @@ url: https://www.youtube.com/watch?v=F5C0AjqRcfI
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-✨ PLANO DE ESTUDOS DE BIOLOGIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 1 de 8 sobre Fisiologia: Sistema Nervoso. Videoaula de Biologia para o ENEM.
 
 👩‍⚕️ FISIOLOGIA - MÓDULO COMPLETO
 ✔️ Aula 1 - Sistema nervoso: https://mundoedu.com.br/videoaula/519
@@ -19,4 +18,5 @@ https://mundoedu.com.br/plano-de-estudos
 ✔️ Aula 7 - Sistema endócrino: https://mundoedu.com.br/videoaula/525
 ✔️ Aula 8 - Sistema reprodutor: https://mundoedu.com.br/videoaula/526
 
-#ENEM #Biologia #Fisiologia
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #Biologia #Fisiologia #SistemaNervoso

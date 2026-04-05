@@ -7,7 +7,7 @@ url: https://www.youtube.com/watch?v=IBJk8s3DKcQ
 
 *MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
-📜 PLANO DE ESTUDOS DE HISTÓRIA - COMPLETO: 
-https://mundoedu.com.br/plano-de-estudos
+Aula 2 de 3 sobre Pré-História: Organização socioeconômica. Videoaula de História para o ENEM.
 
-#ENEM #História #PréHistoria
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+#ENEM #História #PréHistoria #PréHistória #OrganizaçãoSocioeconômica
