@@ -4,8 +4,6 @@ title: 'Podcast ATUALIDADES ENEM - Episódio BÔNUS: Trump'
 url: https://www.youtube.com/watch?v=e8w7EWhsga4
 ---
 
-NOVO PODCAST!! https://go.hotmart.com/F17410815H?dp=1
-
 ----- 20 EPISÓDIOS INÉDITOS ----
 
 1. 100 anos do Tratado de Versalhes e 80 anos da 2ª Guerra Mundial
@@ -29,5 +27,3 @@ NOVO PODCAST!! https://go.hotmart.com/F17410815H?dp=1
 19. Mobilidade urbana
 20. Pegada hídrica
 21. Trump (bônus)
-
-ACESSE: https://go.hotmart.com/F17410815H?dp=1
