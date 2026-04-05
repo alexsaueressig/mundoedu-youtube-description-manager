@@ -8,4 +8,4 @@ Mensagem motivacional (#sqn) do prof. Bussunda pra quem vai fazer o ENEM... The 
 
 Boa prova, galera!! #RUUI
 
-http://mundoedu.com.br/historia
+https://mundoedu.com.br/historia

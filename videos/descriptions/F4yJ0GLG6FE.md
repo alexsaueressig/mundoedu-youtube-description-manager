@@ -10,9 +10,8 @@ Estamos tããããããão felizes que não se fala em outra coisa aqui no estúdi
 Muiiiiiiiiito obrigadoooooooo seus lindos! 
 
 
-☆Links úteis 
-http://mundoedu.com.br
-Plano de estudos #ENEM: http://mundoedu.com.br/plano-de-estudos
-
-☆Nossas redes sociais
+✨ Links úteis 
+https://mundoedu.com.br
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+✨ Nossas redes sociais
 Snap: portalmundoedu

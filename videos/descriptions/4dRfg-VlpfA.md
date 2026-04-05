@@ -8,4 +8,4 @@ Mais um maluco que está entrando para a turma de profs mais ~diferentona~ da we
 A partir de agora o prof. JowJow chega com o #MundoArtes para pirar muito e te ajudar a resolver ainda mais questões da prova de linguagens. Não esquece de deixar aquele like esperto de "boas vidas"! :P
 
 Snap: portalmundoedu
-http://mundoedu.com.br
+https://mundoedu.com.br

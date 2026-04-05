@@ -8,4 +8,4 @@ Videoaulas sobre calor específico, latente e mudanças de estado.
 Aula com o Vasco, o prof. ogro e queridão... É o Shrek da Física! hahaha
 
 Mais aulas pro ENEM:
-www.mundoedu.com.br/fisica/plano-de-estudos
+https://mundoedu.com.br/fisica/plano-de-estudos

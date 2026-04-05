@@ -4,7 +4,7 @@ title: "\U0001F4DC Redemocratização do Brasil (Anos 80) - História - ENEM"
 url: https://www.youtube.com/watch?v=pFl4Kdwf2a0
 ---
 
-_MundoEdu: O melhor cursinho online agora é 100% gratuito!_
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👉 Videoaula sobre o processo de redemocratização do Brasil pós-ditadura militar com o professor Bussunda! RUUUI
 

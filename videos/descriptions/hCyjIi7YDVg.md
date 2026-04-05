@@ -4,7 +4,7 @@ title: "\U0001F4DC Redemocratização do Brasil (Anos 90) - História - ENEM"
 url: https://www.youtube.com/watch?v=hCyjIi7YDVg
 ---
 
-_MundoEdu: O melhor cursinho online agora é 100% gratuito!_
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 👉 Videoaula com o professor Bussunda sobre o processo de redemocratização do Brasil nos anos 90: governo Collor, caras-pintadas, Itamar Franco, Plano Real, FHC...
 

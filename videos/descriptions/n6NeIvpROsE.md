@@ -7,4 +7,4 @@ url: https://www.youtube.com/watch?v=n6NeIvpROsE
 O professor Vasco responde!
 
 Estude para o ENEM com videoaulas divertidas:
-http://mundoedu.com.br
+https://mundoedu.com.br

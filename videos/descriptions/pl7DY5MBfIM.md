@@ -19,4 +19,4 @@ Videoaula do professor Vasco sobre 4 forças importantes para o ENEM:
 4) Força elástica (Lei de Hooke, elásticos, molas...)
 
 👉  FORÇAS #2 - PRÓXIMA AULA:
-http://mundoedu.com.br/videoaula/213
+https://mundoedu.com.br/videoaula/213

@@ -5,7 +5,7 @@ title: "\U0001F40D Zoologia (1/6): Poríferos, Cnidários e Platelmintos - Biolo
 url: https://www.youtube.com/watch?v=BnMtrLlPZ_s
 ---
 
-* MundoEdu: O melhor cursinho online agora é 100% gratuito! *
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 

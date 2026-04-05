@@ -4,7 +4,7 @@ title: "\U0001F9EC Bioquímica (3/5): Carboidratos e Lipídios - Biologia - ENEM
 url: https://www.youtube.com/watch?v=n6mpmCWrcss
 ---
 
-* MundoEdu: O melhor cursinho online agora é 100% gratuito! *
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 

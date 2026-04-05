@@ -6,5 +6,5 @@ url: https://www.youtube.com/watch?v=GNkQxM4gP_8
 
 Super videoaula sobre a #Constituição Brasileira com o prof. #Bussunda, do Mundo História, e o prof. #Giba, do Mundo Geografia.
 
-☆Links úteis 
-Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
+✨ Links úteis 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos

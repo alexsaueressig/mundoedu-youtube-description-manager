@@ -9,5 +9,5 @@ Videoaula sobre os antecedentes da Segunda Guerra Mundial, conflito militar glob
 
 Prepare-se para o ENEM e vestibular com Prof. Bussunda, no Mundo História. Mais videoaulas: https://mundoedu.com.br/historia
 
-☆Links úteis 
-Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
+✨ Links úteis 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos

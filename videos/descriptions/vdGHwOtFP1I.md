@@ -6,6 +6,5 @@ url: https://www.youtube.com/watch?v=vdGHwOtFP1I
 
 Proposta de redação ENEM sobre cultura e mudança social, com foco em repertório, argumento e leitura crítica da realidade.
 
-Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
-
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #RedaçãoENEM #Cultura #MudançaSocial

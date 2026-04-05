@@ -12,7 +12,7 @@ url: https://www.youtube.com/watch?v=vIjzv-_vUVA
 ❓ Quais as especializações do tecido epitelial?
 ❓ Quais as classificações do epitélio glandular?
 
-* MundoEdu: O melhor cursinho online agora é 100% gratuito! *
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 🧫 HISTOLOGIA 
 👉 Módulo completo

@@ -8,6 +8,5 @@ Somos um cursinho pré-ENEM diferente. Nosso lema é "mais educação, menos té
 
 Aqui a preparação para o ENEM mistura conteúdo, humor e linguagem direta para deixar o estudo mais leve sem perder profundidade.
 
-Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
-
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #PréENEM #Aprendizado #Humor

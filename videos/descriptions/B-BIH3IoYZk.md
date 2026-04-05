@@ -12,4 +12,4 @@ Cursinho Pré-ENEM do MundoEdu
 ★ Material de apoio e exercícios
 
 Faça sua matrícula!
-www.mundoedu.com.br/matricula
+https://mundoedu.com.br/matricula

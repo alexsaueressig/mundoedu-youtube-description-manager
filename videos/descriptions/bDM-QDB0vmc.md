@@ -4,9 +4,9 @@ title: "\U0001F534 Revisão de Matemática em 40 minutos - ENEM"
 url: https://www.youtube.com/watch?v=bDM-QDB0vmc
 ---
 
-☆ Estrutura da aula ⇊
+✨ Estrutura da aula ⇊
 
-☆ 00:37 - ESTATÍSTICA
+✨ 00:37 - ESTATÍSTICA
 - Tabelas e gráficos
 - Medidas de tendência central (Moda, Média e Mediana)
 - Medidas de dispersão (Desvio padrão, Desvio absoluto e Variância)
@@ -20,20 +20,20 @@ url: https://www.youtube.com/watch?v=bDM-QDB0vmc
 - Desconto 
 - Comparação de valores
  
-☆ 16:13 - PROBABILIDADE
-☆ 18:18 - ANÁLISE COMBINATÓRIA
+✨ 16:13 - PROBABILIDADE
+✨ 18:18 - ANÁLISE COMBINATÓRIA
 
-☆ 21:27 - FUNÇÕES
+✨ 21:27 - FUNÇÕES
 - Funções AFIM
 - Funções QUADRÁTICAS
 - Logaritmos 
 
-☆ 31:47 - GEOMETRIA
+✨ 31:47 - GEOMETRIA
 - Plana
 - Espacial 
 - Analítica 
 
-☆ 38:41 - INTERPRETAÇÃO DE QUESTÕES
+✨ 38:41 - INTERPRETAÇÃO DE QUESTÕES
 
-✫ Plano de Estudos COMPLETO:
+✨ Plano de Estudos COMPLETO:
 https://mundoedu.com.br/plano-de-estudos

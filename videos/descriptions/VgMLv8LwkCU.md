@@ -6,6 +6,6 @@ url: https://www.youtube.com/watch?v=VgMLv8LwkCU
 
 Videoaula sobre Revolução Francesa, movimento social e político ocorrido na França no final do século XVIII que demarcou o início da Idade Contemporânea, com a Tomada da Bastilha em 1789.
 
-✫ Plano de Estudos COMPLETO:
+✨ Plano de Estudos COMPLETO:
 https://mundoedu.com.br/plano-de-estudos
 

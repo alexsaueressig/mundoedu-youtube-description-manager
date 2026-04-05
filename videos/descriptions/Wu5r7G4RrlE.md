@@ -7,4 +7,4 @@ url: https://www.youtube.com/watch?v=Wu5r7G4RrlE
 O professor Bussunda responde! #RUUI
 
 Estude para o ENEM com videoaulas divertidas:
-http://mundoedu.com.br
+https://mundoedu.com.br

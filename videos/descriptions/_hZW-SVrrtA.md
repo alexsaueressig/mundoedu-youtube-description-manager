@@ -4,7 +4,7 @@ title: "\U0001F9A0 Microbiologia (2/5): Bactérias - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=_hZW-SVrrtA
 ---
 
-* MundoEdu: O melhor cursinho online agora é 100% gratuito! *
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 

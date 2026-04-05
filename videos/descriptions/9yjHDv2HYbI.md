@@ -6,5 +6,5 @@ url: https://www.youtube.com/watch?v=9yjHDv2HYbI
 
 Videoaula com o prof. Giba sobre as questões geopolíticas da Síria. #Guerra #Conflito #Síria
 
-☆Links úteis 
-Plano de estudos #ENEM: https://mundoedu.com.br/plano-de-estudos
+✨ Links úteis 
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos

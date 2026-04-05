@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=SZCsf8MQ4b8
 ---
 
 Entenda o conflito entre judeus e árabes palestinos no Oriente Médio.
-✫ Plano de Estudos COMPLETO:
+✨ Plano de Estudos COMPLETO:
 https://mundoedu.com.br/plano-de-estudos
 
 #Israel #Judeus #Árabes #Palestinos

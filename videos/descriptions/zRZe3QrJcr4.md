@@ -10,6 +10,5 @@ Uma questão resolvida para reforçar raciocínio em Física e aplicar melhor as
 
 Valeu pela participação, Levy Moraes! =D
 
-Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
-
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 #ENEM #Física #LeisDeNewton #QuestãoResolvida

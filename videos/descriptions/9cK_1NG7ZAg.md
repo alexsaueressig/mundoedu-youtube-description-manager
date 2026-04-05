@@ -5,7 +5,7 @@ title: "\U0001F40D Zoologia (3/6): Principais doenças causadas por vermes - Bio
 url: https://www.youtube.com/watch?v=9cK_1NG7ZAg
 ---
 
-* MundoEdu: O melhor cursinho online agora é 100% gratuito! *
+*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
 
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
 

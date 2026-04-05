@@ -6,9 +6,9 @@ url: https://www.youtube.com/watch?v=RO9zw71C08Q
 
 Mais uma videoaula do nosso querido quadro #AtualidadesENEM saindo do forno. Gostou da aula? Não esquece de deixar aquele like esperto e compartilhar com geral! ❤
 
-☆Nossas redes sociais
+✨ Nossas redes sociais
 Snap: portalmundoedu
 
-☆Links úteis 
-http://mundoedu.com.br
-Plano de estudos #ENEM: http://mundoedu.com.br/plano-de-estudos
+✨ Links úteis 
+https://mundoedu.com.br
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos

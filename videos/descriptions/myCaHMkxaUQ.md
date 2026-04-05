@@ -11,5 +11,5 @@ Aqui o prof Giba vai falar sobre escassez hídrica, água potável e contaminaç
 Gostou? Não esquece de deixar teu like, teu comentário e nos seguir nas redes socias! \o/\o/\o/
 
 Snap: portalmundoedu
-http://mundoedu.com.br
-Plano de estudos: http://mundoedu.com.br/plano-de-estudos
+https://mundoedu.com.br
+✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
