@@ -1,0 +1,9 @@
+---
+id: oPbFPvICaIE
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=oPbFPvICaIE
+---
+
+para queridos do mundo e duas que o professor gostou de nós estamos na nossa saga rumo ao topo de nem respondendo o pergunte ponto mundo do ponto com ponto br e hoje a nossa perguntinha aqui da querida aline nossa luna e ó que diz ou pergunta o que mudou para as mulheres depois da primeira guerra mundial tá quente muito relevantes a esse questionamento da line porque assim a gente considera que a mulher ela passa a ocupar um lugar de destaque na época da primeira guerra mundial no sentido político tá olha só já a revolução industrial é colocado no mercado de trabalho mas durante a primeira guerra mundial como os homens vão demais a guerra ela assume muitos postos que antes eram impostos masculino e ela ganha cada vez mais destaque some-se a isso também a revolução socialista na rússia onde que as mulheres são decretados com igualdade perante os homens e aí a mulher ocupava cada vez mais espaço no mundo ocidental existia o todo esse e se essa força ação digamos assim por lado do socialismo que na abordagem à mulher e aí nos anos 20 e 30 e muitos países as mulheres acabam vendo direitos políticos está nos estados unidos dos anos 20 no brasil nos anos 30 mas em alguns países como portugal por exemplo só nos anos 60 alguns países como a alemanha no regime nazista a mulher é considerada inferior ao homem e à mulher cabiam os 3 k do alemão a cozinha criança igreja certo aline certo kapazi ada um abraço pra vocês continue participando do mundo e dupont com.br na nossa seção perguntas
