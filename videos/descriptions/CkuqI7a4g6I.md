@@ -4,6 +4,8 @@ title: Pergunte! - O fogo é descoberto no paleolítico?
 url: https://www.youtube.com/watch?v=CkuqI7a4g6I
 ---
 
-O professor Bussunda responde! #RUUI
+Pergunta e resposta sobre História: o professor Bussunda comenta uma dúvida sobre o paleolítico e ajuda a contextualizar conteúdos de evolução humana.
 
-Estude para o ENEM com videoaulas divertidas: www.mundoedu.com.br
+Estude para o ENEM com videoaulas divertidas: https://mundoedu.com.br
+
+#ENEM #História #Paleolítico #EvoluçãoHumana

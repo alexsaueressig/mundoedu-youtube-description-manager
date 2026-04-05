@@ -4,4 +4,8 @@ title: "\U0001F4B8 Crise de 1929 - História - ENEM"
 url: https://www.youtube.com/watch?v=WN8WUypulz8
 ---
 
+Nesta aula de História, a crise de 1929 ajuda a entender capitalismo, desemprego e crise econômica no contexto da prova do ENEM.
+
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+
+#ENEM #História #CriseDe1929 #Capitalismo

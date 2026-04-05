@@ -4,4 +4,8 @@ title: Proposta de Redação ENEM - Cultura e Mudança Social
 url: https://www.youtube.com/watch?v=vdGHwOtFP1I
 ---
 
-☆ A prof. Dani está usando camiseta da #RedBug.
+Proposta de redação ENEM sobre cultura e mudança social, com foco em repertório, argumento e leitura crítica da realidade.
+
+Plano de estudos ENEM: https://mundoedu.com.br/plano-de-estudos
+
+#ENEM #RedaçãoENEM #Cultura #MudançaSocial
