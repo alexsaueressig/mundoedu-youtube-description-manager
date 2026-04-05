@@ -63,15 +63,15 @@ Toda descrição deve ter 1-2 frases que expliquem o conteúdo do vídeo. O resu
 
 ### Professores
 
-| Professor       | Matéria(s)                                | Referência no texto    |
-| --------------- | ----------------------------------------- | ---------------------- |
-| Bussunda        | História                                  | o prof. Bussunda       |
-| Camacho         | Química                                   | o prof. Camacho        |
-| Gui Valenzuela  | Matemática                                | o prof. Gui Valenzuela |
-| Dani Bressan    | Redação, Português, Literatura, Gramática | a profª Dani           |
-| Vasco           | Física                                    | o prof. Vasco          |
-| Giba            | Geografia                                 | o prof. Giba           |
-| JowJow          | Artes                                     | o prof. JowJow         |
+| Professor      | Matéria(s)                                | Referência no texto    |
+| -------------- | ----------------------------------------- | ---------------------- |
+| Bussunda       | História                                  | o prof. Bussunda       |
+| Camacho        | Química                                   | o prof. Camacho        |
+| Gui Valenzuela | Matemática                                | o prof. Gui Valenzuela |
+| Dani Bressan   | Redação, Português, Literatura, Gramática | a profª Dani           |
+| Vasco          | Física                                    | o prof. Vasco          |
+| Giba           | Geografia                                 | o prof. Giba           |
+| JowJow         | Artes                                     | o prof. JowJow         |
 
 ### Exemplos por tipo de vídeo
 
@@ -221,7 +221,7 @@ title: "🧲 Magnetismo (2/2): Transformadores - Física - ENEM"
 url: https://www.youtube.com/watch?v=4gCZ0L2Cnzg
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+_MundoEdu: O melhor cursinho online agora é 100% gratuito!_
 
 Nesta aula, o prof. Vasco explica transformadores — parte do módulo de magnetismo.
 
@@ -242,7 +242,7 @@ title: "👨‍🔬 Misturas Gasosas - Química - ENEM"
 url: https://www.youtube.com/watch?v=BggYghR0eXY
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+_MundoEdu: O melhor cursinho online agora é 100% gratuito!_
 
 Ó o gááás! 🔥
 Nesta videoaula, o professor Camacho vai falar sobre bolhas de sabão, mergulhos, jogos da seleção, viagens de balão... e sobre como tudo isso se relaciona com as transformações químicas!
@@ -261,7 +261,7 @@ title: "Pergunte! - Qual é a diferença entre pretérito imperfeito e futuro do
 url: https://www.youtube.com/watch?v=6SYipWcf7PY
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+_MundoEdu: O melhor cursinho online agora é 100% gratuito!_
 
 Profª Dani responde: qual é a diferença entre pretérito imperfeito e futuro do pretérito?
 
@@ -276,16 +276,16 @@ Bora estudar de graça? 🚀
 
 ## Scripts de Manutenção
 
-| Script                                    | Função                                       |
-| ----------------------------------------- | -------------------------------------------- |
-| `python analyze_descriptions.py`          | Analisa todos os arquivos e gera `report.md` |
-| `python fix_descriptions.py --dry-run`    | Mostra correções estruturais sem aplicar     |
-| `python fix_descriptions.py`              | Aplica correções estruturais                 |
-| `python improve_descriptions.py --dry-run`| Mostra melhorias de conteúdo sem aplicar     |
-| `python improve_descriptions.py`          | Aplica melhorias de conteúdo (SEO + tom)     |
-| `python fetch_descriptions.py`            | Baixa descrições do YouTube                  |
-| `python update_descriptions.py --dry-run` | Preview de push para YouTube                 |
-| `python update_descriptions.py`           | Push descrições para YouTube                 |
+| Script                                     | Função                                       |
+| ------------------------------------------ | -------------------------------------------- |
+| `python analyze_descriptions.py`           | Analisa todos os arquivos e gera `report.md` |
+| `python fix_descriptions.py --dry-run`     | Mostra correções estruturais sem aplicar     |
+| `python fix_descriptions.py`               | Aplica correções estruturais                 |
+| `python improve_descriptions.py --dry-run` | Mostra melhorias de conteúdo sem aplicar     |
+| `python improve_descriptions.py`           | Aplica melhorias de conteúdo (SEO + tom)     |
+| `python fetch_descriptions.py`             | Baixa descrições do YouTube                  |
+| `python update_descriptions.py --dry-run`  | Preview de push para YouTube                 |
+| `python update_descriptions.py`            | Push descrições para YouTube                 |
 
 ---
 
