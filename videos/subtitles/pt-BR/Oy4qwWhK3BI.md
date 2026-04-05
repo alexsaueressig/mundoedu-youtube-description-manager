@@ -1,0 +1,9 @@
+---
+id: Oy4qwWhK3BI
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=Oy4qwWhK3BI
+---
+
+[Música] fala queridos do mundo Edu aqui o professor Bussunda do mundo história e a gente continua na nossa Saga ruma ao topo do Enem e aí a gente tá respondendo ao pergunte mundoedu.com.br participa lá e hoje nós estamos falando aqui para a a a nossa querida amiga Tatiane Persona né que fez essa perguntinha sobre a democracia a democracia grega se a primeira democracia grega não faz distinção entre classe social por que então ela era elitista olha só tatian na verdade a democracia grega vamos e definir uma expressão ela era uma democracia que permitia a participação para todos os homens livres nascidos em Atenas mas observe a frase pode ser enganadora todos os homens livres nascidos em Atenas você tinha que ser homem a mulher não você tinha que ser livre eles tinham escravos e nascidos em Atenas eles não aceitavam estrangeiros então rapaziada o que acontece de forma geral é o seguinte H tem que ser homem tem que ter prestado no mínimo 2 anos de serviço militar não pode ser escravo não pode ser estrangeiro e apenas 10% dos 400.000 habitantes de Atenas podiam participar realmente das instituições democráticas por isso uma pequena Elite da cidade fazia parte tomem cuidado rapaziada cidadão não é igual população na Grécia antiga porque hoje se você mora no Brasil você é cidadão brasileiro por exemplo naquele momento se você mora na Grécia não necessariamente você é um cidadão grego certo continuemos firmes e fortes e continuem participando do pergunte mundoedu.com.br abraço [Música]

@@ -1,0 +1,9 @@
+---
+id: EM6Nt_xpc6c
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=EM6Nt_xpc6c
+---
+
+Oi fala rapaziada do mundo Edu aqui é o professor Bussunda e nós estamos respondendo ao pergunte P mundoedu.com.br né se você ainda não participa participe ali entra no nosso endereço e a gente vai est todos os dias possíveis não sei se sempre mas sempre que puder respondendo as perguntinhas dos nossos queridos aí e hoje a pergunta aqui é do nosso querido Igor Costa ó nosso aluno nosso brother aí que pergunta o que que foi revolucionado a após a Primeira Guerra Mundial e aí ele faz a referência moçada na questão da tecnologia o que que melhora tecnologicamente rapaziada é sabido que por exemplo o automóvel o avião por exemplo já existiam antes da Primeira Guerra Mundial e inclusive os aviões foram utilizados na Primeira Guerra Mundial os tanques de guerra os submarinos né as armas se desenvolveram bastante mas o grande destaque que eu queria dar e que é importante para nós entendermos a história da sociedade e também da evolução da Medicina são os medicamentos né Rapaziada no período entre guerras é que por exemplo surge o antibiótico é na década de 1920 depois da primeira guerra mundial que o Fleming criou a penicilina o nosso antibiótico e aí rapaziada Tu tem uma um avanço dentro dessa área da saúde tá não que isso compense que vai existir uma outra guerra depois porque a primeira guerra mundial lembrem sempre ela foi muito mal resolvida né penalizaram demais a Alemanha Europa ficou em ruínas econômicas principalmente mas também refletiu muito no lado da política a indústria havia se desarticulada até 70% E isso gerou uma nova Guerra depois certo moçada continuem aí no pergunte.com no Pergunte mundoedu.com.br e a gente continua respondendo estamo junto até o topo de ENEM um abraço rapaziada i

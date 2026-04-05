@@ -1,0 +1,9 @@
+---
+id: NpTWzUYZHPM
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=NpTWzUYZHPM
+---
+
+[Música] E aí moçada esperta que acompanhe o mundo Edu Professor Bussunda de novo aqui e respondendo ao pergunte p mundoedu.com.br e a perguntinha hoje do Jadson Ferreira Por que que a crise de 29 afetou vários países se ela foi uma crise de superprodução dos Estados Unidos da América Olha só Jadson por alguns motivos primeiro depois da Primeira Guerra Mundial os Estados Unidos já se firmava como o a grande ecomia do mundo então quando os Estados Unidos sofre essa crise desarticula um monte de coisa por exemplo o Brasil ele já vendia muito café pros Estados Unidos não consegue mais vender tanto os Estados Unidos tinha injetado dinheiro na Europa não consegue est injetando tanto dinheiro então é uma crise que gerou um Efeito Dominó mas também Jadson por conta de todas as crises capitalistas que a gente vai vivendo ao longo do século XX XX é um capitalismo globalizado um capitalismo se dá um problema em algum lugar pode dar essa crise mundial então a crise de 29 se tornou Mundial nos anos 70 nós tivemos uma crise do capitalismo mundial de 2008 para cá nós temos tido crises em diversos países mais ou menos como Efeito Dominó e foi isso que aconteceu em 29 com a crise do liberalismo clássico e crise de superprodução começou com os Estados Unidos se espalhou pelo mundo menos na União Soviética que tinha o socialismo e uma economia planificada certo Jadson certo moçada ruma ao topo do Enem curte o vídeo inscreve no canal Vamos até o topo do Enem estamos junto moçada abraço [Música]

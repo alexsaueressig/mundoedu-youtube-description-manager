@@ -1,0 +1,9 @@
+---
+id: PwfqLOJ0bCU
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=PwfqLOJ0bCU
+---
+
+fala rapaziada esperta do mundo Edu nós estamos aqui na nossa Saga ruma ao topo do Enem eu sou professor Bussunda e nós estamos respondendo as questõe do pergunte mundoedu.com.br você participa lá e todo o dia daqui até o Enem eu estou respondendo para vocês via YouTube tá rapaziada olha só hoje nós temos uma participação aqui da nossa querida Juliana Vieira né que é ela foi lá no mundoedu.com.br na sessão do Pergunte e Em que momento da história o parlamentarismo surgiu na Inglaterra Olha só Juliana rapaziada seguinte o parlamentarismo nasce em 1689 na Inglaterra com a Bill of WS mas rapaziada mais do que isso eu já volto a Bill of WS a Inglaterra vive a primeira revolução burguesa de fato que depois cria as raízes inclusive do pens Iluminista a burguesia eh representada no Parlamento se volta contra o rei contra a a dinastia Sturt que tentou fechar o Parlamento vai acontecer a Revolução Inglesa e no último instante da revolução inglesa Daí vem a revolução a Revolução Gloriosa em que o rei é obrigado a assinar a Bill of rights a declaração dos direitos a partir de então o parlamentarismo se estabelece lá na Inglaterra aí de repente você vai dizer mas Bussunda mas na Inglaterra então não tem rei tem rei tem hoje no caso a rainha mas o que que a rainha faz praticamente nada quem governa lá efetivamente é o primeiro ministro representante do parlamento é ele que tem o poder executivo em suas mãos daí decorre a ideia que se usa para o parlamentarismo britânico lá da Bill of rights o rei reina o Parlamento governa certo Juliana certo rapaziada seguinte ó continue participando pergunte mundoedu.com.br também segue a gente aqui ó no nosso canal aqui embaixo e se você gostou e se tá ajudando dá uma curtida aí para nós nós vivemos de curtidas rapaziada o grande abraço vamos juntos um abraço [Música]

@@ -1,0 +1,9 @@
+---
+id: 6SYipWcf7PY
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=6SYipWcf7PY
+---
+
+E aí galera do mundo Edu do mundo português eu sou a Dani Bressan Beleza Estamos aqui no pergunte no nosso site para responder às perguntas de vocês e hoje nós elegemos a pergunta da nossa querida mil Torres Que pergunta a diferença entre pretérito imperfeito e futuro do pretérito uma pergunta bem coerente pode ser questão de prova então cuidado gente pretérito imperfeito é um passado né pretérito é passado que não acabou por isso que ele é imperfeito Ou seja é uma ação que começou e não foi terminada os verbos do pretérito imperfeito são vistos dessa maneira os verbos que terminam em ar vão fazer a flexão com VA ou seja o verbo estudar eu vou usar eu estudava Tá ok os verbos terminados em er e ir fazem a flexão com ia por exemplo o verbo correr eu corria Então essas ideias são num passado inacabado isso é pretérito imperfeito em compensação nós temos o futuro do pretérito gente passado é passado futuro é futuro Evidente né ó gênio mas assim ó o futuro do pretérito aquele futuro que exprime uma condição ou seja os verbos termin em ria vamos pegar o verbo estudar de novo ó eu estudaria se tivesse conhecido o mundo Edu antes então olha aqui estudaria eu vou estudar não eu estudaria não é um futuro certo é um futuro incerto e geralmente ele vem acompanhado da conjunção C eu estudaria C certo olha olha o verbo estudar no pretérito imperfeito é eu estudava enquanto alguma coisa acontece no futuro do pretérito é eu estudaria C Tá certo Gostou então acessa lá pergunte mundoedu.com.br Gostou então avalie esse vídeo Um grande abraço e até a próxima

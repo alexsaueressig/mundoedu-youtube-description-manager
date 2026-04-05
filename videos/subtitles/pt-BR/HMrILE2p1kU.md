@@ -1,0 +1,9 @@
+---
+id: HMrILE2p1kU
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=HMrILE2p1kU
+---
+
+E aí galera do mundo Edu beleza do mundo português eu sou a Dani Bressan e estamos aqui no Pergunte para responder as perguntas que vocês mandam lá pro nosso site certo queridos olha só hoje Nós escolhemos uma pergunta sobre literatura a pergunta é do J Renato Souza e faz o seguinte essa pergunta ela nos indaga sobre a existência de alguma interconexão entre o lirismo e o eu lírico é uma boa pergunta e uma questão que aparece bastante no ENEM também qu queridos o seguinte lirismo lirismo é aquela parte do texto em que nós temos muito mais ornamentação muito mais figura de linguagem e muito mais uma estética de texto ou seja um texto que tenha gênero lírico que tenha muito lirismo é aquele texto Geralmente os poemas são líricos geralmente mas nós temos também textos em prosa que tem essa questão lírica essa questão poética o lirismo é a forma de escrever muito mais elaborada ou seja muito mais bonita entre aspas isso seria seria né na verdade é o lirismo bom se vocês pegarem por exemplo o romance como Iracema Iracema é uma prosa poética que a gente chama por quê Porque é uma prosa é uma narrativa é um romance só que a maneira como o José da lencar escreve o José da lencar faz com que aquela prosa ela tenha um lirismo por conta das figuras de linguagem quando ele diz a virgem dos l Lábios de Mel ele poderia simplesmente dizer é a Índia virgem mas ele diz que é a virgem dos lábios de mel isso transforma em lirismo o eu lírico é a voz do poema eu lírico Só existe pra poesia então ele tá perguntando a conexão entre lirismo e eu lírico Então sempre que tiver lirismo vai ter o lírico não mas sempre que tiver eu lírico Vai ter lirismo sim aí sim tá certo Um grande abraço qualquer coisa meus queridos Gostaríamos que vocês avaliassem esse vídeo e entra lá no pergunte mundoedu.com.br avalia ela para nós um grande abraço [Música]

@@ -1,0 +1,9 @@
+---
+id: 5ZuwHdfaqxI
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=5ZuwHdfaqxI
+---
+
+fala rapaziada esperta do mundo Edu Professor Bussunda aqui do mundo história e nós estamos respondendo as questõe aí colocadas por vocês lá no Pergunte mundoedu.com.br e a pergunta do dia é a pergunta do nosso querido João né Que pergunta Quem foi o Barão de Mauá rapaziada a primeira coisa que eu destaco para vocês é a seguinte ó não fiquem se preocupando com a questão de nomes assim quem foi Fulano Quem foi cicrano entretanto respondi a pergunta do Barão de Mauá devido a uma importância conjuntural que ele tem rapaziada ele se torna símbolo de um processo de modernização lá na época do segundo reinado no Brasil Olha só moçada o primeiro grande capitalista do Brasil o barão Irineu Evangelista de Souza né que ganhou o título de Barão de Mauá por ter feito a primeira ferrovia de nosso país em 1854 rapaziada ferrovia bancos algumas indústrias um cabo ligando o Brasil Europa um cabo telegráfico ele é um grande investidor Poderíamos dizer que o Barão de Mauá ele era uma espécie de aike Batista lá do século X E aí você vai dizer assim mas busum doe Batista quebrou o Barão de Mauá Também quebrou porque moçada ele é um cara que investia mas não é dentro de um Brasil que se modernizava de verdade ele faz parte de um surto modernizador na época da do crescimento da economia do café Então a base econômica ainda era uma base econômica agroexportadora no café e o Mauá era uma exceção que não teve apoio do governo e por isso quebrou mais tarde certo rapaziada um grande abraço segue firme e forte rumo ao topo do [Música] Enem

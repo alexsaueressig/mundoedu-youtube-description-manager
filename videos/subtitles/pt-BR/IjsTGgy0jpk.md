@@ -1,0 +1,9 @@
+---
+id: IjsTGgy0jpk
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=IjsTGgy0jpk
+---
+
+Halo E aí galera do mundo é dud do mundo português beleza eu sou a Dani Bressan estamos diretamente do pergunte aquele momento do nosso site que vocês mand as perguntas e nós respondemos e agora estamos respondendo em forma de vídeo olha que legal olha aqui a pergunta da Ana eurik tá dizendo através e por meio conjunção Dani já ouvi falar que a conjunção através de na verdade não é uma conjunção tá é uma Lou prepositiva utiliza-se para as coisas concretas exemplo passei através da porta e por meio de utiliza-se para coisas abstratas Tens alguma opinião sobre isso como posso utilizá-las de melhor forma tenho Na verdade tenho uma opinião sim tá minha querida Ana euck é o seguinte por meio de e através de tu pode usar da mesma maneira só que tem que cuidar por através de Não é questão de abstrato nem de concreto Esquece isso aí que isso não existe tá bom primeira coisa que nós temos que lembrar agora por meio de e através de São duas locuções conjuntivas e prepositivas que a gente vai usar quando nós quisermos estabelecer uma relação de como eu chego a alguma coisa tá como eu chego a alguma coisa por exemplo ã por meio de panfletos por meio de votos comprados por meio de manifestações né chegou-se a greve em determinados setores do Brasil tá a mesma coisa eu posso falar por meio de e posso dizer também através de através de greves através de manifestações o governo começou a prestar mais atenção a determinados setores públicos Então por meio d e através D quando eu quero chegar a algum lugar por meio de tal coisa Através disso e por meio disso tá certo Tá respondido a tua pergunta ótimo qualquer coisa meus queridos e minhas queridas acessem lá pergunte P mundoedu.com.br gostou do vídeo avalia lá para nós então um grande abraço [Música]

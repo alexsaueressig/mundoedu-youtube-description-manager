@@ -1,0 +1,9 @@
+---
+id: gm8i4NM--68
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=gm8i4NM--68
+---
+
+E aí galera do mundo Edu beleza mundo português também eu sou a Dani Bressan e hoje estamos respondendo às perguntas de vocês que estão lá no pergunte no nosso site escolhemos hoje a pergunta da minha amiga kerima Procópio grande kerima um grande abraço para ela a kerima diz o seguinte Olá meu nome é kerima Olá kerima e ten uma dúvida sobre a introdução de redação bom no caso da introdução para uma redação estilo Enem ela teria que contar com uma frase introdutória que é a frase defeito Minha tese né o ponto em que me posiciono e uma prévia dos meus argumentos Estou muito enrolada com isso #h me please grande Kim um abraço para ela gente é o seguinte não precisa ter frase defeito na introdução Ok não precisa que é o que a kerima tá procurando outra coisa na introdução tem que não é posso devo tenho que colocar sempre sempre o o meu posicionamento tenho que colocar a Minha tese a minha posição o que eu penso sobre isso geralmente a gente usa um verbo deligação né Por exemplo a maioridade penal é um equívoco é um equívoco Tá certo geralmente a gente usa a palavra o verbo ser é isso é importante é necessário é fundamental usem essas palavras usem os verbos que isso vai ajudar vocês certo é obrigatório sempre na introdução ter uma tese outra coisa que querem uma pergunta não é obrigatória uma prévia dos argumentos isto não é obrigatório Tá certo gente Por quê Porque os argumentos a gente deixa paraas outras partes do texto que são os desenvolvimentos e a nossa conclusão Tá certo queridos Olha só gostou que legal então vai lá no site pergunte mundoedu.com.br gostou do vídeoo dá um like aqui embaixo então tá certo Um grande abraço n

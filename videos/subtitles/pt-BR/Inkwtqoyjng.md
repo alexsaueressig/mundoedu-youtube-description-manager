@@ -1,0 +1,9 @@
+---
+id: Inkwtqoyjng
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=Inkwtqoyjng
+---
+
+[Música] fala moçada esperta do mundo Edu aqui o professor Bussunda de história e nós estamos respondendo ao pergunte pon mundo edu.com.br e hoje nós estamos aqui com a nossa querida Adriana Reis que faz a pergunta o que fez o partido moderado se dividir entre liberal e conservador e qual que é a diferença entre eles Olha aí Adriana e a Rapaziada nós temos o seguinte ó eh os dois grandes partidos do império o partido conservador e o partido Liberal eles surgem da confusão do o período regencial onde tinha o partido regressista o partido progressista que na verdade não eram partidos eram grupos políticos e eles vão tomando forma necessariamente dessas tendências alguns que tinham a a ideia mais de centralizar o poder outros que tinham a ideia de descentralizar o poder pois bem o partido conservador Ele era mais favorável à centralização do poder o partido Liberal era mais favorável a um pouco de descentralização mas em Essência ambos os partidos eles são favoráveis à escravidão são favoráveis à monarquia aos privilégios da Elite ao modelo econômico agroexportador então moçada são partidos de fato conservadores não havia nada mais parecido com um Liberal do que um conservador na oposição e nada mais parecido com um conservador do que um liberal no governo frase dita na época porque os dois partidos apesar de brigarem um pouquinho P por esse negócio centraliza descentraliza em Essência era um dos grandes fazendeiros do Brasil certo Adriana certo rapaziada um abraço rumo ao topo do Enem

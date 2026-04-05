@@ -1,0 +1,9 @@
+---
+id: 1Pz4iKqa0m8
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=1Pz4iKqa0m8
+---
+
+E aí galera do mundo português do mundo Edu beleza eu sou a Dani Bressan estamos aqui direto do Pergunte a parte do site que nós respondemos as perguntas de vocês e hoje Nós escolhemos uma pergunta que se refere à redação da nossa querida Letícia Belo e diz o seguinte que tipo de frase seria muito comum para ser usada na redação né quais frases ou expressões poderia usar na redação do Enem que não sejam consideradas senso comum e quais seriam consideradas senso comum então Na verdade é assim Letícia e toda a galera do mundo Edu senso comum são aquelas frases prontas na verdade né aquilo que todo mundo já fala por exemplo uma questão sobre o cigarro tá Digamos que a redação um tema seja sobre o índice de fumantes enfim o que que seria senso comum dizer que fumar mata todo mundo sabe que fumar mata todo mundo sabe que fumar causa câncer todo mundo sabe que fumar faz mal colocar isso na redação é senso comum que que significa todo mundo sabe disso outra coisa importante falar a questão da corrupção alguma coisa né que seja o tema da corrupção falar que o Brasil está cansado de corrupção que as pessoas estão cansadas de corrupção é um senso comum Porque isso é uma coisa Evidente quando a gente fala senso comum a gente fala naquilo que se chama evidência dentro de uma redação ou seja aquilo que todo mundo consegue perceber que não é necessário colocar no texto tá certo não precisa ser colocado no texto porque todo mundo já sabe o que vocês tem que se preocupar em colocar no texto é um argumento que não precisa ser novidade mas um argumento bem estruturado isso sim dizer que fumar faz mal que todo mundo tá cansado da corrupção isso eu acho que já é assunto bem batido por isso que é senso comum Tá certo quer saber mais gostou acessa lá então pergunte mundoedu.com.br um grande abraço

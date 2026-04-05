@@ -1,0 +1,9 @@
+---
+id: HlSBd0zf_Rw
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=HlSBd0zf_Rw
+---
+
+[Música] E aí moçada do mundo Edu eu sou o professor Bussunda do mundo história e nós estamos aqui para atender ao Pergunte pmundo.com.br e Aqui nós temos a nossa participação do Alef nosso querido Alef que faz as perguntas aí ó Quais as principais características do governo de JK de Jucelino kubek rapaziada o JK interessantemente aparece com alguma frequência na nossa PR de ENEM Não ele apenas Mas esse período aí dos anos 50 início dos anos 60 do Brasil onde que a gente tá passando por um processo modernizador já havia começado com o Getúlio Vargas na década de 30 as indústrias de base e agora no final dos anos 50 começa a indústria de bens de consumo duráveis onde que a gente deve destacar o automóvel as indústrias de eletrodomésticos e afins mas rapaziada esse esse processo moderno ador que tem a ver com o projeto de plano de metas do JK que tem a ver com a proposta de campanha dele os 50 anos em cinco isso tudo tem a ver com o processo de desenvolvimento do Brasil com rodovias com hidroelétricas também aparecendo além dessas indústrias mas lembre-se disso tá rapaziada eh desenvolvimento muito no campo econômico e pouco no campo social o que que eu tô falando para você não se investia muito educação não se investia muito em saúde existia uma disparidade de renda muito grande Tá que na verdade se assentou ainda mais depois do regime militar Mas então lembre dessa questão a questão social para a prova do Enem que para nós é muito significativa o Brasil se modernizava mas o Brasil não melhorava socialmente certo segue firme e forte e vamos rumo ao topo do Enem um abraço rapaziada i

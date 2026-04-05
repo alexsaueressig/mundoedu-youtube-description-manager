@@ -1,0 +1,9 @@
+---
+id: SwmTJxTAud0
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=SwmTJxTAud0
+---
+
+[Música] fala rapaziada esperta que acompanha o mundo Edu e em especial o Pergunte mundoedu.com.br a gente tá respondendo às demandas as perguntas de vocês aqui e mais uma perguntinha do Igor Costa nosso bruxo aqui Igor Vou cobrar r$ 5 por pergunta tua hein Olha só Qual a diferença entre a baixa e a alta idade média Olha só rapaziada ah na verdade a baixa Idade ah perdão Alta Idade Média média o início do século V até o século X é a época da formação do feudalismo o império romano venio declinando desde desde o século II começaram a ocorrer as invasões bárbaras germânicas E aí o feudalismo vai se organizando Aquele modelo marcado pela ruralização pela fragmentação política e pelo poder da igreja a partir do século X a gente a gente tem a baixa Idade Média já uma época de transformações onde dentro da Baixa Idade Média rapaziada existe o renascimento comercial e urbano fiquem atentos no final da idade média na segunda metade na verdade dela já começa a existir o comércio nasce a burguesia começam a se desenvolver as corporações de ofício com um artesanato bastante destacado surgem as Universidades surgem novos estilos arquitetônicos então te liga a idade média não é uma idade das Trevas não é uma uma noite de 1000 anos porque tem transformações dentro dela sabe quem é que chamou a idade média de idade das Trevas o pessoal do renascimento Logo no início da modernidade criticando o período anterior mas hoje a gente sabe que era muito mais crítica e que eles não estavam realmente certos certo rapaziada segue rumo ao topo do Enem [Música]

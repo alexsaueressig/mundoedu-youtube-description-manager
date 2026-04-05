@@ -1,0 +1,9 @@
+---
+id: GLtV1UgqRcA
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=GLtV1UgqRcA
+---
+
+II fala moçada do mundo Edu Professor Bussunda respondendo ao pergunte p mundoedu.com.br e a nossa perguntinha de hoje é a do André Oliveira né que está perguntando aqui ó como que o Oliver cow chegou ao poder e que regime ele adotou para a Inglaterra muito bem moçada Oliver crow chegou ao poder na Inglaterra em 1649 em meio à Revolução puritana a adotando o único momento rapaziada em que a Inglaterra teve de república vejam vocês a revolução puritana que é uma briga dos do Parlamento né composto basicamente por religiosos puritanos e burguesia consegue derrubar o rei em 1649 Oliver crow assume o poder estabelece uma república mas ele acaba se tornando ditador depois da república e enquanto ele viveu até 1658 nós tivemos República Depois teve a restauração monárquica e anos mais tarde na Verdade 30 anos mais tarde teve a Revolução Gloriosa que acabou com o regime monárquico absolutista na Inglaterra e criou a monarquia parlamentarista que a gente tem até hoje mas cwel é fruto na verdade né rapaziada dessa luta da burguesia barra Parlamento barra puritanos contra o rei barra nobreza barra anglicanos e católicos essa briga toda que durou aí boa parte do século X que a gente chama de Revolução Inglesa e que é responsável entre outras coisas por plantar as bases depois para teré a Revolução Industrial a burguesia toma o poder e mais tarde começa a financiar a indústria na Inglaterra certo André certo rapaziada Espero que possam ter sido ajudados e espero que a gente continue firme e forte em direção ao topo do Enem gente eh acompanhem nosso nosso canal aqui no YouTube segue aqui embaixo se inscreve curte nosso vídeo aí para nos dar um feedback para dizer que vocês estão gostando e pergunte sempre em pergunte P mundoedu.com.br até a próxima [Música]

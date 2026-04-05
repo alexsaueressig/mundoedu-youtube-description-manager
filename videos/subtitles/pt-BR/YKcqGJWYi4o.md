@@ -1,0 +1,9 @@
+---
+id: YKcqGJWYi4o
+lang: pt-BR
+source_lang: pt-orig
+translated: false
+url: https://www.youtube.com/watch?v=YKcqGJWYi4o
+---
+
+II fala queridos do mundo Edu aqui é o professor Bussunda de história e nós estamos aqui fazendo nossa participação para responder sobre o pergunte mundoedu.com.br Pergunta lá estaremos respondendo sempre para vocês aqui via nosso canal do YouTube certo moçada hoje a participação Aqui é do nosso amigo Daniel Que pergunta como e onde surgiu a burguesia ele tá com essa dúvida tempo e aí ele quer essa resposta aqui a gente está respondendo então Daniel olha só Daniel e toda a Rapaziada a burguesia ela surge no final da idade média alguns historiadores colocam século X tá moçada ali renascimento comercial urbano quando aos poucos começa a existir transformações do feudalismo os burgueses vê Possivelmente dos Camponeses que foram saindo do meio Rural foram indo para vilarejos alguns eram chamados vilões porque moravam em Vilas começaram a fazer Comércio e a burguesia que então começa a aparecer por ali uma burguesia comercial que foi crescendo trazendo as especiarias lá do oriente foi difundindo essas especiarias na Europa numa época de melhorias da vida e coisas assim e a burguesia cresce muito efetivamente moçada a partir do período das navegações aí do século XV e x colonização da América escravidão africana eo tudo mais que foi fazendo com com que o capitalismo tomasse corpo e a burguesia crescesse junto com o capitalismo tá moçada então do século X surge a burguesia e na idade moderna do século XV até o século XVI o fortalecimento da burguesia que toma o poder simbolicamente através da Revolução Francesa certo rapaziada continua perguntando pergunte P mundoedu.com.br eh segue nosso canal aqui mundo Edu no YouTube e se o vídeo tá ajudando dá uma curtida é muito importante para nós e continue participando sempre vamos juntos ao topo do Enem né [Música] rapaziada
