@@ -31,11 +31,11 @@ Resumo do conteúdo da videoaula (1-3 frases).
 
 Sempre incluir os 3 campos obrigatórios:
 
-| Campo | Formato | Exemplo |
-|-------|---------|---------|
-| `id` | ID do YouTube | `dQw4w9WgXcQ` |
+| Campo   | Formato                  | Exemplo                                             |
+| ------- | ------------------------ | --------------------------------------------------- |
+| `id`    | ID do YouTube            | `dQw4w9WgXcQ`                                       |
 | `title` | Título completo do vídeo | `"🧬 Genética (3/8): Dominância - Biologia - ENEM"` |
-| `url` | URL completa | `https://www.youtube.com/watch?v=dQw4w9WgXcQ` |
+| `url`   | URL completa             | `https://www.youtube.com/watch?v=dQw4w9WgXcQ`       |
 
 ---
 
@@ -63,18 +63,23 @@ Toda descrição deve ter 1-3 frases que expliquem o conteúdo do vídeo. O resu
 ### Exemplos por tipo de vídeo
 
 **Videoaula de série:**
+
 > Aula 3 de 8 sobre Genética: Ausência de dominância e dominância incompleta. Videoaula de Biologia para o ENEM.
 
 **Videoaula avulsa:**
+
 > Nesta videoaula, o professor Camacho vai falar da famooosa tabela periódica: história, estrutura, organização, simbologia e propriedades.
 
 **Pergunte!:**
+
 > Nesta videoaula, respondemos a pergunta: Qual é a diferença entre a Baixa e a Alta Idade Média?
 
 **Proposta de redação:**
+
 > Proposta de redação sobre doação de sangue no Brasil no estilo ENEM.
 
 **Vídeo especial/institucional:**
+
 > Chegooooooooooou nossa placa dos 100K!! VALEU GALERA!!!
 
 ---
@@ -88,6 +93,7 @@ Toda descrição deve ter 1-3 frases que expliquem o conteúdo do vídeo. O resu
 ```
 
 Regras:
+
 - Usar sempre o emoji ✨
 - Usar `Plano de Estudos:` (com dois-pontos, sem CAPS)
 - Nunca duplicar com variações (📜, 🧮, 🌌, etc.)
@@ -108,6 +114,7 @@ Para videoaulas que fazem parte de uma série (ex: Genética 1-8), incluir o blo
 ```
 
 Regras:
+
 - Usar o emoji da matéria no cabeçalho
 - Listar TODAS as aulas da série
 - Usar ✔️ como marcador
@@ -129,37 +136,38 @@ Regras:
 
 ### Matérias reconhecidas
 
-| Matéria | Hashtag |
-|---------|---------|
-| Matemática | `#Matemática` |
-| Física | `#Física` |
-| Química | `#Química` |
-| Biologia | `#Biologia` |
-| História | `#História` |
-| Geografia | `#Geografia` |
-| Filosofia | `#Filosofia` |
-| Sociologia | `#Sociologia` |
-| Literatura | `#Literatura` |
-| Português/Gramática | `#Português` |
-| Redação | `#Redação` |
-| Artes | `#Artes` |
-| Atualidades | `#Atualidades` |
-| Língua Portuguesa | `#LínguaPortuguesa` |
+| Matéria             | Hashtag             |
+| ------------------- | ------------------- |
+| Matemática          | `#Matemática`       |
+| Física              | `#Física`           |
+| Química             | `#Química`          |
+| Biologia            | `#Biologia`         |
+| História            | `#História`         |
+| Geografia           | `#Geografia`        |
+| Filosofia           | `#Filosofia`        |
+| Sociologia          | `#Sociologia`       |
+| Literatura          | `#Literatura`       |
+| Português/Gramática | `#Português`        |
+| Redação             | `#Redação`          |
+| Artes               | `#Artes`            |
+| Atualidades         | `#Atualidades`      |
+| Língua Portuguesa   | `#LínguaPortuguesa` |
 
 ### Tags especiais (quando aplicável)
 
-| Contexto | Tag |
-|----------|-----|
+| Contexto              | Tag                     |
+| --------------------- | ----------------------- |
 | Exercícios resolvidos | `#ExercíciosResolvidos` |
-| Resumo | `#Resumo` |
-| Revisão | `#Revisão` |
-| Proposta de redação | `#PropostaDeRedação` |
-| Questão resolvida | `#QuestãoResolvida` |
-| Série "Pergunte!" | `#Pergunte` |
+| Resumo                | `#Resumo`               |
+| Revisão               | `#Revisão`              |
+| Proposta de redação   | `#PropostaDeRedação`    |
+| Questão resolvida     | `#QuestãoResolvida`     |
+| Série "Pergunte!"     | `#Pergunte`             |
 
 ### Formato PascalCase
 
 Hashtags compostas usam PascalCase sem espaços:
+
 - ✅ `#AnáliseCombinatória`
 - ✅ `#SistemaCirculatório`
 - ✅ `#HistóriaDoBrasil`
@@ -179,7 +187,7 @@ title: "🧬 Genética (3/8): Ausência de dominância - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=61thLTV6U9Y
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+_MundoEdu: O melhor cursinho online agora é 100% gratuito!_
 
 Aula 3 de 8 sobre Genética: Ausência de dominância e dominância incompleta. Videoaula de Biologia para o ENEM.
 
@@ -206,7 +214,7 @@ title: "👨‍🔬 Tabela Periódica e propriedades - Química - ENEM"
 url: https://www.youtube.com/watch?v=AeV29aGRqSU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+_MundoEdu: O melhor cursinho online agora é 100% gratuito!_
 
 Nesta videoaula, o professor Camacho vai falar da famooosa tabela periódica: história, estrutura, organização, simbologia e propriedades (periódicas e aperiódicas).
 
@@ -223,7 +231,7 @@ title: "Pergunte! - Qual é a diferença entre a Baixa e a Alta Idade Média?"
 url: https://www.youtube.com/watch?v=SwmTJxTAud0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+_MundoEdu: O melhor cursinho online agora é 100% gratuito!_
 
 Nesta videoaula, respondemos a pergunta: Qual é a diferença entre a Baixa e a Alta Idade Média?
 
@@ -235,14 +243,14 @@ Nesta videoaula, respondemos a pergunta: Qual é a diferença entre a Baixa e a 
 
 ## Scripts de Manutenção
 
-| Script | Função |
-|--------|--------|
-| `python analyze_descriptions.py` | Analisa todos os arquivos e gera `report.md` |
-| `python fix_descriptions.py --dry-run` | Mostra correções sem aplicar |
-| `python fix_descriptions.py` | Aplica todas as correções |
-| `python fetch_descriptions.py` | Baixa descrições do YouTube |
-| `python update_descriptions.py --dry-run` | Preview de push para YouTube |
-| `python update_descriptions.py` | Push descrições para YouTube |
+| Script                                    | Função                                       |
+| ----------------------------------------- | -------------------------------------------- |
+| `python analyze_descriptions.py`          | Analisa todos os arquivos e gera `report.md` |
+| `python fix_descriptions.py --dry-run`    | Mostra correções sem aplicar                 |
+| `python fix_descriptions.py`              | Aplica todas as correções                    |
+| `python fetch_descriptions.py`            | Baixa descrições do YouTube                  |
+| `python update_descriptions.py --dry-run` | Preview de push para YouTube                 |
+| `python update_descriptions.py`           | Push descrições para YouTube                 |
 
 ---
 
