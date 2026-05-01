@@ -4,7 +4,7 @@ title: Concordância Verbal - Gramática - Português - ENEM
 url: https://www.youtube.com/watch?v=IX2deQt5GBc
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, nossa #DaniRainha explica as principais regras da concordância verbal com vááários exemplos pra você arrasar na redação e nunca mais errar!
 

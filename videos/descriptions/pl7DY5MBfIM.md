@@ -4,7 +4,7 @@ title: "\U0001F30C Dinâmica (2/5):  Forças #1 - Física - ENEM"
 url: https://www.youtube.com/watch?v=pl7DY5MBfIM
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 FORÇAS #1:
 Videoaula do professor Vasco sobre 4 forças importantes para o ENEM:

@@ -4,7 +4,7 @@ title: "\U0001F4DC Brasil (Anos 2000) - História - ENEM"
 url: https://www.youtube.com/watch?v=Ns11jWTbtEY
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Videoaula sobre o cenário político do Brasil nos anos 2000: governo Lula, programas sociais, escândalos de corrupção, governo Dilma, protestos anticorrupção e impeachment.
 

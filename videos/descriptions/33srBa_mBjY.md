@@ -4,7 +4,7 @@ title: "\U0001F4A7 Hidrostática (2/6): Pressão Hidrostática - Física - ENEM"
 url: https://www.youtube.com/watch?v=33srBa_mBjY
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Vasco explica pressão hidrostática — parte do módulo de hidrostática.
 

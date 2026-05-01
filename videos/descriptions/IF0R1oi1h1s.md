@@ -5,7 +5,7 @@ title: "\U0001F4AD Teoria do Conhecimento (8/8): Kant e o Criticismo - Filosofia
 url: https://www.youtube.com/watch?v=IF0R1oi1h1s
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Quem foi Kant? 
 👉 Qual a teoria de Kant? 

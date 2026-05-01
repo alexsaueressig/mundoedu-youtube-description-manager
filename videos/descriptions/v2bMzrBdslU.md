@@ -4,7 +4,7 @@ title: "\U0001F52C Citologia (2/7): Organelas Celulares - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=v2bMzrBdslU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula de citologia, o foco é organelas celulares e suas funções, conteúdo essencial para Biologia e para a prova do ENEM.
 

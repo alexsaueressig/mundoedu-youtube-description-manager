@@ -4,7 +4,7 @@ title: CHEGOU NOSSA PLACA DOS 100k!
 url: https://www.youtube.com/watch?v=8SLjNjWU0AA
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Chegooooooooooou nossa placa dos 100K!! ❤❤❤❤
 VALEU GALERAAAAAA!!! VOCÊS SÃO DEMAIS!

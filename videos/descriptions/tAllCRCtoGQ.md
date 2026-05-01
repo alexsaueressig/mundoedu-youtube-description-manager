@@ -4,7 +4,7 @@ title: Pergunte! - O Iluminismo serviu para consolidar a supremacia da Burguesia
 url: https://www.youtube.com/watch?v=tAllCRCtoGQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Bussunda responde: O Iluminismo serviu para consolidar a supremacia da Burguesia?
 

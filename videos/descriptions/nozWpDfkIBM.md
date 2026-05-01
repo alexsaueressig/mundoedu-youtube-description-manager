@@ -4,7 +4,7 @@ title: '⚛️ Eletrostática (1/4): Carga elétrica - Física - ENEM'
 url: https://www.youtube.com/watch?v=nozWpDfkIBM
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Vasco explica carga elétrica — parte do módulo de eletrostática.
 

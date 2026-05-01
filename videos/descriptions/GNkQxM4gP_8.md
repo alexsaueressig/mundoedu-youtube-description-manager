@@ -4,7 +4,7 @@ title: "\U0001F4D7 Constituição de 1988 - Mundo Atualidades - ENEM"
 url: https://www.youtube.com/watch?v=GNkQxM4gP_8
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Super videoaula sobre a #Constituição Brasileira com o prof. #Bussunda, do Mundo História, e o prof. #Giba, do Mundo Geografia.
 

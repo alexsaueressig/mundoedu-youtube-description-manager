@@ -4,7 +4,7 @@ title: Pergunte! - Posso usar na conclusão da redação a expressão "uma poss�
 url: https://www.youtube.com/watch?v=Lrbyfgm1jro
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Profª Dani responde: posso usar na conclusão da redação a expressão "uma possível solução"?
 

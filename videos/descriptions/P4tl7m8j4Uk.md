@@ -4,7 +4,7 @@ title: "\U0001F4AC Sociedade Midiática: Linguagem - Sociologia - ENEM"
 url: https://www.youtube.com/watch?v=P4tl7m8j4Uk
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, explicamos sociedade midiática: linguagem.
 

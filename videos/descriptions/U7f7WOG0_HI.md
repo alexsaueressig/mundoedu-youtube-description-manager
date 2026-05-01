@@ -4,7 +4,7 @@ title: "\U0001F3ED Meio Ambiente (1/2): Poluição Atmosférica - Geografia - EN
 url: https://www.youtube.com/watch?v=U7f7WOG0_HI
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Criatuuuuras do MundoEdu, hoje teremos uma aula com a temática Os Vingadores. \o/
 O Vini, nosso editor, estava super inspirado. Espero que gostem! Falaremos sobre aquecimento global, efeito estufa, camada de ozônio e chuvas ácidas.

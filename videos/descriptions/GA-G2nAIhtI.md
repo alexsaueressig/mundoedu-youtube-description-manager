@@ -4,7 +4,7 @@ title: "\U0001F9A0 Microbiologia (4/5): Doença de Chagas - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=GA-G2nAIhtI
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 ❓ O que é a Doença de Chagas? 
 ❓ Quais as formas de transmissão da doença de Chagas?

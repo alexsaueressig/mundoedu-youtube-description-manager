@@ -5,7 +5,7 @@ title: "\U0001F4B9 Função quadrática (3/4): Coordenadas do vértice - Matemá
 url: https://www.youtube.com/watch?v=CoEXwcG-tG0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Gui Valenzuela explica coordenadas do vértice — parte do módulo de função quadrática.
 

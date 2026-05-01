@@ -5,7 +5,7 @@ title: "\U0001F4AD Teoria do Conhecimento (4/8): Mito da Caverna (Platão) - Fil
 url: https://www.youtube.com/watch?v=eK1sTqqrNDk
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Qual é o mito da caverna?
 👉 Qual o objetivo da criação do mito da caverna?

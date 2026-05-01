@@ -4,7 +4,7 @@ title: "\U0001F468‍\U0001F52C Leis Ponderais - Química - ENEM"
 url: https://www.youtube.com/watch?v=MElSRMv8fGY
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o professor Camacho vai falar sobre as Leis Ponderais de Lavoisier, Proust e Gay-Lussac, que relacionam as massas das substâncias em uma reação química.
 

@@ -4,7 +4,7 @@ title: "\U0001F469‍⚕️ Fisiologia (8/8): Sistema Reprodutor - Biologia - EN
 url: https://www.youtube.com/watch?v=l9G44l1gf8k
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, explicamos sistema reprodutor — parte do módulo de fisiologia.
 

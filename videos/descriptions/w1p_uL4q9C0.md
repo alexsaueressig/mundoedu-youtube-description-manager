@@ -4,7 +4,7 @@ title: '↗️ Função Afim (4/4): Matemática x Economia - ENEM'
 url: https://www.youtube.com/watch?v=w1p_uL4q9C0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o professor Gui relaciona Matemática e Economia: função receita, função custo e função lucro.
 

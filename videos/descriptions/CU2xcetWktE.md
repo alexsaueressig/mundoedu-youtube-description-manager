@@ -5,7 +5,7 @@ title: "\U0001F9EE MMC e MDC (2/2): Regra prática e exercícios resolvidos -  M
 url: https://www.youtube.com/watch?v=CU2xcetWktE
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o professor Gui Valenzuela ensina um truque fácil e rápido para encontrar o MDC e o MMC e resolve exercícios aplicando a regra prática.
 

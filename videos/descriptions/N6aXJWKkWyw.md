@@ -4,7 +4,7 @@ title: "\U0001F451 Filosofia Política (8/9): O que é MARXISMO? - ENEM"
 url: https://www.youtube.com/watch?v=N6aXJWKkWyw
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Quem foi Karl Marx?
 👉 O que prega o marxismo?

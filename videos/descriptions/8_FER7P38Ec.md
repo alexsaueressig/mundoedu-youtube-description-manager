@@ -4,7 +4,7 @@ title: Pergunte! - Como os movimentos de contracultura influenciaram o mundo?
 url: https://www.youtube.com/watch?v=8_FER7P38Ec
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Bussunda responde: como os movimentos de contracultura influenciaram o mundo?
 

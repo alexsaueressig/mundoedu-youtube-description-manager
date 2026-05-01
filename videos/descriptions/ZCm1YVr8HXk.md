@@ -4,7 +4,7 @@ title: '⚜️ Arte clássica (3/6): Barroco - Mundo Artes - ENEM'
 url: https://www.youtube.com/watch?v=ZCm1YVr8HXk
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. JowJow explica barroco — parte do módulo de arte clássica.
 

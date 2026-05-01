@@ -4,7 +4,7 @@ title: '⚖️ Equilíbrio Químico (4/4): Hidrólise de Sais - Química - ENEM'
 url: https://www.youtube.com/watch?v=90hIf5vgV84
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Camacho explica hidrólise de sais — parte do módulo de equilíbrio químico.
 

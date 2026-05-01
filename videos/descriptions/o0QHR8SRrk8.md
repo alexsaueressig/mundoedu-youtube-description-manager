@@ -4,7 +4,7 @@ title: "\U0001F33F Vegetação (1/2): Vegetação Mundial - Geografia - ENEM"
 url: https://www.youtube.com/watch?v=o0QHR8SRrk8
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Giba explica vegetação mundial — parte do módulo de vegetação.
 

@@ -4,7 +4,7 @@ title: "\U0001F4DD Como treinar redação para o ENEM?"
 url: https://www.youtube.com/watch?v=6F_0u1VfoCU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 O vídeo mais esperado DO ANO com a convidada mais requisitada! 😍😍😍
 

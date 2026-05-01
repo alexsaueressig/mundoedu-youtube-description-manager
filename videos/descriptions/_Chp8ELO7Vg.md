@@ -4,7 +4,7 @@ title: '⚡️ Produção de Energia (3/3): BRASIL - Geografia - ENEM'
 url: https://www.youtube.com/watch?v=_Chp8ELO7Vg
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Fala criatura do MundoEdu... Hoje é a vez do professor Giba falar da produção de energia do nosso país. Abordaremos vários assuntos, entre eles as usinas, o potencial, os próximos investimentos em energia e uma comparação entre o Brasil e o mundo.
 

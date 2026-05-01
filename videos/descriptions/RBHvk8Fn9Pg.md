@@ -5,7 +5,7 @@ title: "\U0001F7EA Geometria plana (2/4): Teorema de Tales e Semelhança de Tri�
 url: https://www.youtube.com/watch?v=RBHvk8Fn9Pg
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Gui Valenzuela explica teorema de tales e semelhança de triângulos — parte do módulo de geometria plana.
 

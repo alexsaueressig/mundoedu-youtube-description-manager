@@ -5,7 +5,7 @@ title: '⚔️ Mundo Medieval (3/4): Feudalismo - Alta Idade Média Feudal - His
 url: https://www.youtube.com/watch?v=50SVHpIjag0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Bussunda explica feudalismo - alta idade média feudal — parte do módulo de mundo medieval.
 

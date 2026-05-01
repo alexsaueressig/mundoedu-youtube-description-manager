@@ -5,7 +5,7 @@ title: "\U0001F3FA Antiguidade Ocidental (2/4): Grécia Antiga - As Pólis (Aten
 url: https://www.youtube.com/watch?v=KdgRibKQG4I
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 🏺 AULA ANTERIOR SOBRE GRÉCIA: Grécia Antiga - Formação
 https://mundoedu.com.br/videoaula/96

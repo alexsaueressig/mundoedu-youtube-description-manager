@@ -4,7 +4,7 @@ title: '↗️ Função Afim (1/4):  Lei da Função Afim - Matemática - ENEM'
 url: https://www.youtube.com/watch?v=JzYVD4TAgFQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o professor Gui Valenzuela vai falar sobre a Função Afim: lei da função, valor numérico da função e exemplos.
 

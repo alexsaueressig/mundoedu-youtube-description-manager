@@ -4,7 +4,7 @@ title: "\U0001F975 Calorimetria (2/3): Calor sensível e calor latente - Física
 url: https://www.youtube.com/watch?v=9Y_O0on6ZKE
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Videoaula do professor Vasco sobre variação de temperatura  e mudanças de estado físico (solidificação, vaporização, condensação, sublimação...).
 

@@ -5,7 +5,7 @@ title: "\U0001F468‍\U0001F33E Pré-História (2/3): Organização socioeconôm
 url: https://www.youtube.com/watch?v=IBJk8s3DKcQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Bussunda explica organização socioeconômica — parte do módulo de pré-história.
 

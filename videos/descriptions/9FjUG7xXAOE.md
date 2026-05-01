@@ -4,7 +4,7 @@ title: 'Pontuação: período simples - Gramática - Português - ENEM'
 url: https://www.youtube.com/watch?v=9FjUG7xXAOE
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, a #DaniRainha explica os tipos e formas de pontuação dos períodos simples  (aqueles com apenas uma oração).
 

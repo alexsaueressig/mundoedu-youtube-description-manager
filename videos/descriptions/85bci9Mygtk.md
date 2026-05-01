@@ -4,7 +4,7 @@ title: "\U0001F7EA Geometria plana (4/4): Exercícios resolvidos - Matemática -
 url: https://www.youtube.com/watch?v=85bci9Mygtk
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Gui Valenzuela resolve exercícios de geometria plana.
 

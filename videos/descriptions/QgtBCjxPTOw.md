@@ -4,7 +4,7 @@ title: "\U0001F33F Botânica (1/5): Briófitas e Pteridófitas - Biologia - ENEM
 url: https://www.youtube.com/watch?v=QgtBCjxPTOw
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, explicamos briófitas e pteridófitas — parte do módulo de botânica.
 

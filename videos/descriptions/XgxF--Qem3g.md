@@ -4,7 +4,7 @@ title: "\U0001F3ED Revolução Industrial (Resumo) - História - ENEM"
 url: https://www.youtube.com/watch?v=XgxF--Qem3g
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 EDUVideoaula sobre a Revolução Industrial, que foi a transição para novos processos de manufatura iniciada no Reino Unido a partir de 1760. #História #Industrialização
 

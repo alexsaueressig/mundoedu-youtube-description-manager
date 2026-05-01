@@ -5,7 +5,7 @@ title: '⚔️ A Era das Revoluções (7/7): Independência da América Espanhol
 url: https://www.youtube.com/watch?v=HalMKQW3gU4
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Bussunda explica independência da América espanhola — parte do módulo de a era das revoluções.
 

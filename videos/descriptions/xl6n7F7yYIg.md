@@ -4,7 +4,7 @@ title: "\U0001F697 Cinemática (3/8): O que é MRUV? - Física - ENEM"
 url: https://www.youtube.com/watch?v=xl6n7F7yYIg
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉Movimento Retilíneo Uniformemente Variado 😨 Calma, calma... Respira fundo e bora garantir mais uma questão no ENEM!
 

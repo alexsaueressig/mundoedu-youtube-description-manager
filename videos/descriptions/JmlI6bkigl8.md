@@ -4,7 +4,7 @@ title: "\U0001F9EC Genética (8/8): Evolução - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=JmlI6bkigl8
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, explicamos evolução — parte do módulo de genética.
 

@@ -5,7 +5,7 @@ title: "\U0001F4AD Teoria do Conhecimento (7/8):  Empirismo Moderno - Filosofia 
 url: https://www.youtube.com/watch?v=_a4j6yRj4xw
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 O que é o empirismo na filosofia?
 👉 O que é um filósofo empirista?

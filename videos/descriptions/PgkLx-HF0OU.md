@@ -4,7 +4,7 @@ title: "\U0001F682 Termodinâmica (2/2): Estudo dos gases - Física - ENEM"
 url: https://www.youtube.com/watch?v=PgkLx-HF0OU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Vasco explica estudo dos gases — parte do módulo de termodinâmica.
 

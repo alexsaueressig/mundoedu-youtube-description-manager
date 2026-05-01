@@ -4,7 +4,7 @@ title: Proposta de Redação ENEM - Sociedade do "ter de"
 url: https://www.youtube.com/watch?v=x3fkt7n3bCE
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Proposta de redação ENEM sobre a sociedade do "ter de", com espaço para discutir obrigação social, linguagem e construção de argumento.
 

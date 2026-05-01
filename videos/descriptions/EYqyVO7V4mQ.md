@@ -5,7 +5,7 @@ title: "\U0001F9EC Genética (5/8): Tipos Sanguíneos: sistema ABO e fator Rh - 
 url: https://www.youtube.com/watch?v=EYqyVO7V4mQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 💉 Quais são os tipos sanguíneos que existem? 
 💉 O que é o sistema ABO?

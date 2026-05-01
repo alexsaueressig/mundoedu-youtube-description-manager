@@ -4,7 +4,7 @@ title: "\U0001F30E Terra (4/6): Fusos Horários - Geografia - ENEM"
 url: https://www.youtube.com/watch?v=krw4NP1t8IA
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Giba explica fusos horários — parte do módulo de terra.
 

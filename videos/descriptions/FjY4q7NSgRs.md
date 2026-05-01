@@ -4,7 +4,7 @@ title: "\U0001F3B6\U0001F4D6 Música e literatura no ENEM - Literatura - ENEM"
 url: https://www.youtube.com/watch?v=FjY4q7NSgRs
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Videoaula sobre como interpretar duas formas de arte bastante cobradas no ENEM: a música e a literatura.
 

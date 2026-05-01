@@ -4,7 +4,7 @@ title: "\U0001F33F Botânica (2/5): Gimnospermas e Angiospermas - Biologia - ENE
 url: https://www.youtube.com/watch?v=bV89jp82Bt8
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, explicamos gimnospermas e angiospermas — parte do módulo de botânica.
 

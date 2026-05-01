@@ -5,7 +5,7 @@ title: "\U0001F697 Cinemática (2/8): O que é MRU? - Movimento Retilíneo Unifo
 url: https://www.youtube.com/watch?v=a1Y-jCoJJ-c
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 O que é Movimento Retilíneo Uniforme? O professor Vasco explica!
 

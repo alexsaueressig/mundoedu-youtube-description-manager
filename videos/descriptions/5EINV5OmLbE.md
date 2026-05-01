@@ -4,7 +4,7 @@ title: "\U0001F4C8 Função exponencial (2/2) - Matemática - ENEM"
 url: https://www.youtube.com/watch?v=5EINV5OmLbE
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Gui Valenzuela explica função exponencial.
 

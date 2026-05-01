@@ -4,7 +4,7 @@ title: Brasil Colônia (Século 17) -  História - ENEM
 url: https://www.youtube.com/watch?v=ysngu594sBs
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o prof. Bussunda explica Brasil colônia (século 17).
 

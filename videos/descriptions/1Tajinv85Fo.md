@@ -4,7 +4,7 @@ title: "\U0001F469‍⚕️ Fisiologia (3/8): Sistema Respiratório - Biologia -
 url: https://www.youtube.com/watch?v=1Tajinv85Fo
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, explicamos sistema respiratório — parte do módulo de fisiologia.
 

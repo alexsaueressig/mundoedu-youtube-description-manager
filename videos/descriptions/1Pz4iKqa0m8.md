@@ -4,7 +4,7 @@ title: Pergunte! - Que tipo de frase seria considerada senso comum na redação?
 url: https://www.youtube.com/watch?v=1Pz4iKqa0m8
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Profª Dani responde: que tipo de frase seria considerada senso comum na redação?
 

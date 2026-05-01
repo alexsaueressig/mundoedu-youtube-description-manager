@@ -4,7 +4,7 @@ title: "\U0001F331 Ecologia (1/7): Biomas - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=JB8AxD1CkYs
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 ✔️ 2:09 Amazônia
 ✔️ 4:10 Cerrado

@@ -4,7 +4,7 @@ title: História da Tecnologia de Comunicação no Brasil - Talentos que educam
 url: https://www.youtube.com/watch?v=hFadrEYnNGs
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Salve galeraaa!! \o/  O prof. Bussunda está participando do concurso cultural "TALENTOS QUE EDUCAM", que é um concurso apresentado pela #ProjectHub e pela #BIC que propõe tornar protagonista a habilidade de educar através de um material audiovisual.  Dentro das temáticas disponíveis no edital do concurso, o prof Bussunda escolheu "tecnologia+história" e aí está a nossa videoaula sobre A HISTÓRIA DA TECNOLOGIA DE COMUNICAÇÃO NO BRASIL.  \o/
 

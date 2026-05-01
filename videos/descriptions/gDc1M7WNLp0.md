@@ -4,7 +4,7 @@ title: "\U0001F310 Mundo da Globalização (Resumo ) - História - ENEM"
 url: https://www.youtube.com/watch?v=gDc1M7WNLp0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Vídeo-aula sobre o Mundo da Globalização.
 

@@ -5,7 +5,7 @@ title: "\U0001F4CA Estatística (2/4): Medidas de tendência central (moda, méd
 url: https://www.youtube.com/watch?v=v8fo_hSpo-k
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Gui Valenzuela explica medidas de tendência central (moda, média e mediana) — parte do módulo de estatística.
 

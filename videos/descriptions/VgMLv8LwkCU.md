@@ -4,7 +4,7 @@ title: "\U0001F451 Revolução Francesa (Resumo) - História - ENEM"
 url: https://www.youtube.com/watch?v=VgMLv8LwkCU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o prof. Bussunda faz um resumão de revolução francesa pra você revisar pro ENEM.
 

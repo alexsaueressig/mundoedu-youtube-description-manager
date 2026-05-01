@@ -4,7 +4,7 @@ title: "\U0001F4C8 Porcentagem (1/2) - Matemática - ENEM"
 url: https://www.youtube.com/watch?v=UrhFMkGwcac
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Porcentagem é um assunto muito frequente na prova do ENEM. Nesta videoaula, o professor Gui Valenzuela explica o que é porcentagem: representações, exemplos, dicas e exercícios resolvidos.
 

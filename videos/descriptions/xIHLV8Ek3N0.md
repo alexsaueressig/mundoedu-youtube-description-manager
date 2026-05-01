@@ -4,7 +4,7 @@ title: "\U0001F50D Principais autores/filósofos cobrados no ENEM"
 url: https://www.youtube.com/watch?v=xIHLV8Ek3N0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Saiba os PRINCIPAIS AUTORES da filosofia que podem cair na prova do ENEM
 

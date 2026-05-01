@@ -4,7 +4,7 @@ title: "\U0001F468‍\U0001F52C Ligação Iônica e Ligação Metálica - Quími
 url: https://www.youtube.com/watch?v=6b1SiQyhwwQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o prof. Camacho explica ligação iônica e ligação metálica.
 

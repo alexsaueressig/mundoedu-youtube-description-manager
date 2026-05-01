@@ -5,7 +5,7 @@ title: "\U0001F3DB️  Antiguidade Ocidental (3/4): Roma Antiga - Monarquia e Re
 url: https://www.youtube.com/watch?v=GRSzPZ5LcYk
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 ✨ 00:42 - Fundação de Roma
 ✨ 00:58 - Lenda de Rômulo e Remo

@@ -4,7 +4,7 @@ title: "\U0001F451 Monarquias Nacionais Absolutistas (Absolutismo) - História -
 url: https://www.youtube.com/watch?v=mir-h5RDeH8
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o prof. Bussunda explica monarquias nacionais absolutistas (absolutismo).
 

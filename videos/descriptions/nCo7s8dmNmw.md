@@ -4,7 +4,7 @@ title: '⚛️ Eletrostática (4/4): Potencial elétrico - Física - ENEM'
 url: https://www.youtube.com/watch?v=nCo7s8dmNmw
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Videoaula sobre potencial elétrico, blindagem eletrostática, poder das pontas e capacitores.
 

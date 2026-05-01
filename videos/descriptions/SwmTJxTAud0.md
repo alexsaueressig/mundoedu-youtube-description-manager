@@ -4,7 +4,7 @@ title: Pergunte! - Qual é a diferença entre a Baixa e a Alta Idade Média?
 url: https://www.youtube.com/watch?v=SwmTJxTAud0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Bussunda responde: qual é a diferença entre a Baixa e a Alta Idade Média?
 

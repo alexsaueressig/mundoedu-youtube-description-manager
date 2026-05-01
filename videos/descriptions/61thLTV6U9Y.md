@@ -5,7 +5,7 @@ title: "\U0001F9EC Genética (3/8): Ausência de dominância e dominância incom
 url: https://www.youtube.com/watch?v=61thLTV6U9Y
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, explicamos ausência de dominância e dominância incompleta — parte do módulo de genética.
 

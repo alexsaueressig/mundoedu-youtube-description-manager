@@ -5,7 +5,7 @@ title: "\U0001F4CC Regionalização (2/2): Regiões brasileiras (Característica
 url: https://www.youtube.com/watch?v=7zgDwuzl7xk
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Giba explica regiões brasileiras (características socioeconômicas) — parte do módulo de regionalização.
 

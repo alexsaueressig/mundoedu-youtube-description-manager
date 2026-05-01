@@ -4,7 +4,7 @@ title: Prof. JowJow comentando comentários - MundoEdu
 url: https://www.youtube.com/watch?v=luaQyQdz_VI
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Estamos morrendo com esse vídeo! Prof. JowJow estava lendo uns comentários, o Vini (nosso editor) estava junto e resolveu gravar as reações... aí deu nisso! hahahaha Qual próximo prof deve ler comentários? muahahaha
 

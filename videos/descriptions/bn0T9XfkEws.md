@@ -4,7 +4,7 @@ title: Orações Coordenadas - Gramática - Mundo Português - ENEM
 url: https://www.youtube.com/watch?v=bn0T9XfkEws
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 O que são orações coordenadas?
 Quais são as orações coordenadas assindéticas?

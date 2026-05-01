@@ -4,7 +4,7 @@ title: "\U0001F3A7 Culturas Contemporâneas - Sociologia - ENEM"
 url: https://www.youtube.com/watch?v=TK-ZdejqkMY
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, explicamos culturas contemporâneas.
 

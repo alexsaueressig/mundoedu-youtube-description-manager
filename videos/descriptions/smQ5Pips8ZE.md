@@ -5,7 +5,7 @@ title: "\U0001F697 Cinemática (5/8): Queda livre e lançamento vertical pra cim
 url: https://www.youtube.com/watch?v=smQ5Pips8ZE
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Vasco explica queda livre e lançamento vertical pra cima — parte do módulo de cinemática.
 

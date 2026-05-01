@@ -4,7 +4,7 @@ title: '✳️ Análise Combinatória (1/4): Princípio Multiplicativo - Matemá
 url: https://www.youtube.com/watch?v=drjFOphFGxY
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula sobre Análise Combinatória, o professor Gui vai falar sobre o Princípio Multiplicativo, explicando o que são números fatoriais, eventos e etapas.
 

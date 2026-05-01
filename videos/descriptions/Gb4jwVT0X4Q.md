@@ -4,7 +4,7 @@ title: "\U0001F4CC Regionalização (1/2) - Geografia - ENEM"
 url: https://www.youtube.com/watch?v=Gb4jwVT0X4Q
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Giba explica regionalização.
 

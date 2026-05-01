@@ -5,7 +5,7 @@ title: "\U0001F468‍\U0001F52C Compostos Orgânicos (1/9): Características Ger
 url: https://www.youtube.com/watch?v=dHzztTEpZZM
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Camacho explica características gerais — parte do módulo de compostos orgânicos.
 

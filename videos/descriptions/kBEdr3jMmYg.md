@@ -4,7 +4,7 @@ title: "\U0001F52C Citologia (4/7): Divisão Celular - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=kBEdr3jMmYg
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Quais são os tipos de divisão celular?
 Quais as principais fases da divisão celular?

@@ -4,7 +4,7 @@ title: "\U0001F52C O que é ciência? - Filosofia - ENEM"
 url: https://www.youtube.com/watch?v=5ZLUz0at42E
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Nesta videoaula, o professor Betover fala sobre o que é a ciência, seu conceito e sua origem.
 

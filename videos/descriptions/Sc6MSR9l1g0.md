@@ -5,7 +5,7 @@ title: "\U0001F468‍\U0001F3A8 Arte no Brasil (2/4): Arte contemporânea no Bra
 url: https://www.youtube.com/watch?v=Sc6MSR9l1g0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. JowJow explica arte contemporânea no Brasil — parte do módulo de arte no Brasil.
 

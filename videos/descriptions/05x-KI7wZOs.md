@@ -4,7 +4,7 @@ title: "\U0001F922 Nazifascismo - História - ENEM"
 url: https://www.youtube.com/watch?v=05x-KI7wZOs
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nazifascismo é um termo de conjunção entre o fascismo italiano, doutrina totalitária desenvolvida por Benito Mussolini a partir de 1919 e o nazismo alemão, sob regime de Adolf Hitler e do Partido Nacional Socialista Alemão dos Trabalhadores.
 

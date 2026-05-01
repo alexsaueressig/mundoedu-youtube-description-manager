@@ -4,7 +4,7 @@ title: Pergunte! - Quais os motivos para o surgimento de grupos terroristas?
 url: https://www.youtube.com/watch?v=3PhP7v1KafU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Giba responde: quais os motivos para o surgimento de grupos terroristas?
 

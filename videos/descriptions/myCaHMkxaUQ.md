@@ -4,7 +4,7 @@ title: "\U0001F4A7 Disponibilidade de Água - Mundo Geografia - ENEM"
 url: https://www.youtube.com/watch?v=myCaHMkxaUQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Aeee!! Saiu a videoaula nova sobre a disponibilidade de água!! 
 

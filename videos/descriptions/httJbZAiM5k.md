@@ -4,7 +4,7 @@ title: Pergunte! - O que foi o Corredor Polonês?
 url: https://www.youtube.com/watch?v=httJbZAiM5k
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Bussunda responde: O que foi o Corredor Polonês?
 

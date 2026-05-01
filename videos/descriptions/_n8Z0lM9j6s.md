@@ -4,7 +4,7 @@ title: '✍️ Redação ENEM (4/4): Como fazer a conclusão?'
 url: https://www.youtube.com/watch?v=_n8Z0lM9j6s
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Aprenda a concluir sua redação para o ENEM com a professora Dani Bressan. Rumo #TopoDoENEM!
 

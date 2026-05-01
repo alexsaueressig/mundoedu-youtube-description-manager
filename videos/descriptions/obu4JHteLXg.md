@@ -4,7 +4,7 @@ title: Pergunte! - Do que depende o brilho de uma lâmpada?
 url: https://www.youtube.com/watch?v=obu4JHteLXg
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Vasco responde: do que depende o brilho de uma lâmpada?
 

@@ -4,7 +4,7 @@ title: '⚡ Energia (1/2): Energia, Trabalho e Potência - Física - ENEM'
 url: https://www.youtube.com/watch?v=Hdj0Iyr0NVg
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Vasco explica energia, trabalho e potência — parte do módulo de energia.
 

@@ -4,7 +4,7 @@ title: "\U0001F682 Termodinâmica (1/2) - Física - ENEM"
 url: https://www.youtube.com/watch?v=ozV_wm_BytU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Saaalve, salve, queridões do MundoEdu!
 Hoje vamos falar sobre uma assunto que certamente vai estar na tua prova do ENEM: os sistemas termodinâmicos.

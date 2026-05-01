@@ -4,7 +4,7 @@ title: "\U0001F64B Sociologia no Brasil - Sociologia - ENEM"
 url: https://www.youtube.com/watch?v=WuMs1-YTKRw
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Videoaula sobre Sociologia no Brasil com o professor Betover
 

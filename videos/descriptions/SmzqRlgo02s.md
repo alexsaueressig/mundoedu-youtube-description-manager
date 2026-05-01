@@ -5,7 +5,7 @@ title: "\U0001F4AD️ Filosofia Moral (2/6): Qual a diferença entre Moral, Éti
 url: https://www.youtube.com/watch?v=SmzqRlgo02s
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 A palavra ÉTICA faz cada vez mais parte do vocabulário cotidiano de boa parte das pessoas. Vivemos uma crise ética na política, na economia, na igreja... Mas como objeto de discussão em si: o que é ética? A amplitude do conceito e de seu uso permite uma reflexão além da filosofia e do estudo da moral, da justiça (...)
 

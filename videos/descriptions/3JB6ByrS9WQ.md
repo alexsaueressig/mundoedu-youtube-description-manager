@@ -4,7 +4,7 @@ title: "\U0001F453 Ótica (2/3): Refração e lentes - Física - ENEM"
 url: https://www.youtube.com/watch?v=3JB6ByrS9WQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Vasco explica refração e lentes — parte do módulo de ótica.
 

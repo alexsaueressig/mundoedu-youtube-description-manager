@@ -4,7 +4,7 @@ title: 'Questão Resolvida #1 - Mundo Física - ENEM'
 url: https://www.youtube.com/watch?v=zRZe3QrJcr4
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Galera, nesse vídeo o prof. Vasco resolve a questão enviada pelo Levy Moraes no aulão de Leis de Newton.
 

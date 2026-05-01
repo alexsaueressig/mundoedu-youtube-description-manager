@@ -4,7 +4,7 @@ title: "\U0001F469‍⚕️ Fisiologia (7/8): Sistema Endócrino - Biologia - EN
 url: https://www.youtube.com/watch?v=bz4Gw69tmoo
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, explicamos sistema endócrino — parte do módulo de fisiologia.
 

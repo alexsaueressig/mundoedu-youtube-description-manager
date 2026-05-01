@@ -5,7 +5,7 @@ title: "\U0001F3DB️ Antiguidade Ocidental (4/4): Roma Antiga - Crise da Repúb
 url: https://www.youtube.com/watch?v=gAW8pEzfpOQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 🏛️  AULA ANTERIOR SOBRE ROMA: Roma Antiga - Monarquia e República
 https://mundoedu.com.br/videoaula/107

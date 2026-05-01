@@ -4,7 +4,7 @@ title: 'Pontuação: período composto - Gramática - Mundo Português - ENEM'
 url: https://www.youtube.com/watch?v=UOBaRlUX6Tk
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, a prof. Dani explica os tipos e formas de pontuação dos períodos compostos (aqueles com duas ou mais orações).
 

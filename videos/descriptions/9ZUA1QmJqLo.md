@@ -4,7 +4,7 @@ title: "\U0001F451 Brasil Império (5/5): 2º Reinado (Parte 2) - História - EN
 url: https://www.youtube.com/watch?v=9ZUA1QmJqLo
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Bussunda explica 2º reinado (parte 2) — parte do módulo de Brasil império.
 

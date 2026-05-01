@@ -4,7 +4,7 @@ title: "\U0001F4C8 Função exponencial (1/2): Equação Exponencial - Matemáti
 url: https://www.youtube.com/watch?v=H4R0IhCueMA
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Gui Valenzuela explica equação exponencial — parte do módulo de função exponencial.
 

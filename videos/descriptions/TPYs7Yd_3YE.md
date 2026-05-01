@@ -4,7 +4,7 @@ title: ✨ REVISÃO MÁGICA ENEM ✨ Constituições do Brasil - História - ENE
 url: https://www.youtube.com/watch?v=TPYs7Yd_3YE
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Índice deste vídeo:
 

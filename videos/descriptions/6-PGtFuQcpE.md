@@ -4,7 +4,7 @@ title: "\U0001F355 Arte clássica (2/6): Alta Renascença - Mundo Artes - ENEM"
 url: https://www.youtube.com/watch?v=6-PGtFuQcpE
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. JowJow explica alta renascença — parte do módulo de arte clássica.
 

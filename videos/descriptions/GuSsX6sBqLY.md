@@ -4,7 +4,7 @@ title: África e Primavera Árabe - Mundo Atualidades - ENEM
 url: https://www.youtube.com/watch?v=GuSsX6sBqLY
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Criatuuura do MundoEdu, mais um videoaula para você detonar no #ENEM. E o assunto é importante: a #PrimaveraÁrabe e outras questões importantes sobre o continente africano.
 

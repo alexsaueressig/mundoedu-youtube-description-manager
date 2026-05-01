@@ -4,7 +4,7 @@ title: "\U0001F469‍⚕️ Fisiologia (1/8): Sistema Nervoso - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=F5C0AjqRcfI
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, explicamos sistema nervoso — parte do módulo de fisiologia.
 

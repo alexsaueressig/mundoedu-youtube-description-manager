@@ -4,7 +4,7 @@ title: 'Acentuação: regras especiais - Gramática - Mundo Português - ENEM'
 url: https://www.youtube.com/watch?v=wXjvN9KMbOM
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, a prof. Dani continua explicando as regras de acentuação, desta vez as regras especiais: regra do hiato, regra do ditongo+hiato e regra do ditongo aberto.
 

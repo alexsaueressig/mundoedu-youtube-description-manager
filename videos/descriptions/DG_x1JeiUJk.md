@@ -4,7 +4,7 @@ title: "\U0001F4AD️ Filosofia Moral (4/6): Ética Helênica e Moral Cristã - 
 url: https://www.youtube.com/watch?v=DG_x1JeiUJk
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 A ética no Helenismo, Escolas Helênicas, a moral e a ética cristã
 

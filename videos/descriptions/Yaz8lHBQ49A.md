@@ -5,7 +5,7 @@ title: Pergunte! - Como se deu o projeto de branqueamento da população brasile
 url: https://www.youtube.com/watch?v=Yaz8lHBQ49A
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Bussunda responde: como se deu o projeto de branqueamento da população brasileira no Séc. 19?
 

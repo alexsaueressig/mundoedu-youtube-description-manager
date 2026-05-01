@@ -4,7 +4,7 @@ title: Pergunte! - Devo colocar numerais por extenso na redação?
 url: https://www.youtube.com/watch?v=w-Nck908ThU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Profª Dani responde: devo colocar numerais por extenso na redação?
 

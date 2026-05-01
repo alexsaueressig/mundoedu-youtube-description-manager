@@ -4,7 +4,7 @@ title: "\U0001F5FD A Era das Revoluções (4/7): Revolução Americana - Histór
 url: https://www.youtube.com/watch?v=fNo-avZTuOw
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 O que foi a Revolução Americana? 
 👉 O que aconteceu na Revolução Americana?

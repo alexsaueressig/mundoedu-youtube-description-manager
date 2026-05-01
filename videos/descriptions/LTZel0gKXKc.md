@@ -4,7 +4,7 @@ title: '⚔️ Mundo Medieval (2/4): Arábia e Islamismo - História - ENEM'
 url: https://www.youtube.com/watch?v=LTZel0gKXKc
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Bussunda explica arábia e islamismo — parte do módulo de mundo medieval.
 

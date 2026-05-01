@@ -4,7 +4,7 @@ title: "\U0001F4D0Trigonometria (3/3): Exercícios resolvidos - Matemática - EN
 url: https://www.youtube.com/watch?v=m1iHGLOqFuU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Gui Valenzuela resolve exercícios de trigonometria.
 

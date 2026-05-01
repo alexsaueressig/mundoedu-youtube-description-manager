@@ -4,7 +4,7 @@ title: "\U0001F40D Zoologia (2/6): Nematódeos e Anelídeos - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=iZDinscoSJg
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 🐍 ZOOLOGIA
 

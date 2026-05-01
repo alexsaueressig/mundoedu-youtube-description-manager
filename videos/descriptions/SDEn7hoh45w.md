@@ -4,7 +4,7 @@ title: Pergunte! - El Niño e La Niña podem se agravar com o efeito estufa?
 url: https://www.youtube.com/watch?v=SDEn7hoh45w
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Giba responde: el Niño e La Niña podem se agravar com o efeito estufa?
 

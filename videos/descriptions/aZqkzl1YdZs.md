@@ -4,7 +4,7 @@ title: "\U0001F3ED A Era das Revoluções (2/7): Revolução Industrial - Histó
 url: https://www.youtube.com/watch?v=aZqkzl1YdZs
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Bussunda explica revolução industrial — parte do módulo de a era das revoluções.
 

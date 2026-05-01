@@ -4,7 +4,7 @@ title: "\U0001F4AD Liberalismo x Marxismo - Filosofia - ENEM"
 url: https://www.youtube.com/watch?v=02zory6XQWI
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Liberalismo x Marxismo
 

@@ -4,7 +4,7 @@ title: "\U0001F468‍\U0001F52C Propriedades Coligativas - Química - ENEM"
 url: https://www.youtube.com/watch?v=FNulB1nPXkQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o prof. Camacho explica propriedades coligativas.
 

@@ -4,7 +4,7 @@ title: "\U0001F48E Geometria espacial (1/3): Prismas regulares - Matemática - E
 url: https://www.youtube.com/watch?v=7odGB45ZMRw
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o professor Gui fala sobre um dos assuntos mais importantes e recorrentes na prova do ENEM: Geometria Espacial e os cálculos de área e volume dos principais prismas regulares.
 

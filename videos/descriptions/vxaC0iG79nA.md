@@ -5,7 +5,7 @@ title: "\U0001F522 Sequências Numéricas (1/2): Progressão Aritmética (PA) - 
 url: https://www.youtube.com/watch?v=vxaC0iG79nA
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 ❓ O que é uma progressão aritmética?
 ❓ Como fazer a PA?

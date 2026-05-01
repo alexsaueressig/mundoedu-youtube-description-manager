@@ -4,7 +4,7 @@ title: "\U0001F30C Dinâmica (1/5): Leis de Newton - Física - ENEM"
 url: https://www.youtube.com/watch?v=ZtwPh3yGkO0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 03:48 - 1ª Primeira Lei de Newton (Lei da Inércia): 
 👉 05:01 - 2ª Segunda Lei de Newton (Princípio Fundamental)

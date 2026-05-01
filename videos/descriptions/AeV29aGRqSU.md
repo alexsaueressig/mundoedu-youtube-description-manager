@@ -4,7 +4,7 @@ title: "\U0001F468‍\U0001F52C Tabela Periódica e propriedades - Química - EN
 url: https://www.youtube.com/watch?v=AeV29aGRqSU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o professor Camacho vai falar da famooosa tabela periódica: história, estrutura, organização, simbologia e propriedades (periódicas e aperiódicas).
 

@@ -4,7 +4,7 @@ title: "\U0001F30D Cultura e Globalização - Sociologia - ENEM"
 url: https://www.youtube.com/watch?v=Zyu5meh6sIw
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Qual a relação entre globalização e cultura?
 👉 O que é a globalização cultural?

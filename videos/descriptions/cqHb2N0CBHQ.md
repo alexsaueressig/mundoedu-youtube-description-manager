@@ -4,7 +4,7 @@ title: '⚖️ Equilíbrio Químico (2/4): Princípio de Le Chatelier - Química
 url: https://www.youtube.com/watch?v=cqHb2N0CBHQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Camacho explica princípio de le chatelier — parte do módulo de equilíbrio químico.
 

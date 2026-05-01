@@ -5,7 +5,7 @@ title: "\U0001F48E Geometria espacial (2/3): Cilindro circular reto - Matemátic
 url: https://www.youtube.com/watch?v=9zvDJVwBs3U
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Gui Valenzuela explica cilindro circular reto — parte do módulo de geometria espacial.
 

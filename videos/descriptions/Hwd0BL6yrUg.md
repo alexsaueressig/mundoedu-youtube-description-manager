@@ -5,7 +5,7 @@ title: "\U0001F46E‍♂️ Ditadura Militar no Brasil (Parte 1) - Antecedentes 
 url: https://www.youtube.com/watch?v=Hwd0BL6yrUg
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Parte 1 - Antecedentes do Golpe de 64 - https://mundoedu.com.br/videoaula/38
 👉 Parte 2 - Características do Regime Militar - https://mundoedu.com.br/videoaula/39

@@ -4,7 +4,7 @@ title: "\U0001F33F Botânica (5/5): Fungos - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=9ufZWn8MKik
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 🍄 O que é um fungo? 
 🍄 Quais as doenças causadas por fungos?

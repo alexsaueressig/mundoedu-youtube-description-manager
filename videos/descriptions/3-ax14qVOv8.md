@@ -4,7 +4,7 @@ title: ENEM, ENEM, ENEM... HUMOR, HUMOR, HUMOR... No MundoEdu é assim!
 url: https://www.youtube.com/watch?v=3-ax14qVOv8
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Somos um cursinho pré-ENEM diferente. Nosso lema é "mais educação, menos tédio", porque acreditamos que um aprendizado leve e fora dos padrões formais da sala de aula traz resultados mais rápidos e expressivos.
 

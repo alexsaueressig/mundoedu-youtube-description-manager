@@ -4,7 +4,7 @@ title: "\U0001F5E1️ Revoltas da República Velha (Resumo) - História - ENEM"
 url: https://www.youtube.com/watch?v=AJRPQCzAv_4
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Vídeo-aula sobre a República Velha, que se estendeu da Proclamação da República, em 15 de novembro de 1889, até a Revolução de 1930, que depôs o 13º e último presidente da República Velha, Washington Luís.
 

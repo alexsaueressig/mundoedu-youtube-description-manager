@@ -4,7 +4,7 @@ title: "\U0001F9EE MMC e MDC (1/2) - Matemática - ENEM"
 url: https://www.youtube.com/watch?v=d0V9tf5xUQs
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Múltiplos, divisores, mínimo múltiplo comum (MMC), máximo divisor comum (MDC), números primos, exercícios resolvidos...
 

@@ -4,7 +4,7 @@ title: REVISÃO MÁGICA ✨ Redação ENEM ✨ Prof. Dani Bressan
 url: https://www.youtube.com/watch?v=fm7WTAig-rY
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 REVISÃO MÁGICA de Redação ENEM com a prof. Dani Bressan, revisando estrutura, argumentos e pontos importantes para a escrita da redação.
 

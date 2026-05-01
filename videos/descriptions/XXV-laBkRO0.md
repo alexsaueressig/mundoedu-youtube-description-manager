@@ -4,7 +4,7 @@ title: ENEM - (des)Motivacional Mundo História
 url: https://www.youtube.com/watch?v=XXV-laBkRO0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Mensagem motivacional (#sqn) do prof. Bussunda pra quem vai fazer o ENEM... The zuera never ends! :P
 

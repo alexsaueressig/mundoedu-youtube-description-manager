@@ -4,7 +4,7 @@ title: "\U0001F9EC Bioquímica (4/5): Proteínas - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=IAWNA8pXC24
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 🧬 BIOQUÍMICA
 

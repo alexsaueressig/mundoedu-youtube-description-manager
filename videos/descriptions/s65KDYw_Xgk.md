@@ -5,7 +5,7 @@ title: "\U0001F468‍\U0001F3A8 Arte no Brasil (1/4): ARTE MODERNA NO BRASIL - M
 url: https://www.youtube.com/watch?v=s65KDYw_Xgk
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. JowJow explica ARTE moderna NO BRASIL — parte do módulo de arte no Brasil.
 

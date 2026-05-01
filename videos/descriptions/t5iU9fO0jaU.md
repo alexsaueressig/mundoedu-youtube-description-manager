@@ -4,7 +4,7 @@ title: "\U0001F4AD Augusto Comte e Émile Durkheim - Sociologia - ENEM"
 url: https://www.youtube.com/watch?v=t5iU9fO0jaU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Como surgiu a sociologia? 
 👉O que é positivismo? 

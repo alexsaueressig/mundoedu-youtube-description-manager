@@ -5,7 +5,7 @@ title: "\U0001F4AD Teoria do Conhecimento (5/8): Teoria das Causas (Aristóteles
 url: https://www.youtube.com/watch?v=P96Rb8qU5tQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Em que acreditava Aristóteles? 
 👉 Em que consiste a teoria do conhecimento de Aristóteles? 

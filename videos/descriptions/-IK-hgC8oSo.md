@@ -4,7 +4,7 @@ title: "\U0001F9EC Bioquímica (1/5): Organização dos Seres Vivos - Biologia -
 url: https://www.youtube.com/watch?v=-IK-hgC8oSo
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 🧬 BIOQUÍMICA
 

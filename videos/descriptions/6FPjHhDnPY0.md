@@ -4,7 +4,7 @@ title: ENEM - Comentários sobre a prova de linguagem
 url: https://www.youtube.com/watch?v=6FPjHhDnPY0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof Dani comenta a prova de redação, literatura e língua portuguesa do Enem, destacando temas cobrados, interpretação e o que mais chamou atenção na prova.
 

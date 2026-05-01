@@ -5,7 +5,7 @@ title: "\U0001F680 Mecânica Impulsiva (2/2): Lei da conservação da quantidade
 url: https://www.youtube.com/watch?v=lX_WQyjbLwg
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Vasco explica lei da conservação da quantidade de movimento — parte do módulo de mecânica impulsiva.
 

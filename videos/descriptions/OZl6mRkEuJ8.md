@@ -5,7 +5,7 @@ title: "\U0001F469‍\U0001F469‍\U0001F467‍\U0001F466 Sociologia: Conceitos 
 url: https://www.youtube.com/watch?v=OZl6mRkEuJ8
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Quais os conceitos fundamentais da sociologia?
 👉 O que é sociedade? 

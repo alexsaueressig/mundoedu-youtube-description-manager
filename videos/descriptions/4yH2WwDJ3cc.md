@@ -4,7 +4,7 @@ title: Proposta de redação ENEM - Doação de sangue no Brasil
 url: https://www.youtube.com/watch?v=4yH2WwDJ3cc
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta proposta de redação ENEM, a prof. Dani Bressan aborda a doação de sangue no Brasil e os desafios para ampliar a conscientização, a participação e a solidariedade.
 

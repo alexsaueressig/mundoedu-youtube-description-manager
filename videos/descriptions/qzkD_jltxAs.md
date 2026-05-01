@@ -4,7 +4,7 @@ title: "\U0001F52C Citologia (5/7): Respiração Celular - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=qzkD_jltxAs
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Em que consiste o processo de respiração celular?
 O que é a respiração anaeróbica?

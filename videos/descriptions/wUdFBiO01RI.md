@@ -4,7 +4,7 @@ title: Pergunte! - Estudar gramática para o ENEM é perda de tempo?
 url: https://www.youtube.com/watch?v=wUdFBiO01RI
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Profª Dani responde: estudar gramática para o ENEM é perda de tempo?
 

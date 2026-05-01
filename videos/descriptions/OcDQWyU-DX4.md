@@ -4,7 +4,7 @@ title: "\U0001F6F6 Pré-história (3/3): Homem na América - História - ENEM"
 url: https://www.youtube.com/watch?v=OcDQWyU-DX4
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Bussunda explica homem na América — parte do módulo de pré-história.
 

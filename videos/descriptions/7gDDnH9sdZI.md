@@ -4,7 +4,7 @@ title: "\U0001F4E2 Figuras de Linguagem - Literatura - ENEM"
 url: https://www.youtube.com/watch?v=7gDDnH9sdZI
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 EXEMPLOS DE FIGURAS DE LINGUAGEM:
 

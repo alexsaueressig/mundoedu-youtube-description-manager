@@ -4,7 +4,7 @@ title: "\U0001F451 Brasil Império (2/5): 1º Reinado - História - ENEM"
 url: https://www.youtube.com/watch?v=GESPsB7cQnk
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Bussunda explica 1º reinado — parte do módulo de Brasil império.
 

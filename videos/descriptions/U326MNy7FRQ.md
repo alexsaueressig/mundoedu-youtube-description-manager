@@ -4,7 +4,7 @@ title: Cinemática - Resumão ENEM - Mundo Física
 url: https://www.youtube.com/watch?v=U326MNy7FRQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Resumão de Cinemática para o ENEM, com conceitos de movimento, velocidade, aceleração e leitura de gráficos.
 

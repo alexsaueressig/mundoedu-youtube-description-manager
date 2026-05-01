@@ -4,7 +4,7 @@ title: "\U0001F4AD️ Filosofia Moral (3/6): Moral Grega - ENEM"
 url: https://www.youtube.com/watch?v=DyE1uVdwOWw
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 O homem grego, seus valores, pensadores como Sócrates, Platão e Aristóteles.
 

@@ -4,7 +4,7 @@ title: "\U0001F453 Ótica (1/3): Reflexão e espelhos - Física - ENEM"
 url: https://www.youtube.com/watch?v=KIEI4f28zyM
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Vasco explica reflexão e espelhos — parte do módulo de ótica.
 

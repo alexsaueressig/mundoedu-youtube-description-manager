@@ -5,7 +5,7 @@ title: "\U0001F4B9 Função quadrática (1/4): Lei da função, gráficos e raí
 url: https://www.youtube.com/watch?v=5u5hoG4jt5w
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Já ouviu falar da fórmula de Bhaskara, né? 🤓 x = – b ± √Δ / 2a
 Então se liga que nesta videoaula, o professor Gui vai explicar a lei, os gráficos e os zeros da função quadrática e quando a gente vai usar a tal fórmula de Bhaskara.

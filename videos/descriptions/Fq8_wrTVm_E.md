@@ -4,7 +4,7 @@ title: "\U0001F30D Litosfera (1/9): Tempo Geológico - Geografia - ENEM"
 url: https://www.youtube.com/watch?v=Fq8_wrTVm_E
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Giba explica tempo geológico — parte do módulo de litosfera.
 

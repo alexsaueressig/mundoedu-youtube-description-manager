@@ -4,7 +4,7 @@ title: "\U0001F355 Arte clássica (1/6): Renascença - Mundo Artes - ENEM"
 url: https://www.youtube.com/watch?v=kZQxsayfiuc
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Aula muito louca o prof. JowJow sobre o Renascimento!
 

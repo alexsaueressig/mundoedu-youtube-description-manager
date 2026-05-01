@@ -4,7 +4,7 @@ title: "\U0001F468\U0001F3FC‍\U0001F3A8 Renascimento - História - ENEM"
 url: https://www.youtube.com/watch?v=Tn12v8Q-HeE
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o prof. Bussunda explica renascimento.
 

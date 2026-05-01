@@ -4,7 +4,7 @@ title: "\U0001F4AD️ Filosofia Moral (6/6): Ética Contemporânea - ENEM"
 url: https://www.youtube.com/watch?v=98cdP-cYOho
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Filósofos principais: Nietzsche, Sartre, Habermas, Peter Singer (...)
 

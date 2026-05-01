@@ -5,7 +5,7 @@ title: "\U0001F4AD️ Filosofia Moral (5/6): Kant: Ética Deontológica e Conseq
 url: https://www.youtube.com/watch?v=1vE0UXWVo5E
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 A modernidade é o período de maior crescimento intelectual da história. Um período movido pela força de renascimento cultural e o iluminismo intelectual consegue resgatar da era cristã um homem autônomo e forte. A negação do cristianismo e do passado é uma marca presente dos intelectuais modernos. O questionamento central proposto na modernidade era sobre a origem do valor moral. Teorias deontológicas e consequencialistas divergiam nas respostas (...)
 

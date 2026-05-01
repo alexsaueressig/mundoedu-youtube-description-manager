@@ -4,7 +4,7 @@ title: "\U0001F469‍⚕️ Fisiologia (6/8): Sistema Imune - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=C8-ZgppoDqU
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, explicamos sistema imune — parte do módulo de fisiologia.
 

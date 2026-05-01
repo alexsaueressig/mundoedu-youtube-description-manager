@@ -5,7 +5,7 @@ title: "\U0001F697 Cinemática (7/8): O que é MCU? - Movimento Circular Uniform
 url: https://www.youtube.com/watch?v=kKEBKjKKP4Y
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Vasco explica o que é MCU? - movimento circular uniforme — parte do módulo de cinemática.
 

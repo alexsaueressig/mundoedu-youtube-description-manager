@@ -4,7 +4,7 @@ title: "\U0001F9EC Genética (2/8): Cruzamento Teste - Biologia - ENEM"
 url: https://www.youtube.com/watch?v=irip5APBJj0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, explicamos cruzamento teste — parte do módulo de genética.
 

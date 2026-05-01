@@ -4,7 +4,7 @@ title: "\U0001F697 Cinemática (6/8): Lançamento horizontal e oblíquo - Físic
 url: https://www.youtube.com/watch?v=EV_xjL4a8uY
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Um movimento oblíquo é um movimento parte vertical e parte horizontal... É mais fácil do que você imagina!
 

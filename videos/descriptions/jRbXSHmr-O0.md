@@ -4,7 +4,7 @@ title: Pergunte! - O que são dobramentos modernos e dobramentos antigos?
 url: https://www.youtube.com/watch?v=jRbXSHmr-O0
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Giba responde: O que são dobramentos modernos e dobramentos antigos?
 

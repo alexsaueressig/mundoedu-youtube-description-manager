@@ -4,7 +4,7 @@ title: "\U0001F468‍\U0001F52C Reações Químicas - Química - ENEM"
 url: https://www.youtube.com/watch?v=Rmdi3p6-bEc
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o professor Camacho vai explicar como reações químicas como síntese, decomposição, simples troca e dupla troca.
 

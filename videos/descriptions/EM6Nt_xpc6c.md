@@ -4,7 +4,7 @@ title: Pergunte! - Quais inovações ocorreram após 1ª Guerra Mundial?
 url: https://www.youtube.com/watch?v=EM6Nt_xpc6c
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Bussunda responde: quais inovações ocorreram após 1ª Guerra Mundial?
 

@@ -4,7 +4,7 @@ title: '⚡ Energia (2/2): Energia Mecânica (Cinética e Potencial) - Física -
 url: https://www.youtube.com/watch?v=LhevlGbUzIg
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉 Nesta videoaula, o professor Vasco aborda:
 1) Energia Cinética 

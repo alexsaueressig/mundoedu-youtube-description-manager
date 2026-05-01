@@ -4,7 +4,7 @@ title: "\U0001F4E1 Oscilações (2/4): Ondas (ondulatória) - Física - ENEM"
 url: https://www.youtube.com/watch?v=OIdPQDsetDk
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 👉🌊 Conceito, classificação, características, elementos e exemplos do cotidiano. Tudo sobre ondas!
 

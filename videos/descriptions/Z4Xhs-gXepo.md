@@ -4,7 +4,7 @@ title: "\U0001F468‍\U0001F52C Cinética Química: Lei da velocidade - Química
 url: https://www.youtube.com/watch?v=Z4Xhs-gXepo
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta videoaula, o prof. Camacho explica cinética química: lei da velocidade.
 

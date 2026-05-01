@@ -4,7 +4,7 @@ title: Pergunte! - Qual é a origem do anarquismo? Como ele se diferencia do com
 url: https://www.youtube.com/watch?v=n9onyP63NH4
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Bussunda responde: qual é a origem do anarquismo? Como ele se diferencia do comunismo?
 

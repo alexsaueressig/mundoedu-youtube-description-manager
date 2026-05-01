@@ -5,7 +5,7 @@ title: '⚔️ Mundo Medieval (4/4): Feudalismo - Baixa Idade Média Feudal - Hi
 url: https://www.youtube.com/watch?v=MtBZfxu6cOQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Bussunda explica feudalismo - baixa idade média feudal — parte do módulo de mundo medieval.
 

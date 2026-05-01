@@ -4,7 +4,7 @@ title: Pergunte! - Napoleão pode ser considerado um herói para o França?
 url: https://www.youtube.com/watch?v=v3UdpB9B-D4
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof. Bussunda responde: napoleão pode ser considerado um herói para o França?
 

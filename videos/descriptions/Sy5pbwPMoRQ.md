@@ -4,7 +4,7 @@ title: Conheça o Mundo Física - ENEM
 url: https://www.youtube.com/watch?v=Sy5pbwPMoRQ
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Detone no ENEM e vestibular com o Prof. Vasco!
 

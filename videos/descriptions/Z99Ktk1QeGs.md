@@ -4,7 +4,7 @@ title: "\U0001F53A Primeiros Estados (1/5): Egito - História - ENEM"
 url: https://www.youtube.com/watch?v=Z99Ktk1QeGs
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, o prof. Bussunda explica egito — parte do módulo de primeiros estados.
 

@@ -5,7 +5,7 @@ title: "\U0001F9EC Genética (4/8): Polialelia, 2ª Segunda Lei de Mendel e Epis
 url: https://www.youtube.com/watch?v=nla4aJjSZ78
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Nesta aula, explicamos polialelia, 2ª segunda lei de Mendel e epistasia — parte do módulo de genética.
 

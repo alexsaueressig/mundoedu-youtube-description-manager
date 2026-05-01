@@ -4,7 +4,7 @@ title: ENEM - Comentários sobre a prova de História
 url: https://www.youtube.com/watch?v=xSJcd7rlr3Q
 ---
 
-*MundoEdu: O melhor cursinho online agora é 100% gratuito!*
+"Rumo ao MEIO MILHÃO! 🚀 Faltam só 20 mil inscritos para batermos essa meta histórica. Fortalece no like e vamos juntos! #ENEM2026"
 
 Prof Bussunda comenta a prova de História do ENEM, destacando temas, contexto histórico e leitura da prova.
 
