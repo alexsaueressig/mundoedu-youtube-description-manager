@@ -13,4 +13,8 @@ Nesta aula, o prof. Bussunda explica egito — parte do módulo de primeiros est
 
 Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+
+📚 LEITURA RECOMENDADA:
+📖 O Grande Livro de História do Manual do Mundo — visual, completo e perfeito pra gabaritar História no ENEM! 🎯 https://amzn.to/4eVqLCI
+
 #ENEM #História #PrimeirosEstados #Egito

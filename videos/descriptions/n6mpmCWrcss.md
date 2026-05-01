@@ -17,4 +17,8 @@ url: https://www.youtube.com/watch?v=n6mpmCWrcss
 
 Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+
+📚 LEITURA RECOMENDADA:
+🧬 O Grande Livro de Biologia do Manual do Mundo — ilustrações incríveis pra te ajudar a dominar a matéria! https://amzn.to/4t9eEWa
+
 #ENEM #Química #Biologia #Bioquímica #CarboidratosLipídios

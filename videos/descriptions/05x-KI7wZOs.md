@@ -10,4 +10,8 @@ Nazifascismo é um termo de conjunção entre o fascismo italiano, doutrina tota
 
 Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+
+📚 LEITURA RECOMENDADA:
+📖 O Grande Livro de História do Manual do Mundo — visual, completo e perfeito pra gabaritar História no ENEM! 🎯 https://amzn.to/4eVqLCI
+
 #ENEM #História #Nazifascismo

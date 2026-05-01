@@ -10,4 +10,8 @@ Quer aprender a resolver na prática os problemas de porcentagem que costumam ca
 
 Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+
+📚 LEITURA RECOMENDADA:
+📐 O Grande Livro de Matemática do Manual do Mundo — explica tudo de forma visual e descomplicada! https://amzn.to/4cJ6cYS
+
 #ENEM #Matemática #Porcentagem #ExercíciosResolvidos

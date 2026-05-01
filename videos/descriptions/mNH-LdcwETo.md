@@ -14,4 +14,8 @@ Nesta videoaula, o prof. Camacho explica eletroquímica: cálculo do potencial (
 
 Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+
+📚 LEITURA RECOMENDADA:
+🧪 O Grande Livro de Química do Manual do Mundo — ideal pra entender Química de verdade e arrasar no ENEM! https://amzn.to/3P03ghj
+
 #ENEM #Química #TransformaçõesQuímicasEnergia

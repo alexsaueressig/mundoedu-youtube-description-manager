@@ -20,4 +20,8 @@ Nesta aula, explicamos gimnospermas e angiospermas — parte do módulo de botâ
 
 Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+
+📚 LEITURA RECOMENDADA:
+🧬 O Grande Livro de Biologia do Manual do Mundo — ilustrações incríveis pra te ajudar a dominar a matéria! https://amzn.to/4t9eEWa
+
 #ENEM #Biologia #Botanica #Botânica #GimnospermasAngiospermas

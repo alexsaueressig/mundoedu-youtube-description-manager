@@ -13,4 +13,8 @@ Nesta aula, o prof. Camacho explica princípio de le chatelier — parte do mód
 
 Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+
+📚 LEITURA RECOMENDADA:
+🧪 O Grande Livro de Química do Manual do Mundo — ideal pra entender Química de verdade e arrasar no ENEM! https://amzn.to/3P03ghj
+
 #ENEM #Química #EquilíbrioQuímico #PrincípioLeChatelier

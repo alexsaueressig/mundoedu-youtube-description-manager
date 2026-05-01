@@ -10,4 +10,8 @@ Porcentagem é um assunto muito frequente na prova do ENEM. Nesta videoaula, o p
 
 Bora estudar de graça? 🚀
 ✨ Plano de Estudos: https://mundoedu.com.br/plano-de-estudos
+
+📚 LEITURA RECOMENDADA:
+📐 O Grande Livro de Matemática do Manual do Mundo — explica tudo de forma visual e descomplicada! https://amzn.to/4cJ6cYS
+
 #ENEM #Matemática #Porcentagem
